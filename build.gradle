@@ -1,0 +1,87 @@
+buildscript {
+	ext {
+		kotlinVersion = '1.3.11'
+		springBootVersion = '2.1.0.RELEASE'
+	}
+	repositories {
+		maven { url "http://maven.aliyun.com/nexus/content/groups/public/" }
+		maven { url "https://repo.spring.io/milestone" }
+		mavenCentral()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
+	}
+}
+
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceSets {
+    main {
+        java.srcDir('src/main/java')
+		resources.srcDir('src/main/resources')
+		java.outputDir = file('build/bin')
+		output.resourcesDir = file('build/bin')
+    }
+}
+
+compileJava {
+	sourceCompatibility = 1.8
+	targetCompatibility = 1.8
+}
+
+repositories {
+	maven { url "http://maven.aliyun.com/nexus/content/groups/public/" }
+	maven { url "https://repo.spring.io/milestone" }
+	mavenCentral()
+}
+
+dependencies {
+	testCompile(
+        'junit:junit:4.12'
+    )
+	compile("com.jcraft:jzlib:1.1.3")
+	compile("org.nlpcn:nlp-lang:1.7.6")
+	compile("com.google.code.gson:gson:2.8.5")
+	compile("commons-codec:commons-codec:1.11")
+	compile("org.apache.httpcomponents:httpcore:4.4.6")
+	compile("org.apache.httpcomponents:httpclient:4.5.3")
+	compile("org.apache.httpcomponents:httpclient-cache:4.5.3")
+	compile("org.apache.httpcomponents:httpmime:4.5.3")
+	compile("org.apache.httpcomponents:fluent-hc:4.5.3")
+}
+
+mainClassName = "name.yumao.ffxiv.chn.FFXIVPatchMain"
+
+jar {
+	manifest {
+		attributes(
+				'Main-Class': 'org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader',
+				'Class-Path': './ ' + configurations.compile.collect { it.getName() }.join(' '),
+				'Rsrc-Main-Class': mainClassName,
+		)
+	}
+	from {
+		// zip compile jar
+		configurations.compile.collect { it }
+		// zip extra compile jar
+//		configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+	}
+}
+
+task copyLibs(type: Copy) {
+	from configurations.compile
+	from 'lib'
+	into 'build/lib'
+}
+
+tasks.withType(GroovyCompile) {
+	groovyOptions.encoding = "MacRoman"
+}
+
+tasks.withType(JavaCompile) {
+	options.encoding = "UTF-8"
+}
