@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_000","是旅人呀……如你所見，<hex:02100103>這黑乎乎的洞裡沒什麼能讓你看得上的好東西。<hex:02100103>你是有什麼事嗎？"
+1,"TEXT_REGOTH3HUNDREDANDONE_00420_Q1_000_000","想了解什麼？"
+2,"TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_001","你是做什麼的？"
+3,"TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_003","取消"
+5,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_010","為了防止外面的人欺負維亞吉兒部之人天性質樸，<hex:02100103>收購礦石時狠狠壓價，<hex:02100103>族中最是好勝的我被安排過來負責與外界的交易工作。"
+6,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_011","我們的使命雖然是在這裡贖罪，但罪也是要有命才能贖。<hex:02100103>所以收集維持生命所需的物資，<hex:02100103>用與其等價的礦石進行交換也是非常重要的事情。"
+7,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_020","百一啟示……<hex:02100103>正如這個名字所示，在這裡可以獲得很多來自神明的啟示。"
+8,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_021","不過我們最初住到這裡的原因卻是為了贖罪……<hex:02100103>很久以前，取得了「那達慕」勝利的維亞吉兒部<hex:02100103>侵佔了所有的牲畜、土地、水源。"
+9,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_023","神明看到維亞吉兒部毫不顧忌其他部落死活的舉動後，<hex:02100103>派遣了巨大的甲蟲來到地上懲罰我的祖先們。"
+10,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_024","甲蟲爬過之處，水源乾涸，大地荒蕪，<hex:02100103>就連山巒都被洞穿。<hex:02100103>祖先看到大地上寸草不生的慘狀後，決定斬斷私慾隱居到洞穴中來。"
+11,"TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_025","然後沒過多少時間，我們部落成功贏回了神明的信賴，<hex:02100103>甚至有人在冥想時能夠得到神明的啟示了。"

@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_OPENINGULDAH_WYMOND_000_10","喂，你要上哪溜達呢。<hex:02100103>沒聽見我叫你過來嗎？"
+1,"TEXT_OPENINGULDAH_TUTUMOKO_000_10","喂，害怕得想回去了嗎？<hex:02100103>你眼前的樓梯上方就是流沙屋了。"
+2,"TEXT_OPENINGULDAH_BUBUKKULI_000_05","喂，你打算去哪裡呢？<hex:02100103>流沙屋不在那邊，趕快回來。"
+3,"TEXT_OPENINGULDAH_YUYUTAZI_000_10","慢著。隨意離去會給我添麻煩的。<hex:02100103>先去跟流沙屋的莫莫蒂女士談談吧。"
+4,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_20","現在將開始遊戲的基礎教學。"
+5,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_21","請先看操作說明，試試操作鏡頭以及移動角色。"
+6,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_22","熟悉操作後請移動到叫你的維蒙德那裡。"
+7,"TEXT_OPENINGULDAH_FST_SYSTEM_000_23","請選擇遊戲的操作模式。"
+8,"TEXT_OPENINGULDAH_FST_SYSTEM_Q_01","請選擇要使用的操作模式。"
+9,"TEXT_OPENINGULDAH_FST_SYSTEM_A_01","鍵盤滑鼠模式"
+10,"TEXT_OPENINGULDAH_FST_SYSTEM_A_02","<hex:020818E1E94C02FF0A>控制器<hex:FF07>手把<hex:03>模式"

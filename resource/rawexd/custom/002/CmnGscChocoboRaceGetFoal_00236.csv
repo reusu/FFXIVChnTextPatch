@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR","你是要領取新陸行鳥對嗎？<hex:02100103>請稍等，我翻翻記錄……"
+1,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01","如何，它很有精神吧？<hex:02100103>這是它的陸行鳥出賽登記書，請拿好！<hex:02100103>之後只要完成競賽陸行鳥的登記，就可以讓它在賽場上奔跑了！"
+2,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01","哎呀，你身上似乎沒有帶著<hex:02280BFF05>Item<hex:F225580103>呢。<hex:02100103>要不要重新確認一下？"
+3,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02","要領取新陸行鳥，<hex:02100103>需要以配種時獲得的<hex:02280BFF05>Item<hex:F225580103>交換。"
+4,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01","直到你的新陸行鳥長大到可以參賽為止，<hex:02100103>就由我來悉心照料它吧。<hex:02100103>請你不要著急，很快你就能見到它了。"
+5,"TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02","現在無法領取新陸行鳥，<hex:02100103>請在<hex:02280BFF05>Item<hex:F225580103>標示的時間過後再次領取。"

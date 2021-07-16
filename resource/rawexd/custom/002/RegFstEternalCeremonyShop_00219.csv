@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000","這裡出售可以讓典禮更加多姿多彩的特殊商品！<hex:02100103>只有在大聖堂舉行永結同心典禮的新人可以購買！"
+1,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001","此商店只對申請了「永結同心」服務的玩家開放。"
+2,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020","您是舉行了永結同心典禮的新人吧？<hex:02100103>感謝您的惠顧！"
+3,"TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021","這是「永結同心」的特設商店。<hex:02100103>在永結同心典禮的「誓約儀式」（交換戒指）結束之前都會開放購買。"

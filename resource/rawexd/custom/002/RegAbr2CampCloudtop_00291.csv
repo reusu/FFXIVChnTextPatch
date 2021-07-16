@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000","啊、好閒啊……咦，你有什麼事嗎？<hex:02100103>反正我也沒什麼事好做，可以陪陪你。"
+1,"TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000","想了解什麼？"
+2,"TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001","你是做什麼的？"
+3,"TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003","取消"
+5,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010","我是所屬艾因哈特家的薔薇騎兵團的騎兵。<hex:02100103>在這雲頂營地執行監視龍族的任務。"
+6,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011","話雖如此，阿巴拉提亞雲海也不會出現龍族，<hex:02100103>我的工作基本上就是獃獃地傻站在這裡。<hex:02100103>不過最近因為瓦努族處理過不少破事。"
+7,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020","這裡是雲頂營地……<hex:02100103>顧名思義，就是建在雲海上的針對龍族的監視所。<hex:02100103>擁有飛空戰列艦「捍衛者號」，是守衛天空的要塞。"
+8,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021","……雖然說得好聽，但其實只有被降職的人才會被分配到這裡。<hex:02100103>龍族的大本營是在隔著皇都的另一側。<hex:02100103>那些傢伙是不可能迂迴到這裡，從這邊進攻的。"
+9,"TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022","而且捍衛者號一直因為故障根本沒法運轉，<hex:02100103>補給也很少，我們還得自給自足……<hex:02100103>我好恨啊，竟然被調到了這種地方。"

@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_000","哎呀，你是冒險者吧。<hex:02100103>找我有什麼事啊？"
+1,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_010","我是一名幻術師，遵從法師大人的指示，<hex:02100103>為元靈和人類之間的溝通架起橋樑。"
+2,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_011","原本，人們想要在森林中建立村落，<hex:02100103>但那樣的話，就必定要砍伐樹木，對森林造成傷害。<hex:02100103>因此，人們就考慮，在開放的湖面上建造不就好了？"
+3,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_012","所以，正是這種為森林著想的想法，才誕生了這座村落。<hex:02100103>為了能讓村民們安居樂業，也為了維持人類與森林之間的和諧，<hex:02100103>我會竭盡全力，全心全意為人民服務的。"
+4,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_020","這裡是秋瓜浮村，是一座建立在秋瓜湖湖面上的村落。<hex:02100103>有的人也因這座村落的形態，直接稱這裡是「浮村」。"
+5,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_021","因為這座村落位於通往庫爾札斯地區的道路沿線上，<hex:02100103>所以也是北上商人們的驛站。<hex:02100103>「浮栓亭」就是家有名的旅店，我們都引以為傲呢。"
+6,"TEXT_REGFSTFALLGOURDFLOAT_00130_THIERRAND_000_022","不過現在，來往的商人在逐漸減少。<hex:02100103>因為之前的靈災，許多橋樑和道路都塌陷了。<hex:02100103>通往庫爾札斯的路也越來越險惡了。"
+7,"TEXT_REGFSTFALLGOURDFLOAT_00130_Q1_000_000","想了解什麼？"
+8,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_001","你是做什麼的？"
+9,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_002","這裡是什麼地方？"
+10,"TEXT_REGFSTFALLGOURDFLOAT_00130_A1_000_003","取消"

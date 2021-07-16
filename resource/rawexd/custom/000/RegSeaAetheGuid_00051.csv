@@ -1,0 +1,27 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_1","冒險者啊。<hex:02100103>有空的話來聽聽關於「傳送魔法」和「乙太之光」的說明吧？"
+1,"TEXT_REGSEAAETHEGUID_00051_Q1_000_1","想了解什麼？"
+2,"TEXT_REGSEAAETHEGUID_00051_A1_000_1","什麼是傳送魔法？"
+3,"TEXT_REGSEAAETHEGUID_00051_A1_000_2","什麼是乙太之光？"
+4,"TEXT_REGSEAAETHEGUID_00051_A1_000_3","返回和傳送有什麼區別？ "
+5,"TEXT_REGSEAAETHEGUID_00051_A1_000_4","取消"
+6,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_10","想要理解傳送魔法的話，<hex:02100103>必須先了解乙太。"
+7,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_11","乙太是萬物的生命之源，<hex:02100103>是魔法的原動力。"
+8,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_12","世間的一切生物，<hex:02100103>包括你我，<hex:02100103>身體中都寄宿著乙太。"
+9,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_13","大地也是一樣。<hex:02100103>在這片土地上，有肉眼看不到的乙太綿延流過。<hex:02100103>這是被稱為「地脈」的奔流。"
+10,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_14","而「返回」或「傳送」這類魔法，<hex:02100103>則是利用「地脈」的流動將人瞬時傳送到目的地的。<hex:02100103>這類魔法就被稱為「傳送魔法」。"
+11,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_20","「乙太之光」是使用傳送魔法時的輔助裝置。"
+12,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_21","它是由結晶的乙太……<hex:02100103>也就是「水晶」做成的。"
+13,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_22","雖然單純通過「地脈」的流動會比較簡單，<hex:02100103>但那種做法如同投身於波濤洶湧的大海，<hex:02100103>其中激流暗湧，會有無法返回的風險。"
+14,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_23","而乙太之光如同這股激流中的燈塔，<hex:02100103>會指明出口的所在位置。"
+15,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_24","通過將乙太之光設定在「地脈」的流匯點，<hex:02100103>乙太之光才作為傳送的目的地得以利用。"
+16,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_25","不過，使用傳送魔法能夠到達的地方，<hex:02100103>只有接觸過並進行了「共鳴」的乙太之光。<hex:02100103>所以在旅途中，別忘了和乙太之光進行「共鳴」。"
+17,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_30","傳送魔法分為返回和傳送兩種。<hex:02100103>其中最簡單的是返回。"
+18,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_31","返回造成的精神負擔較小，<hex:02100103>需要的時候放心用就好了。"
+19,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_32","但這種魔法與乙太之光的聯繫會更加緊密，<hex:02100103>所以只能傳送到既定的返回點。"
+20,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_33","傳送則不同，只要是共鳴過的乙太之光，<hex:02100103>都可以使用傳送到達。"
+21,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_34","還有，使用傳送的時候需要支付一定數額的金幣，<hex:02100103>以補貼乙太之光移動網的修復費用。希望你能夠理解。"
+22,"TEXT_REGSEAAETHEGUID_00051_SUNDHIMAL_000_35","因為傳送造成的精神負擔較大，<hex:02100103>你在使用的時候必須要全身放鬆，集中精神。<hex:02100103>要根據情況，靈活使用這兩種傳送魔法。"

@@ -1,0 +1,7 @@
+﻿key,0,1,2,3,4,5,6,7,8
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name
+offset,0,12,4,13,14,15,16,17,8
+int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str
+0,"",0,"",0,0,1,0,0,""
+1,"",0,"",0,0,1,0,0,"優雷卡乙太壺"
+2,"",0,"",0,0,1,0,0,"優雷卡乙太壺【火】"

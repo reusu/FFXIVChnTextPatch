@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_100_001","這裡有一台從未見過的裝置。<hex:02100103>看來正在準備啟動中……"
+1,"TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_000_001","使用此裝置就可以將魔素石鑲嵌進魔素板中。<hex:02100103>完成鑲嵌以後，跟可露兒談談接下來的行動。"

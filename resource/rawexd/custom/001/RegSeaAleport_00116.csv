@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_000","哦，你是個冒險者吧？<hex:02100103>找我有什麼事嗎？"
+1,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_010","我就是個小商販啊，在小麥酒港做著酒品的買賣。"
+2,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_011","5年前發生靈災那時，有許多船都沉了。<hex:02100103>我也幾乎放棄希望……<hex:02100103>不過港口總算是挺過來了。"
+3,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_012","不管怎麼說，還好不用丟下祖上傳下來的宅地了。"
+4,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_020","這裡啊，就如你所見，是個港口。<hex:02100103>是個充滿生機的熱鬧地方吧？"
+5,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_021","雖然規模不大，不過在這裡，酒稅設有優惠政策。<hex:02100103>酒……特別是小麥酒的交易十分火熱。"
+6,"TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_022","因為水會很快變質，所以對於長期航海的人來說，<hex:02100103>小麥酒就是代替水的必須品！<hex:02100103>也正是因此，有很多貿易船隻在這裡進行酒的補給。"
+7,"TEXT_REGSEAALEPORT_00116_Q1_000_000","想了解什麼？"
+8,"TEXT_REGSEAALEPORT_00116_A1_000_001","你是做什麼的？"
+9,"TEXT_REGSEAALEPORT_00116_A1_000_002","這裡是什麼地方？"
+10,"TEXT_REGSEAALEPORT_00116_A1_000_003","取消"

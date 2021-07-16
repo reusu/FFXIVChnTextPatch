@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_000","歡迎來到弓束官邸。<hex:02100103>有什麼想問的儘管問，我魚山無所不知無所不曉噗！"
+1,"TEXT_REGOTH3YUZUKAMANOR_00414_Q1_000_000","想了解什麼？"
+2,"TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_001","你是做什麼的？"
+3,"TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGOTH3YUZUKAMANOR_00414_A1_000_003","取消"
+5,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_010","我叫魚山噗！<hex:02100103>在這裡負責給人類客人們介紹噗。"
+6,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_011","我會首先給來訪的客人介紹這裡，<hex:02100103>也可以說是這裡的門面噗！<hex:02100103>我可自豪了噗！"
+7,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_020","這裡是弓束官邸，<hex:02100103>曾經是管理周邊村落的官爺的宅邸噗。<hex:02100103>弓束是那位官爺的名字噗。"
+8,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_021","弓束家是炮術名家噗。<hex:02100103>在帝國軍攻打多瑪的時候，<hex:02100103>曾經率領名為鐵炮眾的一群人奮勇抵抗噗……"
+9,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_022","雖然被帝國統治後，吃了不少苦頭，<hex:02100103>不過在漫長的忍耐後，終於和國王一起起義了噗！<hex:02100103>但是但是，最後還是失敗了……然後就被抄家了……"
+10,"TEXT_REGOTH3YUZUKAMANOR_00414_GYOSAN_000_023","現在這裡沒人了，所以我們就借住在這裡噗。<hex:02100103>怎麼樣，是不是學到了不少東西噗？"

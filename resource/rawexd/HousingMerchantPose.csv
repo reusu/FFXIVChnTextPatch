@@ -1,0 +1,9 @@
+﻿key,0,1
+#,ActionTimeline,Pose
+offset,4,0
+int32,ActionTimeline,str
+0,6288,"普通站姿"
+1,6289,"服裝模特"
+2,6290,"雙手抱胸"
+3,6291,"彰顯個性"
+4,6292,"模特站姿"

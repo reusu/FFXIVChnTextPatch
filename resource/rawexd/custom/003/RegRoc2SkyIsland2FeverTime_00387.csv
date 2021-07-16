@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_000_000","（★未使用／削除予定★）"
+1,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_000_001","（★未使用／削除予定★）"
+2,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_000","說起來，您知道嗎？<hex:02100103>聽說雲冠群島周圍的屬性之力產生混亂的原因<hex:02100103>是因為最近漂來了一個新的浮島……"
+3,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_001","就是在雲上王冠附近的漂流遺跡。<hex:02100103>聽說似乎只要天氣變為「雷波」，遺跡的入口就會打開……<hex:02100103>您一定很在意裡面有什麼吧。"
+4,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_002","「雷波」天氣很罕見，<hex:02100103>當天氣轉為雷波，可以進行探索的時候，<hex:02100103>我會用通訊珠和您聯絡的。"
+5,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_003","說起來，您知道嗎？<hex:02100103>聽說雲冠群島周圍的屬性之力產生混亂的原因<hex:02100103>是因為最近漂來了一個瑪哈文明的遺跡島……"
+6,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_000","您已經進過漂流遺跡了吧，我從通訊珠裡聽到您探險的情景了，<hex:02100103>那裡似乎潛伏著可怕的魔物！"
+7,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_001","幸好您沒事。<hex:02100103>雖然我們還沒摸清楚遺跡的起源，<hex:02100103>但您可以進去探索並平安歸來，真是太好了。"
+8,"TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_002","不愧是古代瑪哈文明的遺跡……<hex:02100103>經過了悠久的歲月，依然能憑藉魔法的力量對現在的環境產生影響，<hex:02100103>真是可怕……"

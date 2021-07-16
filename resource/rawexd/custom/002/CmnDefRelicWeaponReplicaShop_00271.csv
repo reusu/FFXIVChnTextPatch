@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_TALK_ACTOR","你好像沒有黃道武器·本我啊。<hex:02100103>因為技術還不夠成熟，需要作為樣本的武器才行……<hex:02100103>你能把實物拿來讓我看看嗎？"
+1,"TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_MENU_TITLE","要複製哪一把黃道武器·本我？"

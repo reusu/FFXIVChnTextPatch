@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGWILREDUCE_00276_TALK_Q1","想了解什麼？"
+1,"TEXT_REGWILREDUCE_00276_TALK_A1","什麼是「精選」？"
+2,"TEXT_REGWILREDUCE_00276_TALK_A2","精選的竅門"
+3,"TEXT_REGWILREDUCE_00276_TALK_A3","取消"
+4,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000","所謂「精選」，就是指運用精製魔晶石的技術，<hex:02100103>將作為收藏品的擁有很高價值且十分稀少的素材結晶化！"
+5,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001","能用作精選素材的收藏品可不是哪裡都能搞到的。<hex:02100103>靈活利用採集筆記和魚類圖鑑，到處找找吧！"
+6,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010","這是很重要的一點……<hex:02100103>沒有「收藏價值」的東西是沒辦法用「精選」的。<hex:02100103>要進行精選，必須要準備好收藏品才行。"
+7,"TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011","另外，素材的收藏價值越高、越稀有，<hex:02100103>那麼就越容易精選出貴重的物品。"

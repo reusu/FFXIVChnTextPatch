@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_1","喲，你這個冒險者有什麼事？<hex:02100103>我沒什麼時間，有話快說。"
+1,"TEXT_REGWILBLACKBRASH_00042_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A1","你在這裡是做什麼的？"
+3,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A2","這座設施是做什麼的？"
+4,"TEXT_REGWILBLACKBRASH_00042_SCENE00000A3","取消"
+5,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_10","我是這座設施的管理人，<hex:02100103>自從它建成後一直都在這裡。"
+6,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_11","因為從列車上卸下來的礦石都是混雜在一起的。<hex:02100103>得讓有能力的人按種類區分開來。"
+7,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_12","我以前也是在冶煉現場工作的……<hex:02100103>但是手在靈災那會兒被弄傷了。"
+8,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_20","冶煉……也就是說，將金屬從礦石中提煉出來。<hex:02100103>我們主要是冶煉銀、秘銀、銅之類的金屬。"
+9,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_21","你看屋頂的煙筒裡有煙冒出吧？<hex:02100103>那下面有一座使用火之水晶的冶煉爐，<hex:02100103>那是利用高熱使礦石熔化，然後再進行提煉的。"
+10,"TEXT_REGWILBLACKBRASH_00042_ELURED_000_22","冶煉出的金屬會送往人氣珠寶店「艾斯泰姆」，<hex:02100103>以及烏爾達哈其他的工房。<hex:02100103>之後這些金屬就會被製作成飾品了。"

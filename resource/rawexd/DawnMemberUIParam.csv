@@ -1,0 +1,15 @@
+﻿key,0,1,2
+#,Class{Singular},VoiceLine,Class{Plural}
+offset,8,4,0
+int32,str,uint32,str
+0,"",0,""
+1,"Academician",8202013,"學士"
+2,"Red Mage",8202034,"赤魔法師"
+3,"Gunbreaker",8202055,"絕槍戰士"
+4,"Oracle of Light",8202073,"光之巫女"
+5,"Astrologian",8202092,"占星術士"
+6,"Sorceress",8202109,"魔女"
+7,"Oracle of Light",8202073,"光之巫女"
+8,"Guard Captain",8202143,"衛兵團長"
+9,"All-Rounder",8202130,"全才"
+10,"All-Rounder",8202346,"全才"

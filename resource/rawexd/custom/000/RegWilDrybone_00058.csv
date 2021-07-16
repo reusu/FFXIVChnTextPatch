@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGWILDRYBONE_00058_RAULIN_000","是冒險者啊。<hex:02100103>我可以為你介紹情況。"
+1,"TEXT_REGWILDRYBONE_00058_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILDRYBONE_00058_SCENE00000A1","你在這裡是做什麼的？"
+3,"TEXT_REGWILDRYBONE_00058_SCENE00000A2","這裡是什麼村落？"
+4,"TEXT_REGWILDRYBONE_00058_SCENE00000A3","取消"
+5,"TEXT_REGWILDRYBONE_00058_RAULIN_010","我在這裡做類似嚮導的工作。<hex:02100103>原本，我只是來這附近的教會，憑弔已故的妻子。"
+6,"TEXT_REGWILDRYBONE_00058_RAULIN_011","但在接觸了其他家屬，幫助其埋葬遺體後，<hex:02100103>不知不覺這變為了我的工作。"
+7,"TEXT_REGWILDRYBONE_00058_RAULIN_012","世事無常呢。<hex:02100103>我覺得給予他們幫助就是對妻子最好的供奉，<hex:02100103>這樣一想，工作起來就更加努力了。"
+8,"TEXT_REGWILDRYBONE_00058_RAULIN_020","你知道西北邊的聖阿達瑪·蘭達瑪教會嗎？<hex:02100103>在5年前的靈災時，<hex:02100103>該教會接納了眾多城區收容不下的遺體。"
+9,"TEXT_REGWILDRYBONE_00058_RAULIN_021","來這個村落的人多半是要去教會墓地，<hex:02100103>他們可以在這裡進行埋葬的準備或是稍作休息。<hex:02100103>這裡是一個為死者祈福的寂靜村落。"

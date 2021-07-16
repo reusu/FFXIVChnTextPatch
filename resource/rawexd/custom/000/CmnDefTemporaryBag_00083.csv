@@ -1,0 +1,13 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_01","因為先前的靈災，出現了大量的遺失物品。<hex:02100103>而我們則負責將這些遺失物品歸還給失主或遇難者家屬。"
+1,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_Q1","要做什麼？"
+2,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1","想要尋找遺失物品"
+3,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A2","聽取有關遺失物品的說明"
+4,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A3","取消"
+5,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_05","我們會將靈災中的失蹤者物品寄存在冒險者公會。<hex:02100103>然後尋找失主或其家屬，將物品歸還。"
+6,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_06","當然我們不是租賃倉庫。<hex:02100103>一旦返還的物品就不能再次被寄存，還請不要見怪。"
+7,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_10","最近來領取遺失物品的人也明顯減少了。"
+8,"TEXT_CMNDEFTEMPORARYBAG_00083_TALK_ACTOR_11","大家可能都已經整理好自己的心情了……<hex:02100103>我們的使命或許也就到此結束了。"

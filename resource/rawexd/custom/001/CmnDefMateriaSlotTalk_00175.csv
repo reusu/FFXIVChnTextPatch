@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000","不需要的 魔晶石 5個 魔晶石！<hex:02100103>把這個 還有那個 都混在一起！<hex:02100103>就可以 產生出 新的魔晶石。"
+1,"TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001","會出什麼 看你運氣！<hex:02100103>想試試的話 就拿來！<hex:02100103>5個 魔晶石 拿來！"
+2,"TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005","將不需要的5個魔晶石交給繆塔米克斯，<hex:02100103>他會將這些合成，並生成一個新的魔晶石。"
+3,"TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006","但是，完全不知道會出現什麼樣的魔晶石，<hex:02100103>合成的結果完全看運氣。<hex:02100103>如果有不要的魔晶石的話，就去試試吧。"

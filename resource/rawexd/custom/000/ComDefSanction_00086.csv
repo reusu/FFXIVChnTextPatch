@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","本人是<hex:020963E802FF1F>大國防聯軍「黑渦團」<hex:FF1F>大國防聯軍「雙蛇黨」<hex:FF1F>大國防聯軍「恆輝隊」<hex:03>的魔法工兵！"
+1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","本人是<hex:020963E802FF1F>大國防聯軍「黑渦團」<hex:FF1F>大國防聯軍「雙蛇黨」<hex:FF1F>大國防聯軍「恆輝隊」<hex:03>的魔法工兵！<hex:02100103>負責給軍階在<hex:020924E802FF0A>漩士長<hex:FF0A>牙士長<hex:FF0A>耀士長<hex:03>以上的人員賦予「神應」！"
+2,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00","要做什麼？"
+3,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01","接受「神應」"
+4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","什麼是「神應」？"
+5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","取消"
+6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","偉大的工藝神比爾格啊……<hex:02100103>請將您的加護賜予<hex:022903EB0203><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03>閣下吧……"
+7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","好了，「神應」的賦予完成了！<hex:02100103><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03>閣下，<hex:02100103>願您今後能夠旗開得勝！"
+8,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016","神應是<hex:020963E802FF1F>大國防聯軍「黑渦團」<hex:FF1F>大國防聯軍「雙蛇黨」<hex:FF1F>大國防聯軍「恆輝隊」<hex:03><hex:02100103>與「艾歐澤亞城邦軍事同盟」的加盟城邦<hex:02100103>共同開發出的裝備強化術。"
+9,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017","對在製造階段施加了「特殊魔法加工」的武器防具，<hex:02100103>附加一種強化魔法。<hex:02100103>這樣可以暫時提高其強度和性能。"
+10,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018","我們<hex:020936E802FF10>「黑渦團」<hex:FF10>「雙蛇黨」<hex:FF10>「恆輝隊」<hex:03>目前正在增產作為對象的裝備。<hex:02100103>軍階在<hex:020924E802FF0A>漩士長<hex:FF0A>牙士長<hex:FF0A>耀士長<hex:03>以上的人員，<hex:02100103>可以憑軍票換取這些裝備。"

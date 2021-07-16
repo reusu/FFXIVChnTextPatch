@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_000","哦？你好像有黃道透鏡呀！<hex:02100103>如若遺失了的話，請來找我。"
+1,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_010","什麼？！黃道透鏡丟了？<hex:02100103>師父大人提前給了我備用的透鏡以備這種情況發生。<hex:02100103>真是搞不懂師父大人究竟是細心還是粗心……"
+2,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_011","……嗚哇，剛才的話請務必當做我沒說過。<hex:02100103>這個黃道透鏡給你。<hex:02100103>這次要小心，別再弄丟了。"
+3,"TEXT_CMNDEFRELICWEAPON040GLASS_00212_DRAKE_000_020","呃，你的背包滿了……<hex:02100103>請整理一下再來吧。"

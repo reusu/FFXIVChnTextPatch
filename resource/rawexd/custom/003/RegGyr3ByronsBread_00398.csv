@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_000","這裡是拜隆糧場。<hex:02100103>你來這裡是要收購農作物嗎？"
+1,"TEXT_REGGYR3BYRONSBREAD_00398_Q1_000_000","想了解什麼？"
+2,"TEXT_REGGYR3BYRONSBREAD_00398_A1_000_001","你是做什麼的？"
+3,"TEXT_REGGYR3BYRONSBREAD_00398_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGGYR3BYRONSBREAD_00398_A1_000_003","取消"
+5,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_010","如你所見，我是在這耕田的。<hex:02100103>這裡土壤貧瘠，農作物難活收成也少，<hex:02100103>雖然也想拋下不幹……"
+6,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_011","但就算現在跑回阿拉加納去，採石業沒落成那個樣子，<hex:02100103>也沒法讓人過上清閒日子。"
+7,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_012","所以就算在這有多苦，我也得繼續把地耕下去。<hex:02100103>至少到了我孩子的那一輩，讓他們能過得輕鬆一些。"
+8,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_020","這裡是拜隆老爺子建起來的農園。<hex:02100103>老爺子從前是個石匠，在阿拉加納衰落後，<hex:02100103>他為了每天至少能有麵包吃，改行幹起了並不在行的耕種。"
+9,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_021","拜隆糧場這個名字上就寄託著老爺子強烈的願望。<hex:02100103>可惜老爺子最後還是沒等迎來第一次收穫就去世了。"
+10,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_022","在那之後，我們繼續開墾著這裡的土地，<hex:02100103>經過數年的努力，現在種下的小麥總算是能結出穎果來了……"
+11,"TEXT_REGGYR3BYRONSBREAD_00398_IMMODESTMOUSE_000_023","之所以能有今天，<hex:02100103>都是因為當年老爺子餓著肚子在這裡辛勤開墾。<hex:02100103>所以我們也不能輕易將這裡捨棄。"

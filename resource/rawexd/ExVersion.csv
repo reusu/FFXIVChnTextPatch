@@ -1,0 +1,8 @@
+﻿key,0,1,2
+#,Name,AcceptJingle,CompleteJingle
+offset,0,4,6
+int32,str,ScreenImage,ScreenImage
+0,"重生之境",1,2
+1,"蒼穹之禁城",342,343
+2,"紅蓮之狂潮",344,345
+3,"暗影之逆焰",723,724

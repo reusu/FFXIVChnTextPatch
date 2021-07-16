@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGABR2SKYISLAND2INFO_00389_MAUNIE_000_000","自從有奇怪的浮島漂到這裡後，<hex:02100103>雲冠群島周圍的屬性之力就開始失去控制，<hex:02100103>讓島上產生了一片風脈特彆強勁又十分混亂的地區。"
+1,"TEXT_REGABR2SKYISLAND2INFO_00389_MAUNIE_000_001","我們空賊將那片空域稱為「亂風脈帶」，<hex:02100103>想穿越它可不容易。"
+2,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_110_000","我們曾經是飛空艇恩惠號的船員。<hex:02100103>因為遭遇到了強風，導致飛空艇失事，漂流到了這片暗礁空域。"
+3,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_110_001","雖然現如今來雲冠群島探索的人漸漸增多了，<hex:02100103>但那時真是無力從這裡脫身……<hex:02100103>因此，我們為了活下去，以必死的決心建造了這裡。"
+4,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_110_002","最近，在冒險者和空賊的協助下，<hex:02100103>這裡成為了雲冠群島唯一的休息處。<hex:02100103>也是為了防止再出現像我們這樣的漂流者……"
+5,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_120_000","（★未使用／削除予定★）"
+6,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_120_001","（★未使用／削除予定★）"
+7,"TEXT_REGABR2SKYISLAND2INFO_00389_BARNABAIX_120_002","（★未使用／削除予定★）"
+8,"TEXT_REGABR2SKYISLAND2INFO_00389_DENNIA_210_000","雲冠群島因其厚厚的雲壁與世隔絕，<hex:02100103>形成了獨特的生態系統。"
+9,"TEXT_REGABR2SKYISLAND2INFO_00389_DENNIA_210_001","而且，由於受到混亂的屬性之力影響，<hex:02100103>很多魔物發生了變異，我們也收到了好幾起這樣的目擊報告。"
+10,"TEXT_REGABR2SKYISLAND2INFO_00389_DENNIA_210_002","其中也有惡名昭彰的怪物……<hex:02100103>你可要多加留意「 惡名精英」啊。"
+11,"TEXT_REGABR2SKYISLAND2INFO_00389_LYOLF_310_000","在這裡狩獵魔物和古代野獸時，<hex:02100103>有時會發現一些可憐的犧牲者們的遺物。"
+12,"TEXT_REGABR2SKYISLAND2INFO_00389_LYOLF_310_001","你如果找到了裝有那些遺物的上鎖的寶箱，<hex:02100103>就可以把它帶去給鎖匠打開。<hex:02100103>這也是我們為了在惡劣環境中生存所掌握的辦法。"
+13,"TEXT_REGABR2SKYISLAND2INFO_00389_SYSTEM_310_010","在討伐敵人後或是其他情況中，有時會出現「寶箱」。<hex:02100103>寶箱一共有3種，越是豪華的寶箱其中裝著的道具就越值錢，<hex:02100103>但相對出現的幾率也就會越低。"
+14,"TEXT_REGABR2SKYISLAND2INFO_00389_SYSTEM_310_011","另外，從寶箱中有時還能獲得「上鎖的寶箱」和「壞掉的寶箱」。"
+15,"TEXT_REGABR2SKYISLAND2INFO_00389_SYSTEM_310_012","將其交給雲冠群島或冒險者住宅區等地的鎖匠打開，<hex:02100103>就能獲得裡面的道具。"
+16,"TEXT_REGABR2SKYISLAND2INFO_00389_IOFA_410_000","你知道「亂風脈帶」嗎？就是那片乙太混亂的空域……"
+17,"TEXT_REGABR2SKYISLAND2INFO_00389_IOFA_410_001","其內部可以說是不折不扣的魔窟。<hex:02100103>如果你想探索那裡，我建議你一開始不要急於深入。"
+18,"TEXT_REGABR2SKYISLAND2INFO_00389_IOFA_410_002","因為我聽說如果不讓身體先習慣雲冠群島特有的乙太，<hex:02100103>就容易被混亂的屬性之力影響，說不定肉體都會發生變化……"

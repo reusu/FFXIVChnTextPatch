@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1","歡迎來到沉溺海豚亭。<hex:02100103>有什麼事情都可以問我。"
+1,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2","我是沉溺海豚亭的侍者。<hex:02100103>你也看見了吧？店主是個當過傭兵的大叔。<hex:02100103>所以需要我這樣的女孩給店裡增添幾分姿色。"
+2,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_3","因為第七靈災，我失去了家、失去了希望，<hex:02100103>在我餓得快趴下的時候，<hex:02100103>巴德龍店主分給了我一點玉米麵包……"
+3,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_4","後來，我賴著不走，硬是要留在店裡幫忙。<hex:02100103>不過，這不是為了報恩才這麼做的。"
+4,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_5","聽說我們店出售的烈酒可以讓游泳好手海豚都溺水。<hex:02100103>所以才起了這個名字。<hex:02100103>不過，船員們只要有酒就很高興了。"
+5,"TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_6","現在冒險者們也聚集於此，<hex:02100103>巴德龍店主為了照顧冒險者忙得不可開交呢。<hex:02100103>他是個樂於助人的老好人。"
+6,"TEXT_REGSEAADVGUILD_00050_Q1_000_1","想了解什麼？"
+7,"TEXT_REGSEAADVGUILD_00050_A1_000_1","你是做什麼的？"
+8,"TEXT_REGSEAADVGUILD_00050_A1_000_2","這家店名的由來是？"
+9,"TEXT_REGSEAADVGUILD_00050_A1_000_3","取消"

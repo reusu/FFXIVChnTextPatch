@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFNPCREPAIR_00019_AMALJAAREPAIR_000_000","我是從事修理工作的。<hex:02100103>但與灰黨無緣的人還請離開吧，<hex:02100103>我是不會接受委託的。"
+1,"TEXT_CMNDEFNPCREPAIR_00019_KOBOLDREPAIR_000_000","想拜託我 修理東西？才 不要呢！<hex:02100103>我 憑什麼 要為來歷不明的 人類工作啊。"
+2,"TEXT_CMNDEFNPCREPAIR_00019_SAHUAGINREPAIR_000_000","呼嘶……想拜託我修理東西？<hex:02100103>抱歉我拒絕……沒有老爹的許可，我是不會隨便幫人修東西的。<hex:02100103>這是我們諾布一夥的規矩。"
+3,"TEXT_CMNDEFNPCREPAIR_00019_IXALREPAIR_000_000","什麼？想讓老子修理東西？<hex:02100103>突然提出這種要求，你這算什麼態度啊？<hex:02100103>外人免談！趕緊給我消失！"
+4,"TEXT_CMNDEFNPCREPAIR_00019_SCENE00000","（未使用/預計刪除）"

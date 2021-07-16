@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_JTANDHAA_000_001","啊，你是協助阿拉米格解放軍的冒險者吧？<hex:02100103>我們這裡是解放軍的後勤部門，<hex:02100103>你可以拿不用的裝備在這換成其他裝備。"
+1,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_002","將能通過製作職業製作獲得的特定裝備交給嘉·譚妲<hex:02100103>可以獲得相應數量的票據。"
+2,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_003","將一定數量的票據和特定道具交給嘉·譚妲<hex:02100103>可以換取裝備等級更高的裝備。"
+3,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_HINOSEN_000_100","歡迎，<hex:022903EB0203>閣下。<hex:02100103>我這裡可以將一些你不用的裝備換成其他裝備。"
+4,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_102","將能通過製作職業製作獲得的特定裝備交給希莉森<hex:02100103>可以獲得相應數量的票據。"
+5,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_103","將一定數量的票據和特定道具交給希莉森<hex:02100103>可以換取裝備等級更高的裝備。"

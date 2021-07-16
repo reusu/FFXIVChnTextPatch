@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_000","歡迎光臨。<hex:02100103>客人想喝點什麼，先來上一杯吧？"
+1,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_Q1_000_000","想了解什麼？"
+2,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_001","你是做什麼的？"
+3,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_003","取消"
+5,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_010","我是這裡的老闆娘「琴風」。<hex:02100103>我的工作基本就是擺出「歡迎來到黃金港」的招牌，<hex:02100103>在這裡款待來賓、為啟程的人送行。"
+6,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_011","遠東之國不願樹敵，也不願輕易與他國結盟，<hex:02100103>加上這座貿易港的居民們對異國文化非常寬容，<hex:02100103>所以外國人只要遵紀守法，就能在這裡過得非常舒心。"
+7,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_012","雖然也會有酒客撒酒瘋，赤誠組跑來抓人的時候，<hex:02100103>但那都是極少的。來這家店的客人大部分酒品都還不錯。"
+8,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_020","這裡是黃金港最大的酒館，因為空氣中飄滿了海潮的香氣，<hex:02100103>所以有了潮風亭這麼一個名字。<hex:02100103>賣的酒呢，全都是紅州釀出的最上級純米酒。"
+9,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_021","不過這裡卻並不是一個純粹喝酒的地方。<hex:02100103>有人在此等待異國的商人，也有人在此送別啟程的友人……<hex:02100103>這裡可以算是一個相遇與分離的十字路口。"
+10,"TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_022","不好不好，怎麼說著說著就煽情起來了。<hex:02100103>來來來，先嘗嘗本店的招牌純米酒吧！"

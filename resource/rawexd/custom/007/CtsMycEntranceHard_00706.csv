@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CTSMYCENTRANCEHARD_00706_Q1_000_000","要做什麼？"
+1,"TEXT_CTSMYCENTRANCEHARD_00706_MENU_CONTENT","進入「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」"
+2,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_001","詢問有關「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」"
+3,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_003","進行談話"
+4,"TEXT_CTSMYCENTRANCEHARD_00706_A1_000_002","取消"
+5,"TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_000","解放者閣下的冒險故事果然和我聽說的一樣，非常引人入勝！<hex:02100103>在拜讀初稿的過程中，我的心就如同海浪一般時而平靜時而澎湃。<hex:02100103>哎呀，真是太有趣了！"
+6,"TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_001","在劇作家寫完之前，我會一直留在甘戈斯幫忙的。<hex:02100103>他能寫出這麼精彩的劇本，都是多虧了你的冒險故事，<hex:02100103>所以不管怎麼說，我都要先謝謝你才行！"

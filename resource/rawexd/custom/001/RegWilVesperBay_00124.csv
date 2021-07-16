@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_000","你是什麼人啊？<hex:02100103>找我有事嗎？"
+1,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_010","你問我啊？我是這裡的管理者。<hex:02100103>這座港灣每天都會有很多船隻靠岸，<hex:02100103>如果沒有個管理者的話，可是會變得一團糟的。"
+2,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_011","不過，這樣熱熱鬧鬧的才好。<hex:02100103>因為有些港灣因為棧橋的修建不夠完善，<hex:02100103>導致無人問津啊。"
+3,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_020","這裡是個貿易港口。<hex:02100103>可以稱作是烏爾達哈的海上西大門。<hex:02100103>是什麼時候建成的來著……總之還不太久呢。"
+4,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_021","為了能讓大型船隻停靠，也進行了港口浚深。<hex:02100103>那可是個費錢的大工程，<hex:02100103>是由沙蠍眾的羅羅力特大人出資的。"
+5,"TEXT_REGWILVESPERBAY_00124_WILFRID_000_022","也托他的福，才能發展成現在這麼充滿活力的港口。<hex:02100103>你這種冒險者也可以在這裡找到像樣的工作了。"
+6,"TEXT_REGWILVESPERBAY_00124_Q1_000_000","想了解什麼？"
+7,"TEXT_REGWILVESPERBAY_00124_A1_000_001","你是做什麼的？"
+8,"TEXT_REGWILVESPERBAY_00124_A1_000_002","這裡是什麼地方？"
+9,"TEXT_REGWILVESPERBAY_00124_A1_000_003","取消"

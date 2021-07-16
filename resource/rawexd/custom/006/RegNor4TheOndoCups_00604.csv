@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_000","稀有的，人類客人，有什麼事嗎？"
+1,"TEXT_REGNOR4THEONDOCUPS_00604_Q1_000_000","想了解什麼？"
+2,"TEXT_REGNOR4THEONDOCUPS_00604_A1_000_001","你是做什麼的？"
+3,"TEXT_REGNOR4THEONDOCUPS_00604_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGNOR4THEONDOCUPS_00604_A1_000_003","取消"
+5,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_010","我，是沒有文字，的鰭人族的，訴說者。<hex:02100103>鰭人族的歷史，因為光之泛濫，瀕臨消失，<hex:02100103>存活下來的鰭人族，將為下個時代，訴說編織歷史。"
+6,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_011","訴說者，代代，年邁的，淵斯的職責。<hex:02100103>為年輕的涳爾，澳恩，訴說歷史與知識，<hex:02100103>防止，鰭人族的歷史，斷絕。"
+7,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_020","過去先祖的故鄉，曾在南洋，因為光之泛濫，消失了。<hex:02100103>活下來的先祖，在流浪之後，發現不朽的廢墟，居住下來。<hex:02100103>這裡就是那個地方，傳說中是這樣，講的。"
+8,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_021","稱為潮池，是因為，先祖在光之泛濫時，<hex:02100103>正好在陸上的潮池中，所以存活了下來，<hex:02100103>因此取了這個名字。"
+9,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_022","所以，我們，敬仰先祖，與上古之人，<hex:02100103>守護遺跡的同時，質樸地，生活著。"
+10,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_023","大家，跟人類對話，還不習慣……<hex:02100103>請你，多加諒解。"
+11,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_024","光之泛濫，被平息了，今生，<hex:02100103>能夠取回，南洋之地嗎。"
+12,"TEXT_REGNOR4THEONDOCUPS_00604_GHOLSHSAATH_000_025","可是，我們對於，上古之人的信仰，<hex:02100103>還有你這樣的，指引者出現，都是不能取代的緣分。<hex:02100103>今後，我們，也不會，輕視，這份緣分。"

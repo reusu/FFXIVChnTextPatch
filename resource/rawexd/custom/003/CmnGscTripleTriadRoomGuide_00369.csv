@@ -1,0 +1,7 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_001","幻卡對局室是希望進行幻卡對局的客人們光臨的社交活動場！"
+1,"TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_002","客人們之間可以直接進行對局，<hex:02100103>還可以通過向九宮幻卡助手提出對局申請，<hex:02100103>與沒見過面的對手進行對局！"
+2,"TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_003","想要申請對局或是聽取詳細說明的話，<hex:02100103>就和對局室的九宮幻卡助手說一聲吧！<hex:02100103>那麼，祝您旗開得勝！"

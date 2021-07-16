@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_000","哎呀，你有什麼事嗎？<hex:02100103>我會盡我所能幫你的。"
+1,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_010","我是被冒險者公會派遣到這裡的冒險者。<hex:02100103>幫助斯拉佛伯恩，為來到摩杜納的冒險者提供支援。"
+2,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_011","你也是冒險者公會的吧？<hex:02100103>一直奔波來往於各個國家對吧。"
+3,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_012","繆恩、巴德龍還有莫莫蒂他們都還好嗎？<hex:02100103>雖然他們應該不會有什麼問題，<hex:02100103>不過還是有些掛念啊。"
+4,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_020","這裡是冒險者公會建立的活動據點。<hex:02100103>這個據點原本是建立在再往西一點的地方的，<hex:02100103>不過因為5年前的靈災被毀掉了。"
+5,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_021","在那之後，隨著乙太之光移動網的重新編整，<hex:02100103>就在這裡重新建造了據點。"
+6,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_022","再加上在靈災前，這附近發生過帝國飛空戰艦墜落事件，<hex:02100103>當時把這旁邊的一個村落毀掉了。"
+7,"TEXT_REGLAKREVENANTSTOLL_00112_ALISON_000_023","也是因為這件悲劇，這裡才命名為喪靈鐘的。<hex:02100103>所謂亡者為亡者敲響晚鐘之地……"
+8,"TEXT_REGLAKREVENANTSTOLL_00112_Q1_000_000","想了解什麼？"
+9,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_001","你是做什麼的？"
+10,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_002","這裡是什麼地方？"
+11,"TEXT_REGLAKREVENANTSTOLL_00112_A1_000_003","取消"

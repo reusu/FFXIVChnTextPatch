@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_010","獸人貨幣證書可以在失物管理人或者各獸人部落的商店人員處<hex:02100103>換成能夠使用的獸人貨幣。"
+1,"TEXT_CMNDEFBEASTCURRENCYGUIDE_00444_SYSTEM_000_011","交換後的獸人貨幣持有數量，<hex:02100103>可以在貨幣一覽中進行確認。"

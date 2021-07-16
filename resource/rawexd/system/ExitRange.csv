@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_EXITRANGE_DISMOUNT_Q","騎乘狀態下不能繼續前進。<hex:02100103>要從坐騎上下來嗎？"
+1,"TEXT_EXITRANGE_DISMOUNT_YES","是"
+2,"TEXT_EXITRANGE_DISMOUNT_NO","否"
+3,"TEXT_EXITRANGE_EXITCONTENT_Q","繼續前進會導致當前任務失敗，要前進嗎？"
+4,"TEXT_EXITRANGE_EXITCONTENT_YES","是"
+5,"TEXT_EXITRANGE_EXITCONTENT_NO","否"
+6,"TEXT_EXITRANGE_EXITCONTENT_Q_PARTY","繼續前進會導致當前任務失敗並離開小隊，要前進嗎？"
+7,"TEXT_EXITRANGE_EXITCONTENT_Q_PARTY_02","同乘中的成員有處於任務中的玩家，<hex:02100103>繼續前進會導致當前任務失敗並離開小隊，要前進嗎？"

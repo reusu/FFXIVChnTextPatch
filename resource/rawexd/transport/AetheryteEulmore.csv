@@ -1,0 +1,6 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_AETHERYTEEULMORE_STOP_000","寫著警示語……<hex:02100103>大意是需要特別許可才能使用乙太之光。"
+1,"TEXT_AETHERYTEEULMORE_STOP_010","沒反應……<hex:02100103>應該是機能被封鎖了。"

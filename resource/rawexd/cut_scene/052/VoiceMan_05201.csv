@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_VOICEMAN_05201_000010_RYNE","構想請神開始！請做好準備！"
+1,"TEXT_VOICEMAN_05201_000020_GAIA","那就是……雷神拉姆？！"
+2,"TEXT_VOICEMAN_05201_000030_RYNE","成、成功了……同時實現了兩種屬性的請神……"
+3,"TEXT_VOICEMAN_05201_000040_GAIA","琳？你沒事吧？"
+4,"TEXT_VOICEMAN_05201_000050_RYNE","竟然有這麼多食罪靈……拜託你了！"
+5,"TEXT_VOICEMAN_05201_000060_RYNE","現在開始召喚……希瓦的力量！"
+6,"TEXT_VOICEMAN_05201_000070_RYNE","(-希瓦-)啊、啊——！！"
+7,"TEXT_VOICEMAN_05201_000080_GAIA","她已經失控了！你要趕快阻止她！<hex:02100103>現在立刻動手！"

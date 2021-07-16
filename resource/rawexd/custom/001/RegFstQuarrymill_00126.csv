@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000","來自異邦的冒險者……<hex:02100103>你到石場水車有何貴幹？"
+1,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010","我是石場水車的法師。<hex:02100103>我的工作就是傾聽元靈的聲音，<hex:02100103>並將此傳達給這個村落的居民……"
+2,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011","如果你不太了解「法師」究竟是個怎樣身份的話，<hex:02100103>那就當我是這個村落的「顧問」好了。"
+3,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012","不過，真正給予建議的並不是我，<hex:02100103>而是居住在這座森林裡的元靈。"
+4,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020","石場水車，從名字多少也可以猜到，<hex:02100103>這裡原本是確保建築用石材的水車場。"
+5,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021","現在給人的印象，則更多是狩獵人居住的地方。<hex:02100103>因為這附近是得到元靈允許狩獵的地方……"
+6,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022","……另外，這裡也是審判之地。<hex:02100103>漂泊到黑衣森林的外邦人在石場水車住上一晚，<hex:02100103>便會受到元靈的審判。"
+7,"TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023","得到元靈允許的人則可以居住在森林裡，<hex:02100103>相反，被拒絕的人則必須離開森林。<hex:02100103>這是這座森林自古流傳下來的規矩。"
+8,"TEXT_REGFSTQUARRYMILL_00126_Q1_000_000","想了解什麼？"
+9,"TEXT_REGFSTQUARRYMILL_00126_A1_000_001","你是做什麼的？"
+10,"TEXT_REGFSTQUARRYMILL_00126_A1_000_002","這裡是什麼地方？"
+11,"TEXT_REGFSTQUARRYMILL_00126_A1_000_003","取消"

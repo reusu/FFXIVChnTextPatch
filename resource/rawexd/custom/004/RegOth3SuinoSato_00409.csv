@@ -1,0 +1,17 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_000","……請問有什麼事嗎？"
+1,"TEXT_REGOTH3SUINOSATO_00409_Q1_000_100","想了解什麼？"
+2,"TEXT_REGOTH3SUINOSATO_00409_A1_000_101","你是做什麼的？"
+3,"TEXT_REGOTH3SUINOSATO_00409_A1_000_102","這裡是什麼地方？"
+4,"TEXT_REGOTH3SUINOSATO_00409_A1_000_103","取消"
+5,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_200","我叫細波，為紫水宮宮司潮騷大人做事。"
+6,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_201","從準備宮中儀式用的書籍，<hex:02100103>到準備翠水鄉舉辦祭典時要用的文件與印章、<hex:02100103>安排會議的舉辦等等……"
+7,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_202","還有照顧繁忙的潮騷大人總喜歡帶在身邊的磯邊。<hex:02100103>這些工作都是由我來負責。"
+8,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_300","我們翠水之民是晨曦之民的分支。<hex:02100103>祖先們為了躲避地表的戰亂，在海底建起了這翠水鄉。"
+9,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_301","治理這翠水鄉的，是居住在紫水宮的紅玉公主殿下。<hex:02100103>除了宮中的個別人員外，翠水鄉之人是無法見到公主殿下的。"
+10,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_302","現在由於公主殿正在進行特別的儀式，<hex:02100103>連那個別的人都被禁止進入紫水宮了。<hex:02100103>聽說如此嚴格的禁令還是史上第一次出現。"
+11,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_310","現在公主殿下的妹妹紅殿下來到了這翠水鄉。<hex:02100103>公主殿下及其族中之人通常會在宮中度過一生，<hex:02100103>像這樣到外界走動是非常罕見的……"
+12,"TEXT_REGOTH3SUINOSATO_00409_SASANAMI_320","公主殿下及其族中之人通常會在宮中度過一生，<hex:02100103>侍奉公主的女官翡翠倒是經常會來到翠水鄉裡，<hex:02100103>給我們講一些宮中的趣事……"

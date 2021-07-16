@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_000","歡迎，請問找我有什麼事嗎？"
+1,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_010","我是格格魯玖大人的隨從，他是這太陽海岸的主人。"
+2,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_011","我的主人……格格魯玖大人是走在潮流前線的富豪，<hex:02100103>論賺錢的話無人能出其右。<hex:02100103>但是，除此之外就……不太好說了。"
+3,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_012","為了彌補主人的缺點，也為了能夠讓他更加集中精力賺錢……<hex:02100103>我們這些隨從不惜一切侍奉他。"
+4,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_020","這裡是太陽海岸，以景色優美著稱，<hex:02100103>是拉諾西亞首屈一指的高級居住地。"
+5,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_021","這裡原本是農夫們開拓出的田地，<hex:02100103>但因為海水的鹽害特別嚴重，所以就被荒廢了。<hex:02100103>而有一位烏爾達哈的富豪卻瞄準了這一點，那就是格格魯玖大人。"
+6,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_022","他向梅爾維布提督捐獻了巨額的資金後，<hex:02100103>從靈災過後充斥著難民的烏爾達哈，<hex:02100103>移居到了風光明媚的這裡。"
+7,"TEXT_REGSEACOSTADELSOL_00115_PEBALOH_000_023","然後將「鮮血濱」這種不吉利的名字改成了「太陽海岸」，<hex:02100103>象徵著陽光灑在這嶄新的大陸上。"
+8,"TEXT_REGSEACOSTADELSOL_00115_Q1_000_000","想了解什麼？"
+9,"TEXT_REGSEACOSTADELSOL_00115_A1_000_001","你是做什麼的？"
+10,"TEXT_REGSEACOSTADELSOL_00115_A1_000_002","這裡是什麼地方？"
+11,"TEXT_REGSEACOSTADELSOL_00115_A1_000_003","取消"

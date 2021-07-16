@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGWILHORIZON_00057_GISELBERDUS_000","怎麼，你也迷路了嗎？<hex:02100103>如果有什麼疑問的話，我可以幫你解答。"
+1,"TEXT_REGWILHORIZON_00057_SCENE00000Q","想了解什麼？"
+2,"TEXT_REGWILHORIZON_00057_SCENE00000A1","你在這裡是做什麼的？"
+3,"TEXT_REGWILHORIZON_00057_SCENE00000A2","這裡是什麼村落？"
+4,"TEXT_REGWILHORIZON_00057_SCENE00000A3","取消"
+5,"TEXT_REGWILHORIZON_00057_GISELBERDUS_010","我們是銅刃團薔薇聯隊。<hex:02100103>主要負責地平關的警衛工作。"
+6,"TEXT_REGWILHORIZON_00057_GISELBERDUS_011","所謂銅刃團，就是商人們集資成立的警備團。<hex:02100103>啊，不要因為是私兵就小看我們。"
+7,"TEXT_REGWILHORIZON_00057_GISELBERDUS_012","我們為商人們提供警備服務，讓他們放心做買賣。<hex:02100103>開開心心賺錢，這樣一來財源也會滾滾而來。<hex:02100103>所謂你好，我好，大家好嘛。"
+8,"TEXT_REGWILHORIZON_00057_GISELBERDUS_020","地平關是物流的中轉站。<hex:02100103>通過海路運輸的貨物，在西面的黃昏灣卸貨，<hex:02100103>經這個村落中轉後，再向烏爾達哈方向運輸。"
+9,"TEXT_REGWILHORIZON_00057_GISELBERDUS_021","這裡備有卷揚機，<hex:02100103>可以將沉重的貨物從位於低地的黃昏灣運送到處於高地的這裡，<hex:02100103>可謂是物流的關鍵地點。"
+10,"TEXT_REGWILHORIZON_00057_GISELBERDUS_022","也正因如此，來往於這裡的商人絡繹不絕，<hex:02100103>讓這裡時時刻刻充滿著活力。<hex:02100103>當然，也不乏形跡可疑的傢伙混跡於其中……"
+11,"TEXT_REGWILHORIZON_00057_GISELBERDUS_023","為了整治這些傢伙，<hex:02100103>我們銅刃團才警衛執勤。"

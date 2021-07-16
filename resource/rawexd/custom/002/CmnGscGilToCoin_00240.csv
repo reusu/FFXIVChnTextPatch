@@ -1,0 +1,10 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR","歡迎光臨金碟遊樂場！<hex:02100103>我可以為您將金幣兌換成金碟幣。"
+1,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL","……非常遺憾，您的金幣不夠了。<hex:02100103>請確保帶有足夠的金幣後再來。"
+2,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX","啊，客人您已持有足夠的金碟幣，無法再進行兌換了。"
+3,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000","只有在所持金碟幣不足<hex:022003E80203>枚時才能與金碟幣兌換員進行兌換。<hex:02100103>最多只可兌換至持有<hex:022003E80203>枚金碟幣。"
+4,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001","更多金碟幣請通過參加遊樂場內的活動與小遊戲獲取。"
+5,"TEXT_CMNGSCGILTOCOIN_00240_ERROR_QUEST","（★未使用／削除予定★）"

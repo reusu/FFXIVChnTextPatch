@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_VOICEMAN_05006_000001_OLDTITANIA","是誰來啦？<hex:02100103>要放我從城堡裡出去嗎？"
+1,"TEXT_VOICEMAN_05006_000002_OLDTITANIA","好想出去玩啊……盡情吃、盡情玩……<hex:02100103>吃下好多好多好吃的……直到肚子再也裝不下為止……"
+2,"TEXT_VOICEMAN_05006_000003_OLDTITANIA","嗯？不是這樣嗎？那你就來陪我玩吧！<hex:02100103>永遠！永遠！永遠陪我玩下去！"
+3,"TEXT_VOICEMAN_05006_000010_OLDTITANIA","我們不能……繼續玩了……嗎……"
+4,"TEXT_VOICEMAN_05006_000110_VAUTHRY","終於來了 該死的叛逆者……<hex:02100103>臣服於我吧！我就是世界的大王！是你們的神！"
+5,"TEXT_VOICEMAN_05006_000120_VAUTHRY","完美無瑕的我……竟然……"
+6,"TEXT_VOICEMAN_05006_000210_EMETSELCH","使出你的全力吧！<hex:02100103>我也會以完全形態來應戰！"
+7,"TEXT_VOICEMAN_05006_000220_EMETSELCH","我……不會承認……"
