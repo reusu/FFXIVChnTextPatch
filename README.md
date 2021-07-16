@@ -1,4 +1,33 @@
-  
+# FFXIV Translation Patch Tool
+中文漢化器。相較於原版，針對5.57版本修正中文字庫補丁，並新增使用CSV進行漢化的功能。
+
+CSV是使用修改過的SaintCoinach輸出。
+
+This tool is used to translate the in-game text and patch the Chinese font files.
+
+It is available to translate via the CSV files that are generated based on a modified version of SaintCoinach. You can also change the in-game text by editing the CSV files.
+
+We only provide the CSV files for the translation, not the files from the CN servers.
+
+This project is forked from [reusu/FFXIVChnTextPatch](https://github.com/reusu/FFXIVChnTextPatch).
+
+## 使用
+0. 下載、編譯
+1. 點選「設置」，選擇FFXIV遊戲根目錄
+2. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化，其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。
+3. 「原始語言」：想要覆蓋遊戲中的哪種語言。
+4. 「目標語言」：簡體中文或繁體中文（非CSV模式才需要選擇）。
+
+En ver.
+1. Clicking the 「設置」 on the top-right and setup your game folder.
+2. 「檔案語言」：Choose CSV to use the CSV files.
+3. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese.
+4. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
+
+## 筆記
+[製作過程的筆記可以參考這裡。](https://hackmd.io/@GpointChen/SJi_gv-ad)
+
+## 原項目說明
 	
 项目说明：
 
