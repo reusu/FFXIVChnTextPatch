@@ -1,30 +1,22 @@
 # FFXIV Translation Patch Tool
-中文漢化器。相較於原版，針對5.57版本修正中文字庫補丁，並新增使用CSV進行漢化的功能。
+FFXIV的中文漢化器。
 
-CSV是使用修改過的SaintCoinach輸出。
+English description is below.
 
-This tool is used to translate the in-game text and patch the Chinese font files.
-
-It is available to translate via the CSV files that are generated based on a modified version of SaintCoinach. You can also change the in-game text by editing the CSV files.
-
-We only provide the CSV files for the translation, not the files from the CN servers.
-
-This project is forked from [reusu/FFXIVChnTextPatch](https://github.com/reusu/FFXIVChnTextPatch).
+相較於原版：
+1. 針對5.57版本修正中文字庫補丁
+2. 新增使用CSV進行漢化的功能。CSV是使用修改過的SaintCoinach輸出。
+3. 刪除原版exe中與teemo連線的部分。
 
 ## 使用
-0. 下載、編譯
-1. 點選「設置」，選擇FFXIV遊戲根目錄
-2. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化，其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。
-3. 「原始語言」：想要覆蓋遊戲中的哪種語言。
+0. 下載release或自行編譯
+1. 點選「設置」，選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
+2. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦），其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。 如果是用中國服檔案，請選擇「簡體中文」；如果是用漢化過的覆蓋檔，請選擇該覆蓋檔當初覆蓋的語言。
+3. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
 4. 「目標語言」：簡體中文或繁體中文（非CSV模式才需要選擇）。
 
-En ver.
-1. Clicking the 「設置」 on the top-right and setup your game folder.
-2. 「檔案語言」：Choose CSV to use the CSV files.
-3. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese.
-4. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
 
-## 筆記
+## 編譯筆記
 [製作過程的筆記可以參考這裡。](https://hackmd.io/@GpointChen/SJi_gv-ad)
 
 ## 原項目說明
@@ -82,3 +74,25 @@ En ver.
 	1.此项目仅供学习技术以及技术交流使用
 	2.严禁使用于任何商业用途
 	3.请下载后24小时内删除
+
+
+## English Description
+This tool is used to translate the in-game text and patch the Chinese font files.
+
+It is available to translate via the CSV files that are generated based on a modified version of SaintCoinach. You can also replace the in-game text with anything you want by editing the CSV files.
+
+We only provide the CSV files for the translation, not the files from the CN servers.
+
+This project is forked from [reusu/FFXIVChnTextPatch](https://github.com/reusu/FFXIVChnTextPatch).
+
+### How To Use
+
+0. Download the release pack or compile the source code by yourself.
+1. Clicking the 「設置」 on the top-right and setup your game folder.
+2. 「檔案語言」：Choose CSV to use the CSV files in `resource/rawexd`. Other (Ja, En, De, Fr, Zh-cn) to use the `.dat0` and `.index` files in `resource/text`.
+3. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese. Only Japanese is fully tested.
+4. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
+
+### How to Compile
+
+[The notes of compile process can be found here.](https://hackmd.io/@GpointChen/SJi_gv-ad) (written in zh-TW)
