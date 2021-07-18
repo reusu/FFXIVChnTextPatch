@@ -2391,7 +2391,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 2386,3383,2,True,False,False,5,1,False,False,5,"如果陸行鳥持續加速時間過長，<hex:02100103>體力槽會開始不斷閃爍來進行警告。"
 2387,3383,2,True,False,False,5,1,False,False,5,"下面請試著讓競賽陸行鳥左右移動。"
 2388,3383,2,True,False,False,5,1,False,False,5,"賽道上布置有「踏板」。<hex:02100103>在賽道的各個地方，會布置各種各樣的踏板。"
-2389,3383,2,True,False,False,5,1,False,False,5,"現在的踏板效果是「提升速度」。<hex:02100103>另外，也有會附帶不利效果的踏板，請多加註意。"
+2389,3383,2,True,False,False,5,1,False,False,5,"現在的踏板效果是「提升速度」。<hex:02100103>另外，也有會附帶不利效果的踏板，請多加注意。"
 2390,3383,2,True,False,False,5,1,False,False,5,"除了踏板，在賽道上還會出現「寶箱」。<hex:02100103>接觸到寶箱的話，可以獲得「競賽道具」。"
 2391,3383,2,True,False,False,5,1,False,False,5,"「競賽道具」有著各種各樣的種類。<hex:02100103>請嘗試選擇熱鍵欄中的競賽道具並使用。"
 2392,1010454,3,False,False,False,5,1,False,False,2,"先給你做個示範，記好了哦！"

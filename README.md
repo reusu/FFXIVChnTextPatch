@@ -9,11 +9,22 @@ English description is below.
 3. 刪除原版exe中與teemo連線的部分。
 
 ## 使用
-0. 下載release或自行編譯
-1. 點選「設置」，選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
-2. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦），其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。 如果是用中國服檔案，請選擇「簡體中文」；如果是用漢化過的覆蓋檔，請選擇該覆蓋檔當初覆蓋的語言。
-3. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
-4. 「目標語言」：簡體中文或繁體中文（非CSV模式才需要選擇）。
+![](https://i.imgur.com/ix4u2G3.png)
+
+<img src="https://i.imgur.com/S2XC3U0.png" height="300">
+
+0. 下載右邊的release版本或自行編譯
+1. 開啟EXE程式
+![](https://i.imgur.com/RPim0G0.png)
+2. 點選「設置」
+![](https://i.imgur.com/OypMCof.png)
+3. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
+4. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦），其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。 如果是用中國服檔案，請選擇「簡體中文」；如果是用漢化過的覆蓋檔，請選擇該覆蓋檔當初覆蓋的語言。
+5. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
+6. 「目標語言」：簡體中文或繁體中文（非CSV模式才需要選擇）。
+7. 點擊「確定」
+![](https://i.imgur.com/RPim0G0.png)
+8. 點擊「漢化」
 
 
 ## 編譯筆記
@@ -88,10 +99,14 @@ This project is forked from [reusu/FFXIVChnTextPatch](https://github.com/reusu/F
 ### How To Use
 
 0. Download the release pack or compile the source code by yourself.
-1. Clicking the 「設置」 on the top-right and setup your game folder.
-2. 「檔案語言」：Choose CSV to use the CSV files in `resource/rawexd`. Other (Ja, En, De, Fr, Zh-cn) to use the `.dat0` and `.index` files in `resource/text`.
-3. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese. Only Japanese is fully tested.
-4. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
+1. Launch the .exe.
+2. Clicking the 「設置」 on the top-right.
+3. Setup your game folder.
+4. 「檔案語言」：Choose CSV to use the CSV files in `resource/rawexd`. Other (Ja, En, De, Fr, Zh-cn) to use the `.dat0` and `.index` files in `resource/text`.
+5. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese. Only Japanese is fully tested.
+6. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
+7. Click 「確定」 on the bottom-left.
+8. Click 「漢化」 on the left.
 
 ### How to Compile
 

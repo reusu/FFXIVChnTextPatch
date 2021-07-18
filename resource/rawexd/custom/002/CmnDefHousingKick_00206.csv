@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_001","我們這裡會回收在廢棄或拆除土地、房屋、個人房間之後，<hex:02100103>遺留下的資產，並暫時代為保管。"
-1,"TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_002","資產的保管設有回收期限，還望你能多加註意。"
+1,"TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_002","資產的保管設有回收期限，還望你能多加注意。"
 2,"TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_000","沒有正在被保管的資產，無法回收。"
 3,"TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_001","沒有部隊許可權，無法回收。<hex:02100103>回收資產需要擁有「購買或廢棄土地」的許可權。"
 4,"TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_000","因其他玩家正在使用，故無法進行該操作。<hex:02100103>請稍後再試。"
