@@ -1,5 +1,5 @@
 # FFXIV Translation Patch Tool
-FFXIV的中文漢化器。
+FFXIV的中文漢化器。更新至5.58版本（7/20）。
 
 English description is below.
 
@@ -26,9 +26,21 @@ English description is below.
 ![](https://i.imgur.com/RPim0G0.png)
 8. 點擊「漢化」
 
+為了避免更新時出現問題，建議每次更新前先還原檔案，下載完更新後再次漢化。
+
+還原時不需設置資料夾，直接點擊還原即可。
+
+請注意，如果沒有額外備份原遊戲檔案，請不要重複漢化，因為會覆蓋`backup`資料夾裡面的備份檔。
+
 
 ## 編譯筆記
 [製作過程的筆記可以參考這裡。](https://hackmd.io/@GpointChen/SJi_gv-ad)
+
+
+## 更新註記
+1. 7/21 解決部分使用者會出現亂碼的問題。
+2. 7/20 更新5.58版本內容、新增部分翻譯。
+3. 7/17 問世
 
 ## 原項目說明
 	
