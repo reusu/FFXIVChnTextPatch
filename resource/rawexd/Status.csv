@@ -2071,7 +2071,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2066,"被抽取","受到攻擊的傷害增加",14870,0,149,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,True,0,False,False,0,0,False
 2067,"被抽取","發動攻擊所造成的傷害及自身發動的體力恢復效果降低",14872,0,149,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,0,False
 2068,"折服","攻擊所造成的傷害和命中力提高",15115,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
-2069,"轉化","自身發動的體力恢復效果恢復量提高",12805,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,True,0,False,False,0,0,False
+2069,"轉化","攻擊所造成的傷害和自身發動的體力恢復效果恢復量提高",12805,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,True,0,False,False,0,0,False
 2070,"天星衝日（日）","體力會隨時間逐漸恢復",13246,0,99,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,True,0,False,False,0,0,False
 2071,"天星衝日（夜）","抵消一定傷害",13247,0,99,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,12,False
 2072,"精神統一之策","自身所受體力恢復效果提高",14813,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,20,0,True,0,False,False,0,0,False

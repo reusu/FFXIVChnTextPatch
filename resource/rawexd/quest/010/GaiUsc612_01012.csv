@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSC612_01012_SEQ_00","石場水車的希冪有東西想要交給冒險者。"
-1,"TEXT_GAIUSC612_01012_SEQ_01","收下了<hex:022811FF0A>EventItem<hex:F61E87CE0103>，關於亡靈騎士的情報都收錄在這裡面。返回沙之家，將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給于里昂熱。"
-2,"TEXT_GAIUSC612_01012_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給了于里昂熱。于里昂熱說聖典裡記載的內容也只是基於亞拉戈帝國的立場上看到的真相。現在還依然看不到事件的全貌……"
+1,"TEXT_GAIUSC612_01012_SEQ_01","收下了<hex:022811FF0A>EventItem<hex:F61E87CE0103>，關於亡靈騎士的情報都收錄在這裡面。返回沙之家，將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給於里昂熱。"
+2,"TEXT_GAIUSC612_01012_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給了於里昂熱。於里昂熱說聖典裡記載的內容也只是基於亞拉戈帝國的立場上看到的真相。現在還依然看不到事件的全貌……"
 3,"TEXT_GAIUSC612_01012_SEQ_03",""
 4,"TEXT_GAIUSC612_01012_SEQ_04",""
 5,"TEXT_GAIUSC612_01012_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_GAIUSC612_01012_SEQ_21",""
 22,"TEXT_GAIUSC612_01012_SEQ_22",""
 23,"TEXT_GAIUSC612_01012_SEQ_23",""
-24,"TEXT_GAIUSC612_01012_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給沙之家的于里昂熱"
+24,"TEXT_GAIUSC612_01012_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E87CE0103>交給沙之家的於里昂熱"
 25,"TEXT_GAIUSC612_01012_TODO_01",""
 26,"TEXT_GAIUSC612_01012_TODO_02",""
 27,"TEXT_GAIUSC612_01012_TODO_03",""
@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_GAIUSC612_01012_SIMMIE_000_000","多謝你幫助我們調查惡神「奧丁」。"
 49,"TEXT_GAIUSC612_01012_SIMMIE_000_001","到現在為止已經判明的所有受害情況，<hex:02100103>還有基於我獨自調查得出的推論，<hex:02100103>都整理在這份<hex:022811FF0A>EventItem<hex:F61E87CE0103>裡。"
 50,"TEXT_GAIUSC612_01012_SIMMIE_000_002","奧·阿帕·佩西大人和盧因大人那邊由我來提交。"
-51,"TEXT_GAIUSC612_01012_SIMMIE_000_003","這冊請你拿去，<hex:02100103>轉交給「拂曉血盟」的于里昂熱大人。"
+51,"TEXT_GAIUSC612_01012_SIMMIE_000_003","這冊請你拿去，<hex:02100103>轉交給「拂曉血盟」的於里昂熱大人。"
 52,"TEXT_GAIUSC612_01012_SIMMIE_000_004","如果惡神「奧丁」開始襲擊森林裡的住民的話……<hex:02100103>請你到那時一定要幫助我們……"
 53,"TEXT_GAIUSC612_01012_URIANGER_000_010","<hex:022903EB0203>，你除去黑衣森林裡蠻神的那層面紗了嗎？"
 54,"TEXT_GAIUSC612_01012_URIANGER_000_020","……惡神「奧丁」。<hex:02100103>是聖典裡描述的上古「鬪神」嗎……"

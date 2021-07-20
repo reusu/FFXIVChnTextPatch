@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000","我認識你，你就是于里昂熱的朋友吧！<hex:02100103>非常歡迎你來這邊！請慢慢享受吧。<hex:02100103>不管是1天還是2天……不論待到多久都行。"
+0,"TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000","我認識你，你就是於里昂熱的朋友吧！<hex:02100103>非常歡迎你來這邊！請慢慢享受吧。<hex:02100103>不管是1天還是2天……不論待到多久都行。"
 1,"TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000","想了解什麼？"
 2,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_001","你是做什麼的？"
 3,"TEXT_REGNOR4LYDHALRAN_00599_A1_000_002","這裡是什麼地方？"

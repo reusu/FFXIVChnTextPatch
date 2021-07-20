@@ -111,7 +111,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 106,"胖兒陸行鳥",0,"",0,0,1,0,0,800,100,1,0,0,0,1,0,8,0,False,False,False,False,True,0,False,True,4506,7,True,90,15,360,42,0,20,1,620,1
 107,"迷你伊達",0,"",0,0,1,0,0,878,100,10,0,0,0,1,0,8,262,False,True,False,True,False,0,False,True,4501,9004,True,0,25,460,1,30,20,1,606,3
 108,"迷你帕帕力莫",0,"",0,0,1,0,0,879,100,10,0,0,0,1,0,8,262,False,True,False,True,False,0,False,True,4502,9005,True,0,20,420,20,120,20,1,633,3
-109,"迷你于里昂熱",0,"",0,0,1,0,0,880,100,10,0,0,0,1,0,8,262,False,True,False,True,False,0,False,True,4503,9006,True,0,20,435,1,120,20,1,616,3
+109,"迷你於里昂熱",0,"",0,0,1,0,0,880,100,10,0,0,0,1,0,8,262,False,True,False,True,False,0,False,True,4503,9006,True,0,20,435,1,120,20,1,616,3
 110,"貓小胖",0,"",0,0,1,0,0,802,100,10,0,0,0,1,0,8,61,True,False,False,False,True,0,False,True,4507,3005,True,0,10,380,12,360,20,2,626,1
 111,"小腳雪人",0,"",0,0,1,0,0,801,100,10,0,0,0,2,0,8,62,True,False,True,False,True,0,False,True,4508,1042,True,0,15,410,1,30,20,1,611,2
 112,"小木乃伊",0,"",0,0,1,0,0,798,100,5,10,0,0,2,0,8,63,True,False,False,True,False,0,False,True,4509,1043,True,0,15,475,23,30,20,2,613,2
