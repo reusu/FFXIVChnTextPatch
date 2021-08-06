@@ -9,22 +9,7 @@ English description is below.
 3. 刪除原版exe中與teemo連線的部分。
 
 ## 使用
-![](https://i.imgur.com/ix4u2G3.png)
-
-<img src="https://i.imgur.com/S2XC3U0.png" height="300">
-
-0. 下載右邊的release版本或自行編譯
-1. 開啟EXE程式
-![](https://i.imgur.com/RPim0G0.png)
-2. 點選「設置」
-![](https://i.imgur.com/OypMCof.png)
-3. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
-4. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦），其他選項代表使用`resource/text`裡面的中國服版本檔案進行漢化或已經漢化過的覆蓋檔。 如果是用中國服檔案，請選擇「簡體中文」；如果是用漢化過的覆蓋檔，請選擇該覆蓋檔當初覆蓋的語言。
-5. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
-6. 「目標語言」：簡體中文或繁體中文（非CSV模式才需要選擇）。
-7. 點擊「確定」
-![](https://i.imgur.com/RPim0G0.png)
-8. 點擊「漢化」
+目前可以使用CSV、中國服檔案或他人製作的漢化覆蓋檔進行漢化。
 
 為了避免更新時出現問題，建議每次更新前先還原檔案，下載完更新後再次漢化。
 
@@ -32,15 +17,59 @@ English description is below.
 
 請注意，如果沒有額外備份原遊戲檔案，請不要重複漢化，因為會覆蓋`backup`資料夾裡面的備份檔。
 
+![](https://i.imgur.com/ix4u2G3.png)
+
+![](https://i.imgur.com/kMrYQlj.png)
+
+### 如何使用CSV進行漢化？（推薦）
+0. 下載右邊的release版本或自行編譯
+1. 開啟EXE程式
+![](https://i.imgur.com/RPim0G0.png)
+2. 點選「設置」
+![](https://i.imgur.com/OypMCof.png)
+3. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
+4. 「檔案語言」：CSV代表使用`resource/rawexd`裡面的CSV檔案進行漢化（推薦）
+5. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
+6. 「目標語言」：（不需選擇）
+7. 點擊「確定」
+![](https://i.imgur.com/RPim0G0.png)
+8. 點擊「漢化」
+
+
+### 如何使用中國服檔案進行漢化？
+0. 下載右邊的release版本或自行編譯
+1. 將中國服的0a0000三個檔案放至`resource/text`資料夾下
+2. 開啟EXE程式
+3. 點選「設置」
+4. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
+5. 「檔案語言」：如果是用中國服檔案，請選擇「簡體中文」
+6. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
+7. 「目標語言」：想要漢化成簡體中文或繁體中文。
+8. 點擊「確定」
+9. 點擊「漢化」
+
+### 如何使用別人已經漢化過的（0a0000等）檔案進行漢化？
+0. 下載右邊的release版本或自行編譯
+1. 將覆蓋檔的0a0000三個檔案放至`resource/text`資料夾下
+2. 開啟EXE程式
+3. 點選「設置」
+4. 選擇FFXIV遊戲根目錄（例如：`D:\FFXIV\SquareEnix\FINAL FANTASY XIV - A Realm Reborn`）
+5. 「檔案語言」：如果是用漢化過的覆蓋檔，請選擇該覆蓋檔當初覆蓋的語言。大多數覆蓋檔均為覆蓋日文。
+6. 「原始語言」：想要覆蓋遊戲中的哪種語言（我自己是覆蓋日文，不保證覆蓋其他語言會不會有問題）。
+7. 「目標語言」：想要漢化成簡體中文或繁體中文。請注意，如果原本覆蓋檔已經是繁體中文漢化，在此請選擇「簡體中文」避免多餘的簡繁轉換。
+8. 點擊「確定」
+9. 點擊「漢化」
+
 
 ## 編譯筆記
 [製作過程的筆記可以參考這裡。](https://hackmd.io/@GpointChen/SJi_gv-ad)
 
 
 ## 更新註記
-1. 7/21 解決部分使用者會出現亂碼的問題。
-2. 7/20 更新5.58版本內容、新增部分翻譯。
-3. 7/17 問世
+1. 8/6 更新部分漢化
+2. 7/21 解決部分使用者會出現亂碼的問題以及部分使用者無法正確執行的問題。
+3. 7/20 更新5.58版本內容、新增部分翻譯。
+4. 7/17 問世
 
 ## 原項目說明
 	
