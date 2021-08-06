@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,"TEXT_HEAVNZ023_01748_SEQ_00","玫瑰園的拉妮艾特正在尋找能幫她幹活的人。"
-1,"TEXT_HEAVNZ023_01748_SEQ_01","拉妮艾特拜託冒險者取來<hex:02280FFF09>BNpcName<hex:F20DA60103>的飛膜。前往阿巴拉提亞雲海討伐雲頂的<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定幾率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。"
-2,"TEXT_HEAVNZ023_01748_SEQ_02","無法從<hex:02280FFF09>BNpcName<hex:F20DA60103>身上獲得<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。繼續討伐<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定幾率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。"
+1,"TEXT_HEAVNZ023_01748_SEQ_01","拉妮艾特拜託冒險者取來<hex:02280FFF09>BNpcName<hex:F20DA60103>的飛膜。前往阿巴拉提亞雲海討伐雲頂的<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定機率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。"
+2,"TEXT_HEAVNZ023_01748_SEQ_02","無法從<hex:02280FFF09>BNpcName<hex:F20DA60103>身上獲得<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。繼續討伐<hex:02280FFF09>BNpcName<hex:F20DA60103>，獲取有一定機率取得的<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。"
 3,"TEXT_HEAVNZ023_01748_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8ABF0103>。將<hex:022811FF0A>EventItem<hex:F61E8ABF0103>交給玫瑰園的拉妮艾特。"
 4,"TEXT_HEAVNZ023_01748_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8ABF0103>交給了拉妮艾特。她的一位名為阿特魯納的友人是位博物學家，為了編纂«新艾歐澤亞博物志»而需要這片飛膜。"
 5,"TEXT_HEAVNZ023_01748_SEQ_05",""

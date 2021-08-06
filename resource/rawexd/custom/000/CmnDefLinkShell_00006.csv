@@ -63,7 +63,7 @@ int32,str,str
 58,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_001","如果你想要加入通訊貝，<hex:02100103>那麼需要得到那個通訊貝「管理員」或「隊長」的邀請。"
 59,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_002","在你接受邀請後，<hex:02100103>將會正式成為通訊貝的一員。"
 60,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_003_SYS","接受加入通訊貝的邀請後，<hex:02100103>在選擇「正式加入」之前，<hex:02100103>可以查看成員一覽，進行確認。"
-61,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_004_SYS","但只有在「正式加入」之後，<hex:02100103>才可以查看通訊貝中的聊天信息或進行發言。"
+61,"TEXT_CMNDEFLINKSHELL_00006_ENTER_GUIDE_004_SYS","但只有在「正式加入」之後，<hex:02100103>才可以查看通訊貝中的聊天訊息或進行發言。"
 62,"TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_001","如果有了通訊貝，<hex:02100103>就可以和身在遠方的成員對話，<hex:02100103>就像是面對面交談一樣。"
 63,"TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_002_SYS","點擊聊天視窗下方的氣泡，<hex:02100103>選擇想要參與的通訊貝，<hex:02100103>這樣就可以在通訊貝中發言了。"
 64,"TEXT_CMNDEFLINKSHELL_00006_CHAT_GUIDE_003_SYS","也可以從通訊貝列表中選擇想要發言的通訊貝，<hex:02100103>點擊次級指令中的「在此通訊貝中發言」來進行發言。"

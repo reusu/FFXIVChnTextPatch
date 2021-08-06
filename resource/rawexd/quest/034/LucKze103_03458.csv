@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,"TEXT_LUCKZE103_03458_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>喬布要塞的卡蕾雅在困擾著。"
 1,"TEXT_LUCKZE103_03458_SEQ_01","※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>冒險者需要為受到食罪靈的襲擊而受傷的士兵制作血清。為了收集材料，和雷克蘭德迷途羊倌之森的卡蕾雅談談。"
-2,"TEXT_LUCKZE103_03458_SEQ_02","卡蕾雅委託冒險者去採取作為血清原料的毒液。討伐迷途羊倌之森的<hex:02280FFF09>BNpcName<hex:F221360103>有幾率獲得獲得<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。"
+2,"TEXT_LUCKZE103_03458_SEQ_02","卡蕾雅委託冒險者去採取作為血清原料的毒液。討伐迷途羊倌之森的<hex:02280FFF09>BNpcName<hex:F221360103>有機率獲得獲得<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。"
 3,"TEXT_LUCKZE103_03458_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8EEB0103>。將<hex:022811FF0A>EventItem<hex:F61E8EEB0103>交給迷途羊倌之森的卡蕾雅。"
 4,"TEXT_LUCKZE103_03458_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8EEB0103>交給了卡蕾雅。這樣一來就可以順利做出血清了。"
 5,"TEXT_LUCKZE103_03458_SEQ_05",""
