@@ -1,3 +1,5 @@
+/backup/*
 /bin/
+/conf/*
 /jre/
-/backup/
+
