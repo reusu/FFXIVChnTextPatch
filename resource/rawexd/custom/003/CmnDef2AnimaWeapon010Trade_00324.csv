@@ -43,4 +43,4 @@ int32,str,str
 38,"TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_053","想要用流光水晶進行交易的話，<hex:02100103>可以參加特定區域的危命任務，<hex:02100103>通過獲得貢獻度偶爾獲得以下流光水晶。"
 39,"TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_054","在魔大陸阿濟茲拉可以獲得<hex:02280BFF05>Item<hex:F235030103>，<hex:02100103>在阿巴拉提亞雲海可以獲得<hex:02280BFF05>Item<hex:F235020103>，<hex:02100103>在翻雲霧海可以獲得<hex:02280BFF05>Item<hex:F235050103>。"
 40,"TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_055","在庫爾札斯西部高地可以獲得<hex:02280BFF05>Item<hex:F235010103>，<hex:02100103>在龍堡參天高地可以獲得<hex:02280BFF05>Item<hex:F235040103>，<hex:02100103>在龍堡內陸低地可以獲得<hex:02280BFF05>Item<hex:F235060103>。"
-41,"TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_056","另外，流光水晶的獲得<hex:02100103>與參加危命任務時的戰鬥精英和魔法導師的等級無關，<hex:02100103>而是通過參加危命任務，獲得貢獻度，可以偶爾獲得。"
+41,"TEXT_CMNDEF2ANIMAWEAPON010TRADE_00324_SYSTEM_100_056","另外，流光水晶的獲得<hex:02100103>與參加危命任務時的戰鬥菁英和魔法導師的等級無關，<hex:02100103>而是通過參加危命任務，獲得貢獻度，可以偶爾獲得。"

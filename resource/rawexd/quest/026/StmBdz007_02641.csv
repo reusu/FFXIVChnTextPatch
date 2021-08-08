@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_000","是<hex:02084FE1E93501FF47><hex:020843E3E93580FF3B><hex:022903EB0203><hex:020831E1E93501FF29><hex:020825E3E93580FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E9350103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:020852E1E93601FF4A><hex:020846E3E93680FF3E><hex:022903EB0203><hex:020834E1E93601FF2C><hex:020828E3E93680FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E9360103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:02084FE1E93701FF47><hex:020843E3E93780FF3B><hex:022903EB0203><hex:020831E1E93701FF29><hex:020825E3E93780FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E9370103><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03><hex:FF01><hex:03>啊。<hex:02100103>請你協助我們的追擊任務，追擊逃亡中的帝國兵。"
 49,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_001","我們在巴埃薩長城的戰鬥中捕獲了3名帝國兵俘虜，<hex:02100103>俘虜趁著衛兵交接班的間隙從牢房裡逃走了。<hex:02100103>萬幸的是，搜索隊很快發現狀況並查明了他們的去向。"
 50,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_002","而且，我們這邊的動向還沒有被他們發覺，<hex:02100103>抓緊時間的話，說不定還有機會發動奇襲。"
-51,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_003","不過儘管敵人人數很少，但個個都是精英。<hex:02100103>現在這邊能夠動身的士兵就只有我，<hex:02100103>身經百戰的冒險者，我想請求你的幫助。"
+51,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_003","不過儘管敵人人數很少，但個個都是菁英。<hex:02100103>現在這邊能夠動身的士兵就只有我，<hex:02100103>身經百戰的冒險者，我想請求你的幫助。"
 52,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_004","逃走的俘虜正潛伏在威羅迪納河西北方的洞窟中。<hex:02100103>請和我一起前往，助我一臂之力。"
 53,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_010","……抱歉，得救了。"
 54,"TEXT_STMBDZ007_02641_MAELSTROM02641_000_011","偵察兵發來的聯絡說是沒有被發現，<hex:02100103>結果完全就是被伏擊了。"

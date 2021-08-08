@@ -122,7 +122,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 117,"捨身","攻擊所造成的傷害提高，受到攻擊的傷害也會增加",10304,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
 118,"櫻花怒放","體力逐漸減少",10307,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 119,"二重刺","體力逐漸減少",10305,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
-120,"龍槍","下次發動跳躍或破碎沖的傷害提高",10303,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+120,"龍槍","下次發動跳躍或破碎衝的傷害提高",10303,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 121,"開膛槍","突刺耐性降低",12576,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-5,0,False,0,False,False,0,0,False
 122,"直線射擊預備","可以發動直線射擊",10365,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 123,"鷹眼","靈巧有所提高，並且攻擊必定會命中",10351,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
@@ -738,7 +738,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 733,"放縱IV","暴擊發動率提高",18324,0,1,1,16,7,False,False,False,False,False,False,False,False,False,0,False,False,False,8,0,False,0,False,False,0,0,False
 734,"放縱V","暴擊發動率提高",18325,0,1,1,16,7,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
 735,"原初的直覺","減輕所受到的傷害",12555,0,1,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,-20,0,False,0,False,False,0,0,False
-736,"蒼天龍血","跳躍和破碎沖的威力提高",12577,0,1,1,16,21,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+736,"蒼天龍血","跳躍和破碎衝的威力提高",12577,0,1,1,16,21,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 737,"黑魔紋","在地上產生黑魔紋",12653,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 738,"魔紋環","受到黑魔紋的效果影響，自動攻擊間隔縮短，魔法的詠唱及複唱時間縮短",12654,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,-15,0,False,0,False,False,0,0,False
 739,"庇護所","產生能夠令範圍內隊員恢復體力的區域",12629,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,True,0,False,False,0,0,False

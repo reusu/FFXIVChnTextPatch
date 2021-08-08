@@ -19,7 +19,7 @@ int32,str,str
 14,"TEXT_FESANV2018GUIDE_00508_A2_000_004","返回"
 15,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_040","這次軍事演習，是假定都市受到了帝國軍和妖異的進攻，<hex:02100103>將烏爾達哈的一角封鎖起來並在那裡進行的。"
 16,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_041","「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」<hex:02100103>是從單人最多到滿編小隊（8人），可以任意人數參加，<hex:02100103>攻略恆輝隊市區軍事演習的季節活動任務。"
-17,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_042","只有等級在30級以上的戰鬥精英或魔法導師才可參加。"
+17,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_042","只有等級在30級以上的戰鬥菁英或魔法導師才可參加。"
 18,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_043","另外，「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」設有等級同步限制<hex:02100103>角色等級將自動同步到50級。"
 19,"TEXT_FESANV2018GUIDE_00508_SYSTEM_100_043","並且，「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」設有品級同步限制，<hex:02100103>所有裝備的性能將被調整到「110級」以下。"
 20,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_044","同時，與通常的副本任務不同，<hex:02100103>一個區域中可同時容納最多144位玩家。<hex:02100103>請與其他玩家互相協助進行攻略。"

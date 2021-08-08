@@ -15,7 +15,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 10,"紛爭前線",2,True,False,4
 11,"烈羽爭鋒",2,True,False,5
 12,"整體",3,True,False,1
-13,"戰鬥精英",3,True,False,2
+13,"戰鬥菁英",3,True,False,2
 14,"魔法導師",3,True,False,3
 15,"能工巧匠",3,True,False,4
 16,"大地使者",3,True,False,5

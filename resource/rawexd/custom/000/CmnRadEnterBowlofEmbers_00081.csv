@@ -8,7 +8,7 @@ int32,str,str
 3,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_A1_2","開始「伊弗利特討伐戰」"
 4,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_A1_3","取消"
 5,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_ADALA_5","聽說炎帝陵是一個極為恐怖的地方。<hex:02100103>但沒想到事態會發展到這種地步……"
-6,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_SYSTEM_6","開始「伊弗利特討伐戰」，<hex:02100103>需要4名等級達到<hex:02100103>20級以上的戰鬥精英或魔法導師來組成隊伍。"
+6,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_SYSTEM_6","開始「伊弗利特討伐戰」，<hex:02100103>需要4名等級達到<hex:02100103>20級以上的戰鬥菁英或魔法導師來組成隊伍。"
 7,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_SYSTEM_7","任務開始之後經過60分鐘（地球時間）<hex:02100103>將強制結束「伊弗利特討伐戰」。"
 8,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_SYSTEM_8","另外，等級達到23級以上的玩家在攻略此任務時將視為22級。"
 9,"TEXT_CMNRADENTERBOWLOFEMBERS_00081_SYSTEM_9","在留有戰利品的狀態下離開「炎帝陵」的話，<hex:02100103>戰利品中的道具會自動轉移到背包裡。<hex:02100103>請注意：無法獲取的道具會自動丟棄。"

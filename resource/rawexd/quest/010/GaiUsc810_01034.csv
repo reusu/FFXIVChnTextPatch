@@ -5,7 +5,7 @@ int32,str,str
 0,"TEXT_GAIUSC810_01034_SEQ_00","南防波堤的黑渦團團員斯塔爾瑞特，希望冒險者幫他籌備一樣東西。"
 1,"TEXT_GAIUSC810_01034_SEQ_01","接受了委託，去搶奪諾爾特穆恩最喜歡的食物。打倒海蛇巢穴裡的<hex:02280FFF09>BNpcName<hex:F201680103>，得到8個<hex:022811FF0A>EventItem<hex:F61E87D00103>。"
 2,"TEXT_GAIUSC810_01034_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E87D00103>。回到南防波堤，將其交給黑渦團團員斯塔爾瑞特。"
-3,"TEXT_GAIUSC810_01034_SEQ_03","斯塔爾瑞特不知如何處理冒險者帶來的<hex:022811FF0A>EventItem<hex:F61E87D00103>，因此他決定將其送給部下。他一想象哥哥諾爾特穆恩那不甘的表情，就不禁笑起來……"
+3,"TEXT_GAIUSC810_01034_SEQ_03","斯塔爾瑞特不知如何處理冒險者帶來的<hex:022811FF0A>EventItem<hex:F61E87D00103>，因此他決定將其送給部下。他一想像哥哥諾爾特穆恩那不甘的表情，就不禁笑起來……"
 4,"TEXT_GAIUSC810_01034_SEQ_04",""
 5,"TEXT_GAIUSC810_01034_SEQ_05",""
 6,"TEXT_GAIUSC810_01034_SEQ_06",""
