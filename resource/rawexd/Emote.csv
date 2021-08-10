@@ -231,8 +231,8 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 226,"黃色陸行鳥之筆",8019,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,3013,627,64408,8204,8205,418,1
 227,"藍色陸行鳥之筆",8020,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,3014,628,64409,8206,8207,418,1
 228,"表情：假笑",8021,0,8021,8021,8021,8021,0,True,True,True,3,0,False,False,False,False,20028,629,64132,8200,8201,0,1
-229,"パントマイム",7420,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,6032,630,64410,8208,8209,237,550
-230,"感到困惑",8044,0,8046,8045,8045,0,0,True,True,True,1,0,False,True,False,False,5021,631,64411,8210,8211,238,550
+229,"默劇",7420,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,6032,630,64410,8208,8209,237,550
+230,"困惑",8044,0,8046,8045,8045,0,0,True,True,True,1,0,False,True,False,False,5021,631,64411,8210,8211,238,550
 231,"靜寂を促す",7397,0,0,7398,7398,0,0,True,True,True,1,0,False,True,False,False,6008,632,64412,8212,8213,69602,550
 232,"吃披薩",8047,0,0,8048,8048,0,0,True,True,True,1,0,False,True,False,False,6015,633,64413,8214,8215,240,550
 233,"",0,0,0,0,0,0,0,False,False,False,0,0,False,False,False,False,0,0,0,0,0,0,0

@@ -7,7 +7,7 @@ int32,bit&01,bit&02,byte,str,Image
 2,False,False,0,"遊戲管理員",61524
 3,False,False,0,"遊戲管理員",61532
 4,False,False,0,"活動參與者",61533
-5,False,False,0,"通信切斷",61503
+5,False,False,0,"通訊切斷",61503
 6,True,False,1,"臨時好友",61501
 7,True,False,2,"臨時加入",61501
 8,True,False,3,"臨時加入",61501
@@ -27,7 +27,7 @@ int32,bit&01,bit&02,byte,str,Image
 22,True,False,18,"角色扮演中",61545
 23,True,False,19,"希望組隊",61515
 24,True,False,20,"傭兵",61516
-25,True,False,21,"任務搜索申請中",61517
+25,True,False,21,"任務搜尋申請中",61517
 26,True,False,22,"隊員招募中",61536
 27,True,False,31,"指導者",61540
 28,True,False,32,"戰鬥指導者",61542

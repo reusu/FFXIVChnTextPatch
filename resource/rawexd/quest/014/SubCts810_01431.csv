@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_SUBCTS810_01431_SEQ_00","沉溺海豚亭的伊·托爾婉有事情想要告訴冒險者。"
-1,"TEXT_SUBCTS810_01431_SEQ_01","接受了伊·托爾婉的委託，尋找<hex:022811FF0A>EventItem<hex:F61E89910103>的主人。和沉溺海豚亭的坎特南談談。"
-2,"TEXT_SUBCTS810_01431_SEQ_02","和坎特南進行了交談。看來筆記是一個名叫瓦斯特雷德的魯加族冒險者的東西。將<hex:022811FF0A>EventItem<hex:F61E89910103>交給利姆薩·羅敏薩碼頭的瓦斯特雷德。"
+0,"TEXT_SUBCTS810_01431_SEQ_00","沉溺海豚亭的伊・托爾婉有事情想要告訴冒險者。"
+1,"TEXT_SUBCTS810_01431_SEQ_01","接受了伊・托爾婉的委託，尋找<hex:022811FF0A>EventItem<hex:F61E89910103>的主人。和沉溺海豚亭的坎特南談談。"
+2,"TEXT_SUBCTS810_01431_SEQ_02","和坎特南進行了交談。看來筆記是一個名叫瓦斯特雷德的魯加族冒險者的東西。將<hex:022811FF0A>EventItem<hex:F61E89910103>交給利姆薩・羅敏薩碼頭的瓦斯特雷德。"
 3,"TEXT_SUBCTS810_01431_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E89910103>交給了瓦斯特雷德。作為謝禮，他送給了冒險者一本新的挑戰筆記。挑戰筆記中記載著作為冒險者應當完成的課題和各種挑戰。活用筆記，積累更多的經驗。"
 4,"TEXT_SUBCTS810_01431_SEQ_04",""
 5,"TEXT_SUBCTS810_01431_SEQ_05",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_SUBCTS810_01431_SEQ_22",""
 23,"TEXT_SUBCTS810_01431_SEQ_23",""
 24,"TEXT_SUBCTS810_01431_TODO_00","和坎特南對話"
-25,"TEXT_SUBCTS810_01431_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E89910103>交給利姆薩·羅敏薩碼頭的瓦斯特雷德"
+25,"TEXT_SUBCTS810_01431_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E89910103>交給利姆薩・羅敏薩碼頭的瓦斯特雷德"
 26,"TEXT_SUBCTS810_01431_TODO_02",""
 27,"TEXT_SUBCTS810_01431_TODO_03",""
 28,"TEXT_SUBCTS810_01431_TODO_04",""

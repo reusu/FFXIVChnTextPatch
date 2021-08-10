@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSD702_00498_SEQ_00","喪靈鐘的珂爾·拉布恩塔想和冒險者做筆交易。"
-1,"TEXT_GAIUSD702_00498_SEQ_01","決定將水晶塔的調查記錄拿給借用著珂爾·拉布恩塔身體的諾亞。去三個地方調查、追憶，取得封入記憶的小恬寶珠。突破古代人迷宮可獲得<hex:022811FF0A>EventItem<hex:F61E8A900103>，突破希爾科斯塔可獲得<hex:022811FF0A>EventItem<hex:F61E8A910103>，突破暗之世界可獲得<hex:022811FF0A>EventItem<hex:F61E8A920103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。"
-2,"TEXT_GAIUSD702_00498_SEQ_02","集齊了所有的小恬寶珠，將<hex:022811FF0A>EventItem<hex:F61E8A900103>、<hex:022811FF0A>EventItem<hex:F61E8A910103>、<hex:022811FF0A>EventItem<hex:F61E8A920103>交給喪靈鐘的珂爾·拉布恩塔。"
-3,"TEXT_GAIUSD702_00498_SEQ_03","將三顆寶珠交給珂爾·拉布恩塔，得到了她的祝福與等價的報酬。善加使用這些東西，向未來邁進。"
+0,"TEXT_GAIUSD702_00498_SEQ_00","喪靈鐘的珂爾・拉布恩塔想和冒險者做筆交易。"
+1,"TEXT_GAIUSD702_00498_SEQ_01","決定將水晶塔的調查記錄拿給借用著珂爾・拉布恩塔身體的諾亞。去三個地方調查、追憶，取得封入記憶的小恬寶珠。突破古代人迷宮可獲得<hex:022811FF0A>EventItem<hex:F61E8A900103>，突破希爾科斯塔可獲得<hex:022811FF0A>EventItem<hex:F61E8A910103>，突破暗之世界可獲得<hex:022811FF0A>EventItem<hex:F61E8A920103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。"
+2,"TEXT_GAIUSD702_00498_SEQ_02","集齊了所有的小恬寶珠，將<hex:022811FF0A>EventItem<hex:F61E8A900103>、<hex:022811FF0A>EventItem<hex:F61E8A910103>、<hex:022811FF0A>EventItem<hex:F61E8A920103>交給喪靈鐘的珂爾・拉布恩塔。"
+3,"TEXT_GAIUSD702_00498_SEQ_03","將三顆寶珠交給珂爾・拉布恩塔，得到了她的祝福與等價的報酬。善加使用這些東西，向未來邁進。"
 4,"TEXT_GAIUSD702_00498_SEQ_04",""
 5,"TEXT_GAIUSD702_00498_SEQ_05",""
 6,"TEXT_GAIUSD702_00498_SEQ_06",""
@@ -29,7 +29,7 @@ int32,str,str
 24,"TEXT_GAIUSD702_00498_TODO_00","突破古代人迷宮 獲得<hex:022811FF0A>EventItem<hex:F61E8A900103>"
 25,"TEXT_GAIUSD702_00498_TODO_01","突破希爾科斯塔 獲得<hex:022811FF0A>EventItem<hex:F61E8A910103>"
 26,"TEXT_GAIUSD702_00498_TODO_02","突破暗之世界 獲得<hex:022811FF0A>EventItem<hex:F61E8A920103>"
-27,"TEXT_GAIUSD702_00498_TODO_03","將三顆寶珠交給喪靈鐘的珂爾·拉布恩塔"
+27,"TEXT_GAIUSD702_00498_TODO_03","將三顆寶珠交給喪靈鐘的珂爾・拉布恩塔"
 28,"TEXT_GAIUSD702_00498_TODO_04",""
 29,"TEXT_GAIUSD702_00498_TODO_05",""
 30,"TEXT_GAIUSD702_00498_TODO_06",""

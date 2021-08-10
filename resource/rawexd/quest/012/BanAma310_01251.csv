@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA310_01251_SEQ_00","灰陣營的雅德夫·夏很信任冒險者，想要委託一件事。"
-1,"TEXT_BANAMA310_01251_SEQ_01","接受了雅德夫·夏的委託。破壞不悔戰陣的2座<hex:02280FFF09>BNpcName<hex:F207560103>。"
-2,"TEXT_BANAMA310_01251_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F207560103>。向灰陣營的雅德夫·夏報告。"
-3,"TEXT_BANAMA310_01251_SEQ_03","向雅德夫·夏報告完畢。冒險者破壞了<hex:02280FFF09>BNpcName<hex:F207560103>，雅德夫·夏高度讚揚了冒險者的精彩表現。他似乎心情很好，說炎牙眾勝利的日子已經不遠了。下次有機會再協助他。"
+0,"TEXT_BANAMA310_01251_SEQ_00","灰陣營的雅德夫・夏很信任冒險者，想要委託一件事。"
+1,"TEXT_BANAMA310_01251_SEQ_01","接受了雅德夫・夏的委託。破壞不悔戰陣的2座<hex:02280FFF09>BNpcName<hex:F207560103>。"
+2,"TEXT_BANAMA310_01251_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F207560103>。向灰陣營的雅德夫・夏報告。"
+3,"TEXT_BANAMA310_01251_SEQ_03","向雅德夫・夏報告完畢。冒險者破壞了<hex:02280FFF09>BNpcName<hex:F207560103>，雅德夫・夏高度讚揚了冒險者的精彩表現。他似乎心情很好，說炎牙眾勝利的日子已經不遠了。下次有機會再協助他。"
 4,"TEXT_BANAMA310_01251_SEQ_04",""
 5,"TEXT_BANAMA310_01251_SEQ_05",""
 6,"TEXT_BANAMA310_01251_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA310_01251_SEQ_22",""
 23,"TEXT_BANAMA310_01251_SEQ_23",""
 24,"TEXT_BANAMA310_01251_TODO_00","破壞不悔戰陣的<hex:02280FFF09>BNpcName<hex:F207560103>"
-25,"TEXT_BANAMA310_01251_TODO_01","向雅德夫·夏報告"
+25,"TEXT_BANAMA310_01251_TODO_01","向雅德夫・夏報告"
 26,"TEXT_BANAMA310_01251_TODO_02",""
 27,"TEXT_BANAMA310_01251_TODO_03",""
 28,"TEXT_BANAMA310_01251_TODO_04",""

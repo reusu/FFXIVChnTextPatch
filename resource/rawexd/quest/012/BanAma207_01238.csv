@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA207_01238_SEQ_00","灰陣營的納爾基·冬想要冒險者做一件事。"
-1,"TEXT_BANAMA207_01238_SEQ_01","接受了納爾基·冬的委託。在贊拉克南部的<hex:02280CFF05>EObj<hex:F61E90F50103>張望，打敗現身的<hex:02280FFF09>BNpcName<hex:F208FC0103>，對其使用<hex:022811FF0A>EventItem<hex:F61E89290103>。"
-2,"TEXT_BANAMA207_01238_SEQ_02","對<hex:02280FFF09>BNpcName<hex:F208FC0103>們使用了<hex:022811FF0A>EventItem<hex:F61E89290103>。向灰陣營的納爾基·冬報告。"
-3,"TEXT_BANAMA207_01238_SEQ_03","向納爾基·冬報告完畢。冒險者給炎牙眾造成了屈辱，納爾基·冬對此感到很痛快。他說同伴們的心情也好轉了，士氣也上升了。下次有機會再協助他。"
+0,"TEXT_BANAMA207_01238_SEQ_00","灰陣營的納爾基・冬想要冒險者做一件事。"
+1,"TEXT_BANAMA207_01238_SEQ_01","接受了納爾基・冬的委託。在贊拉克南部的<hex:02280CFF05>EObj<hex:F61E90F50103>張望，打敗現身的<hex:02280FFF09>BNpcName<hex:F208FC0103>，對其使用<hex:022811FF0A>EventItem<hex:F61E89290103>。"
+2,"TEXT_BANAMA207_01238_SEQ_02","對<hex:02280FFF09>BNpcName<hex:F208FC0103>們使用了<hex:022811FF0A>EventItem<hex:F61E89290103>。向灰陣營的納爾基・冬報告。"
+3,"TEXT_BANAMA207_01238_SEQ_03","向納爾基・冬報告完畢。冒險者給炎牙眾造成了屈辱，納爾基・冬對此感到很痛快。他說同伴們的心情也好轉了，士氣也上升了。下次有機會再協助他。"
 4,"TEXT_BANAMA207_01238_SEQ_04",""
 5,"TEXT_BANAMA207_01238_SEQ_05",""
 6,"TEXT_BANAMA207_01238_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA207_01238_SEQ_22",""
 23,"TEXT_BANAMA207_01238_SEQ_23",""
 24,"TEXT_BANAMA207_01238_TODO_00","在贊拉克南部的<hex:02280CFF05>EObj<hex:F61E90F50103>張望<hex:02100103>打敗現身的<hex:02280FFF09>BNpcName<hex:F208FC0103> 對其使用<hex:022811FF0A>EventItem<hex:F61E89290103>"
-25,"TEXT_BANAMA207_01238_TODO_01","向納爾基·冬報告"
+25,"TEXT_BANAMA207_01238_TODO_01","向納爾基・冬報告"
 26,"TEXT_BANAMA207_01238_TODO_02",""
 27,"TEXT_BANAMA207_01238_TODO_03",""
 28,"TEXT_BANAMA207_01238_TODO_04",""

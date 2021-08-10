@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA204_01235_SEQ_00","灰陣營的納爾基·冬有事想要委託冒險者。"
-1,"TEXT_BANAMA204_01235_SEQ_01","接受了納爾基·冬的委託。對贊拉克側翼陣周圍的<hex:02280CFF05>EObj<hex:F61E917B0103>使用<hex:022811FF0A>EventItem<hex:F61E89260103>。此外，火撲滅後很可能會遭到炎牙眾爪牙的襲擊。討伐現身的<hex:02280FFF09>BNpcName<hex:F208FA0103>。"
-2,"TEXT_BANAMA204_01235_SEQ_02","對<hex:02280CFF05>EObj<hex:F61E917B0103>使用了<hex:022811FF0A>EventItem<hex:F61E89260103>。向灰陣營的納爾基·冬報告。"
-3,"TEXT_BANAMA204_01235_SEQ_03","向納爾基·冬報告完畢。納爾基·冬確認儀式的力量已經變弱了，深深地感謝了冒險者。同時他對宿敵炎牙眾的抗戰之心也熊熊燃燒起來。下次有機會再協助他。"
+0,"TEXT_BANAMA204_01235_SEQ_00","灰陣營的納爾基・冬有事想要委託冒險者。"
+1,"TEXT_BANAMA204_01235_SEQ_01","接受了納爾基・冬的委託。對贊拉克側翼陣周圍的<hex:02280CFF05>EObj<hex:F61E917B0103>使用<hex:022811FF0A>EventItem<hex:F61E89260103>。此外，火撲滅後很可能會遭到炎牙眾爪牙的襲擊。討伐現身的<hex:02280FFF09>BNpcName<hex:F208FA0103>。"
+2,"TEXT_BANAMA204_01235_SEQ_02","對<hex:02280CFF05>EObj<hex:F61E917B0103>使用了<hex:022811FF0A>EventItem<hex:F61E89260103>。向灰陣營的納爾基・冬報告。"
+3,"TEXT_BANAMA204_01235_SEQ_03","向納爾基・冬報告完畢。納爾基・冬確認儀式的力量已經變弱了，深深地感謝了冒險者。同時他對宿敵炎牙眾的抗戰之心也熊熊燃燒起來。下次有機會再協助他。"
 4,"TEXT_BANAMA204_01235_SEQ_04",""
 5,"TEXT_BANAMA204_01235_SEQ_05",""
 6,"TEXT_BANAMA204_01235_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA204_01235_SEQ_22",""
 23,"TEXT_BANAMA204_01235_SEQ_23",""
 24,"TEXT_BANAMA204_01235_TODO_00","<hex:0208B0E3E802E804FF4C>對贊拉克側翼陣周圍的4處<hex:02280CFF05>EObj<hex:F61E917B0103>使用<hex:022811FF0A>EventItem<hex:F61E89260103><hex:FF5C>對第4處<hex:02280CFF05>EObj<hex:F61E917B0103>使用<hex:022811FF0A>EventItem<hex:F61E89260103><hex:02100103>若炎牙眾爪牙現身則討伐之<hex:03>"
-25,"TEXT_BANAMA204_01235_TODO_01","向納爾基·冬報告"
+25,"TEXT_BANAMA204_01235_TODO_01","向納爾基・冬報告"
 26,"TEXT_BANAMA204_01235_TODO_02",""
 27,"TEXT_BANAMA204_01235_TODO_03",""
 28,"TEXT_BANAMA204_01235_TODO_04",""

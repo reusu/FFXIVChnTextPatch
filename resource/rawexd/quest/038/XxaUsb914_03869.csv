@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_XXAUSB914_03869_SEQ_00","野戰醫院的席德想要冒險者幫忙。"
-1,"TEXT_XXAUSB914_03869_SEQ_01","席德需要一些材料來對配藥用的蒸餾器進行改良。打倒<hex:02280DFF09>BNpcName<hex:730103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E904A0103>。"
-2,"TEXT_XXAUSB914_03869_SEQ_02","收集齊了席德需要的材料。將<hex:022811FF0A>EventItem<hex:F61E904A0103>交給白雲崖前哨的席德。"
+0,"TEXT_XXAUSB914_03869_SEQ_00","野戰醫院的西德想要冒險者幫忙。"
+1,"TEXT_XXAUSB914_03869_SEQ_01","西德需要一些材料來對配藥用的蒸餾器進行改良。打倒<hex:02280DFF09>BNpcName<hex:730103>，獲取3個<hex:022811FF0A>EventItem<hex:F61E904A0103>。"
+2,"TEXT_XXAUSB914_03869_SEQ_02","收集齊了西德需要的材料。將<hex:022811FF0A>EventItem<hex:F61E904A0103>交給白雲崖前哨的西德。"
 3,"TEXT_XXAUSB914_03869_SEQ_03","改良了蒸餾器，好不容易才要在野戰醫院獲得信賴，可又被異端審問官吉耶姆給破壞了。看來不對異端審問官想想辦法的話，就很難取得進展。"
 4,"TEXT_XXAUSB914_03869_SEQ_04",""
 5,"TEXT_XXAUSB914_03869_SEQ_05",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_XXAUSB914_03869_SEQ_22",""
 23,"TEXT_XXAUSB914_03869_SEQ_23",""
 24,"TEXT_XXAUSB914_03869_TODO_00","從<hex:02280DFF09>BNpcName<hex:730103>身上得到<hex:022811FF0A>EventItem<hex:F61E904A0103>"
-25,"TEXT_XXAUSB914_03869_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E904A0103>交給席德"
+25,"TEXT_XXAUSB914_03869_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E904A0103>交給西德"
 26,"TEXT_XXAUSB914_03869_TODO_02",""
 27,"TEXT_XXAUSB914_03869_TODO_03",""
 28,"TEXT_XXAUSB914_03869_TODO_04",""

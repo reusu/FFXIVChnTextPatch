@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_HEAVNZ321_01813_SEQ_00","不潔三塔的艾斯·卡斯一動也不動。"
-1,"TEXT_HEAVNZ321_01813_SEQ_01","和艾斯·卡斯進行了交談。徹悟岩窟中有不少邪龍眷屬。前往龍堡參天高地的徹悟岩窟，討伐<hex:02280FFF09>BNpcName<hex:F20DE30103>、<hex:02280FFF09>BNpcName<hex:F20DFD0103>或<hex:02280FFF09>BNpcName<hex:F20DFE0103>共5隻。"
-2,"TEXT_HEAVNZ321_01813_SEQ_02","討伐了徹悟岩窟的邪龍眷屬。向不潔三塔的艾斯·卡斯報告。"
-3,"TEXT_HEAVNZ321_01813_SEQ_03","向艾斯·卡斯報告完畢。冒險者打倒的眷屬其實是尼德霍格手下的龍召集來的尖兵。徹悟岩窟是龍族安息的聖地，艾斯·卡斯希望這裡能夠保持寧靜。"
+0,"TEXT_HEAVNZ321_01813_SEQ_00","不潔三塔的艾斯・卡斯一動也不動。"
+1,"TEXT_HEAVNZ321_01813_SEQ_01","和艾斯・卡斯進行了交談。徹悟岩窟中有不少邪龍眷屬。前往龍堡參天高地的徹悟岩窟，討伐<hex:02280FFF09>BNpcName<hex:F20DE30103>、<hex:02280FFF09>BNpcName<hex:F20DFD0103>或<hex:02280FFF09>BNpcName<hex:F20DFE0103>共5隻。"
+2,"TEXT_HEAVNZ321_01813_SEQ_02","討伐了徹悟岩窟的邪龍眷屬。向不潔三塔的艾斯・卡斯報告。"
+3,"TEXT_HEAVNZ321_01813_SEQ_03","向艾斯・卡斯報告完畢。冒險者打倒的眷屬其實是尼德霍格手下的龍召集來的尖兵。徹悟岩窟是龍族安息的聖地，艾斯・卡斯希望這裡能夠保持寧靜。"
 4,"TEXT_HEAVNZ321_01813_SEQ_04",""
 5,"TEXT_HEAVNZ321_01813_SEQ_05",""
 6,"TEXT_HEAVNZ321_01813_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_HEAVNZ321_01813_SEQ_22",""
 23,"TEXT_HEAVNZ321_01813_SEQ_23",""
 24,"TEXT_HEAVNZ321_01813_TODO_00","討伐徹悟岩窟的邪龍眷屬"
-25,"TEXT_HEAVNZ321_01813_TODO_01","向艾斯·卡斯報告"
+25,"TEXT_HEAVNZ321_01813_TODO_01","向艾斯・卡斯報告"
 26,"TEXT_HEAVNZ321_01813_TODO_02",""
 27,"TEXT_HEAVNZ321_01813_TODO_03",""
 28,"TEXT_HEAVNZ321_01813_TODO_04",""

@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSC711_01023_SEQ_00","遺忘綠洲的烏·歐德·努恩接到了一個壞消息。"
+0,"TEXT_GAIUSC711_01023_SEQ_00","遺忘綠洲的烏・歐德・努恩接到了一個壞消息。"
 1,"TEXT_GAIUSC711_01023_SEQ_01","烏氏的數名獵人被蜥蜴人族抓起來了。對被囚禁在贊拉克祭場的烏氏獵人們使用<hex:022811FF0A>EventItem<hex:F61E878C0103>。"
-2,"TEXT_GAIUSC711_01023_SEQ_02","救下了獵人們。回到遺忘綠洲，向烏·歐德·努恩報告。"
-3,"TEXT_GAIUSC711_01023_SEQ_03","向烏·歐德·努恩報告完畢。在冒險者的努力下，獵人們平安回到了村落裡。"
+2,"TEXT_GAIUSC711_01023_SEQ_02","救下了獵人們。回到遺忘綠洲，向烏・歐德・努恩報告。"
+3,"TEXT_GAIUSC711_01023_SEQ_03","向烏・歐德・努恩報告完畢。在冒險者的努力下，獵人們平安回到了村落裡。"
 4,"TEXT_GAIUSC711_01023_SEQ_04",""
 5,"TEXT_GAIUSC711_01023_SEQ_05",""
 6,"TEXT_GAIUSC711_01023_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_GAIUSC711_01023_SEQ_22",""
 23,"TEXT_GAIUSC711_01023_SEQ_23",""
 24,"TEXT_GAIUSC711_01023_TODO_00","對烏氏的獵人使用<hex:022811FF0A>EventItem<hex:F61E878C0103>"
-25,"TEXT_GAIUSC711_01023_TODO_01","向烏·歐德·努恩報告"
+25,"TEXT_GAIUSC711_01023_TODO_01","向烏・歐德・努恩報告"
 26,"TEXT_GAIUSC711_01023_TODO_02",""
 27,"TEXT_GAIUSC711_01023_TODO_03",""
 28,"TEXT_GAIUSC711_01023_TODO_04",""

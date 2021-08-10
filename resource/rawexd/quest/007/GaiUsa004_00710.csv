@@ -2,11 +2,11 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSA004_00710_SEQ_00","關於給妖精族的見面禮，霍桑山寨的羅爾佛·霍桑想給冒險者一些建議。"
-1,"TEXT_GAIUSA004_00710_SEQ_01","羅爾佛·霍桑的妻子羅莎·霍桑較為清楚妖精族喜歡的東西。去盛花養蜂場和她談談。"
+0,"TEXT_GAIUSA004_00710_SEQ_00","關於給妖精族的見面禮，霍桑山寨的羅爾佛・霍桑想給冒險者一些建議。"
+1,"TEXT_GAIUSA004_00710_SEQ_01","羅爾佛・霍桑的妻子羅莎・霍桑較為清楚妖精族喜歡的東西。去盛花養蜂場和她談談。"
 2,"TEXT_GAIUSA004_00710_SEQ_02","妖精族好像喜歡<hex:022811FF0A>EventItem<hex:F61E87BF0103>。在<hex:02280CFF05>EObj<hex:F61E8BEE0103>使用<hex:022811FF0A>EventItem<hex:F61E86BB0103>，打倒隨之出現的<hex:02280DFF09>BNpcName<hex:220103>，獲取<hex:022811FF0A>EventItem<hex:F61E87BF0103>。"
-3,"TEXT_GAIUSA004_00710_SEQ_03","成功獲得了<hex:022811FF0A>EventItem<hex:F61E87BF0103>，將其交給霍桑山寨的羅爾佛·霍桑。"
-4,"TEXT_GAIUSA004_00710_SEQ_04","對妖精族來說，<hex:022811FF0A>EventItem<hex:F61E87BF0103>好像是類似於酒一樣的東西。只是羅爾佛·霍桑好像有點不知該怎麼處理這個……"
+3,"TEXT_GAIUSA004_00710_SEQ_03","成功獲得了<hex:022811FF0A>EventItem<hex:F61E87BF0103>，將其交給霍桑山寨的羅爾佛・霍桑。"
+4,"TEXT_GAIUSA004_00710_SEQ_04","對妖精族來說，<hex:022811FF0A>EventItem<hex:F61E87BF0103>好像是類似於酒一樣的東西。只是羅爾佛・霍桑好像有點不知該怎麼處理這個……"
 5,"TEXT_GAIUSA004_00710_SEQ_05",""
 6,"TEXT_GAIUSA004_00710_SEQ_06",""
 7,"TEXT_GAIUSA004_00710_SEQ_07",""
@@ -26,9 +26,9 @@ int32,str,str
 21,"TEXT_GAIUSA004_00710_SEQ_21",""
 22,"TEXT_GAIUSA004_00710_SEQ_22",""
 23,"TEXT_GAIUSA004_00710_SEQ_23",""
-24,"TEXT_GAIUSA004_00710_TODO_00","和羅莎·霍桑對話"
+24,"TEXT_GAIUSA004_00710_TODO_00","和羅莎・霍桑對話"
 25,"TEXT_GAIUSA004_00710_TODO_01","在<hex:02280CFF05>EObj<hex:F61E8BEE0103>使用<hex:022811FF0A>EventItem<hex:F61E86BB0103> 從<hex:02280DFF09>BNpcName<hex:220103>身上得到<hex:022811FF0A>EventItem<hex:F61E87BF0103>"
-26,"TEXT_GAIUSA004_00710_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E87BF0103>交給羅爾佛·霍桑"
+26,"TEXT_GAIUSA004_00710_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E87BF0103>交給羅爾佛・霍桑"
 27,"TEXT_GAIUSA004_00710_TODO_03",""
 28,"TEXT_GAIUSA004_00710_TODO_04",""
 29,"TEXT_GAIUSA004_00710_TODO_05",""

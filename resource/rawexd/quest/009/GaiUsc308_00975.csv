@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSC308_00975_SEQ_00","赫丁想要將<hex:022811FF0A>EventItem<hex:F61E87710103>交還給冒險者。"
-1,"TEXT_GAIUSC308_00975_SEQ_01","所需的偏屬性水晶全部集齊了。將<hex:022811FF0A>EventItem<hex:F61E87710103>交給格里達尼亞飛艇坪的席德。利翁內萊會帶領冒險者前往登艇大廳內部。"
-2,"TEXT_GAIUSC308_00975_SEQ_02","將偏屬性水晶交給了席德。這下子，不論什麼樣的暴風都擋不住飛空艇企業號了。"
+1,"TEXT_GAIUSC308_00975_SEQ_01","所需的偏屬性水晶全部集齊了。將<hex:022811FF0A>EventItem<hex:F61E87710103>交給格里達尼亞飛艇坪的西德。利翁內萊會帶領冒險者前往登艇大廳內部。"
+2,"TEXT_GAIUSC308_00975_SEQ_02","將偏屬性水晶交給了西德。這下子，不論什麼樣的暴風都擋不住飛空艇企業號了。"
 3,"TEXT_GAIUSC308_00975_SEQ_03",""
 4,"TEXT_GAIUSC308_00975_SEQ_04",""
 5,"TEXT_GAIUSC308_00975_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_GAIUSC308_00975_SEQ_21",""
 22,"TEXT_GAIUSC308_00975_SEQ_22",""
 23,"TEXT_GAIUSC308_00975_SEQ_23",""
-24,"TEXT_GAIUSC308_00975_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E87710103>交給格里達尼亞飛艇坪的席德"
+24,"TEXT_GAIUSC308_00975_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E87710103>交給格里達尼亞飛艇坪的西德"
 25,"TEXT_GAIUSC308_00975_TODO_01",""
 26,"TEXT_GAIUSC308_00975_TODO_02",""
 27,"TEXT_GAIUSC308_00975_TODO_03",""

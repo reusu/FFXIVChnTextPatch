@@ -11,7 +11,7 @@ int32,str,str
 6,"TEXT_FESHLW203_02151_SEQ_06","和彎枝牧場的南瓜頭女人進行了交談。據說<hex:022811FF0A>EventItem<hex:F61E8BE80103>只有在被變身後短時間內吃下才有效果，而現在重新烤已經來不及了。不過，如果燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>，將灰燼撒在身上的話就可以恢復原樣。用彎枝牧場的<hex:02280CFF05>EObj<hex:F61E9E410103>燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>，獲取<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。"
 7,"TEXT_FESHLW203_02151_SEQ_07","燒掉<hex:022811FF0A>EventItem<hex:F61E8BE90103>獲得了<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。在彎枝牧場尋找束手無策的小魔精，使用<hex:022811FF0A>EventItem<hex:F61E8BEA0103>。"
 8,"TEXT_FESHLW203_02151_SEQ_08","對束手無策的小魔精使用了<hex:022811FF0A>EventItem<hex:F61E8BEA0103>，成功讓孩子恢復了原樣。向彎枝牧場的冒險者公會的調查員報告。"
-9,"TEXT_FESHLW203_02151_SEQ_09","向冒險者公會的調查員報告完畢。茶·瑪麗塔被她的母親茶·達娜法狠狠訓斥了一番，認識到了自己的錯誤。大陸馬戲團也意識到有人能夠解除變身魔法，不會再有什麼新動作了。騎上南瓜頭女人贈予的<hex:022811FF0A>EventItem<hex:F61E8BE90103>，好好享受守護天節。"
+9,"TEXT_FESHLW203_02151_SEQ_09","向冒險者公會的調查員報告完畢。茶・瑪麗塔被她的母親茶・達娜法狠狠訓斥了一番，認識到了自己的錯誤。大陸馬戲團也意識到有人能夠解除變身魔法，不會再有什麼新動作了。騎上南瓜頭女人贈予的<hex:022811FF0A>EventItem<hex:F61E8BE90103>，好好享受守護天節。"
 10,"TEXT_FESHLW203_02151_SEQ_10",""
 11,"TEXT_FESHLW203_02151_SEQ_11",""
 12,"TEXT_FESHLW203_02151_SEQ_12",""

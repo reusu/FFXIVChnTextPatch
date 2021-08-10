@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSA303_00735_SEQ_00","梅梅盧恩交易站的格格盧恩，因要送的貨太多而十分煩惱。"
-1,"TEXT_GAIUSA303_00735_SEQ_01","代替格格盧恩，前往撒拉奧斯的遺骸，將<hex:022811FF0A>EventItem<hex:F61E86CF0103>拿給塔恩嘉·托恩嘉。"
-2,"TEXT_GAIUSA303_00735_SEQ_02","多虧冒險者送去的東西，塔恩嘉·托恩嘉可以吃上飯了。這下他的研究也會有所進展了吧。"
+1,"TEXT_GAIUSA303_00735_SEQ_01","代替格格盧恩，前往撒拉奧斯的遺骸，將<hex:022811FF0A>EventItem<hex:F61E86CF0103>拿給塔恩嘉・托恩嘉。"
+2,"TEXT_GAIUSA303_00735_SEQ_02","多虧冒險者送去的東西，塔恩嘉・托恩嘉可以吃上飯了。這下他的研究也會有所進展了吧。"
 3,"TEXT_GAIUSA303_00735_SEQ_03",""
 4,"TEXT_GAIUSA303_00735_SEQ_04",""
 5,"TEXT_GAIUSA303_00735_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_GAIUSA303_00735_SEQ_21",""
 22,"TEXT_GAIUSA303_00735_SEQ_22",""
 23,"TEXT_GAIUSA303_00735_SEQ_23",""
-24,"TEXT_GAIUSA303_00735_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E86CF0103>交給塔恩嘉·托恩嘉"
+24,"TEXT_GAIUSA303_00735_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E86CF0103>交給塔恩嘉・托恩嘉"
 25,"TEXT_GAIUSA303_00735_TODO_01",""
 26,"TEXT_GAIUSA303_00735_TODO_02",""
 27,"TEXT_GAIUSA303_00735_TODO_03",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_GAIUSA303_00735_TODO_22",""
 47,"TEXT_GAIUSA303_00735_TODO_23",""
 48,"TEXT_GAIUSA303_00735_GEGEROON_000_000","格格盧恩，有東西要送出去。<hex:02100103>但是格格盧恩，還有好多好多工作。"
-49,"TEXT_GAIUSA303_00735_GEGEROON_000_001","我想請你去，撒拉奧斯的遺骸，<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E86CF0103>，拿給塔恩嘉·托恩嘉。"
+49,"TEXT_GAIUSA303_00735_GEGEROON_000_001","我想請你去，撒拉奧斯的遺骸，<hex:02100103>將這個<hex:022811FF0A>EventItem<hex:F61E86CF0103>，拿給塔恩嘉・托恩嘉。"
 50,"TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010","找我有事嗎？<hex:02100103>我餓壞了，沒工夫理你。"
 51,"TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011","這是梅梅盧恩交易站的<hex:022811FF0A>EventItem<hex:F61E86CF0103>！<hex:02100103>得救啦，這下我就可以繼續搞研究了。"
 52,"TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012","為了研究化石，我搬到了這裡來住，<hex:02100103>但實在沒有工夫自己做飯吃。<hex:02100103>於是，我就委託了梅梅盧恩交易站送貨上門。"

@@ -372,7 +372,7 @@ public class ReplaceEXDF {
 										} 
 									} else if (this.transMap.get(jaStr) != null && ((String)this.transMap.get(jaStr)).length() > 0) {
 										// 在一個<jaStr, chStr>的HashMap裡面找對應的詞條。這個HashMap裡面只包含"EXD/Action", "EXD/ENpcResident", "EXD/BNpcName", "EXD/PlaceName"
-										newFFXIVString = ArrayUtil.append(newFFXIVString, ((String)this.transMap.get(jaStr)).getBytes("UTF-8"));
+										newFFXIVString = ArrayUtil.append(newFFXIVString, convertString(((String)this.transMap.get(jaStr)).getBytes("UTF-8")));
 									} else {
 										// 原文
 										newFFXIVString = ArrayUtil.append(newFFXIVString, jaBytes);

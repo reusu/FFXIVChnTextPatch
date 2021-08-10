@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSB010_00817_SEQ_00","恬靜路營地的鬼哭隊士兵黛特·莫修羅卡有事情想拜託冒險者。"
-1,"TEXT_GAIUSB010_00817_SEQ_01","黛特·莫修羅卡想要烏爾達哈風格的製品。和途經低徑的烏爾達哈商人談談。"
-2,"TEXT_GAIUSB010_00817_SEQ_02","救下了被魔物襲擊的商人，從他那裡得到了<hex:022811FF0A>EventItem<hex:F61E86FF0103>。將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給恬靜路營地的黛特·莫修羅卡。"
-3,"TEXT_GAIUSB010_00817_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給了黛特·莫修羅卡。得到了烏爾達哈的製品，她十分高興。"
+0,"TEXT_GAIUSB010_00817_SEQ_00","恬靜路營地的鬼哭隊士兵黛特・莫修羅卡有事情想拜託冒險者。"
+1,"TEXT_GAIUSB010_00817_SEQ_01","黛特・莫修羅卡想要烏爾達哈風格的製品。和途經低徑的烏爾達哈商人談談。"
+2,"TEXT_GAIUSB010_00817_SEQ_02","救下了被魔物襲擊的商人，從他那裡得到了<hex:022811FF0A>EventItem<hex:F61E86FF0103>。將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給恬靜路營地的黛特・莫修羅卡。"
+3,"TEXT_GAIUSB010_00817_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給了黛特・莫修羅卡。得到了烏爾達哈的製品，她十分高興。"
 4,"TEXT_GAIUSB010_00817_SEQ_04",""
 5,"TEXT_GAIUSB010_00817_SEQ_05",""
 6,"TEXT_GAIUSB010_00817_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_GAIUSB010_00817_SEQ_22",""
 23,"TEXT_GAIUSB010_00817_SEQ_23",""
 24,"TEXT_GAIUSB010_00817_TODO_00","和烏爾達哈商人對話"
-25,"TEXT_GAIUSB010_00817_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給黛特·莫修羅卡"
+25,"TEXT_GAIUSB010_00817_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E86FF0103>交給黛特・莫修羅卡"
 26,"TEXT_GAIUSB010_00817_TODO_02",""
 27,"TEXT_GAIUSB010_00817_TODO_03",""
 28,"TEXT_GAIUSB010_00817_TODO_04",""

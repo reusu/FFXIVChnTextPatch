@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA107_01228_SEQ_00","灰陣營的菲布布·夏想要冒險者幫忙做實驗。"
-1,"TEXT_BANAMA107_01228_SEQ_01","接受了菲布布·夏的委託。在贊拉克北部的3處<hex:02280CFF05>EObj<hex:F61E90DE0103>張望一番，打敗現身的信徒，對其使用<hex:022811FF0A>EventItem<hex:F61E89270103>。"
-2,"TEXT_BANAMA107_01228_SEQ_02","對信徒們使用了<hex:022811FF0A>EventItem<hex:F61E89270103>。向灰陣營的菲布布·夏報告。"
-3,"TEXT_BANAMA107_01228_SEQ_03","向灰陣營的菲布布·夏報告完畢。很遺憾他的實驗失敗了。但是看來他還不打算放棄。"
+0,"TEXT_BANAMA107_01228_SEQ_00","灰陣營的菲布布・夏想要冒險者幫忙做實驗。"
+1,"TEXT_BANAMA107_01228_SEQ_01","接受了菲布布・夏的委託。在贊拉克北部的3處<hex:02280CFF05>EObj<hex:F61E90DE0103>張望一番，打敗現身的信徒，對其使用<hex:022811FF0A>EventItem<hex:F61E89270103>。"
+2,"TEXT_BANAMA107_01228_SEQ_02","對信徒們使用了<hex:022811FF0A>EventItem<hex:F61E89270103>。向灰陣營的菲布布・夏報告。"
+3,"TEXT_BANAMA107_01228_SEQ_03","向灰陣營的菲布布・夏報告完畢。很遺憾他的實驗失敗了。但是看來他還不打算放棄。"
 4,"TEXT_BANAMA107_01228_SEQ_04",""
 5,"TEXT_BANAMA107_01228_SEQ_05",""
 6,"TEXT_BANAMA107_01228_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA107_01228_SEQ_22",""
 23,"TEXT_BANAMA107_01228_SEQ_23",""
 24,"TEXT_BANAMA107_01228_TODO_00","在贊拉克北部的<hex:02280CFF05>EObj<hex:F61E90DE0103>張望<hex:02100103>打敗現身的信徒並對其使用<hex:022811FF0A>EventItem<hex:F61E89270103>"
-25,"TEXT_BANAMA107_01228_TODO_01","向菲布布·夏報告"
+25,"TEXT_BANAMA107_01228_TODO_01","向菲布布・夏報告"
 26,"TEXT_BANAMA107_01228_TODO_02",""
 27,"TEXT_BANAMA107_01228_TODO_03",""
 28,"TEXT_BANAMA107_01228_TODO_04",""

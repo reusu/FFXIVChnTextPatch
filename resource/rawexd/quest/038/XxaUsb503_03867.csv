@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_XXAUSB503_03867_SEQ_00","聖阿達瑪·蘭達瑪教會的馬爾克斯正在尋找修理所需的工具。"
+0,"TEXT_XXAUSB503_03867_SEQ_00","聖阿達瑪・蘭達瑪教會的馬爾克斯正在尋找修理所需的工具。"
 1,"TEXT_XXAUSB503_03867_SEQ_01","接受了馬爾克斯的委託，他希望冒險者能夠去進行交涉，買到用於修理懷錶所需的工具。將<hex:022811FF0A>EventItem<hex:F61E90460103>交給東薩納蘭的枯骨營地的旅行雕金匠。"
-2,"TEXT_XXAUSB503_03867_SEQ_02","從旅行的雕金匠那裡買到了2種工具。將<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>交給聖阿達瑪·蘭達瑪教會的馬爾克斯。"
-3,"TEXT_XXAUSB503_03867_SEQ_03","懷錶修理完畢。馬爾克斯不明白自己為什麼會擅長修理懷錶。將<hex:022811FF0A>EventItem<hex:F61E90470103>交給聖阿達瑪·蘭達瑪教會的埃莉內德。"
+2,"TEXT_XXAUSB503_03867_SEQ_02","從旅行的雕金匠那裡買到了2種工具。將<hex:022811FF0A>EventItem<hex:F61E90440103>和<hex:022811FF0A>EventItem<hex:F61E90450103>交給聖阿達瑪・蘭達瑪教會的馬爾克斯。"
+3,"TEXT_XXAUSB503_03867_SEQ_03","懷錶修理完畢。馬爾克斯不明白自己為什麼會擅長修理懷錶。將<hex:022811FF0A>EventItem<hex:F61E90470103>交給聖阿達瑪・蘭達瑪教會的埃莉內德。"
 4,"TEXT_XXAUSB503_03867_SEQ_04","據埃莉內德所說，這個懷錶是帝國製造的。竟能不費吹灰之力就修好這種東西，馬爾克斯究竟是什麼人？"
 5,"TEXT_XXAUSB503_03867_SEQ_05",""
 6,"TEXT_XXAUSB503_03867_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_XXAUSB503_03867_SEQ_22",""
 23,"TEXT_XXAUSB503_03867_SEQ_23",""
 24,"TEXT_XXAUSB503_03867_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E90460103>交給旅行雕金匠"
-25,"TEXT_XXAUSB503_03867_TODO_01","將工具交給聖阿達瑪·蘭達瑪教會的馬爾克斯"
+25,"TEXT_XXAUSB503_03867_TODO_01","將工具交給聖阿達瑪・蘭達瑪教會的馬爾克斯"
 26,"TEXT_XXAUSB503_03867_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E90470103>交給埃莉內德"
 27,"TEXT_XXAUSB503_03867_TODO_03",""
 28,"TEXT_XXAUSB503_03867_TODO_04",""

@@ -106,5 +106,5 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 101,"潛水艇「<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>」升為<hex:022003E80203>級。",16,15,1,9,14
 102,"通過潛水艇「<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>」的探索，工房可以登記第<hex:022003E80203>艘潛水艇了。",16,15,1,9,14
 103,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>刪除了<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>的留言。",16,23,0,5,11
-104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了留言簿的設定。",16,0,0,5,11
+104,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>修改了交流簿的設定。",16,0,0,5,11
 105,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>設定了房屋宣傳標籤。",16,0,0,5,11

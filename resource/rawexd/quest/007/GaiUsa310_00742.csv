@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSA310_00742_SEQ_00","巴斯卡隆酒家的奧菲里奧，有事想要委託給冒險者。"
-1,"TEXT_GAIUSA310_00742_SEQ_01","托托·拉克千獄附近還潛伏有帝國兵。巡視<hex:02280CFF05>EObj<hex:F61E8C230103>，討伐帝國兵<hex:02280DFF09>BNpcName<hex:3E0103>和<hex:02280DFF09>BNpcName<hex:3D0103>。"
+1,"TEXT_GAIUSA310_00742_SEQ_01","托托・拉克千獄附近還潛伏有帝國兵。巡視<hex:02280CFF05>EObj<hex:F61E8C230103>，討伐帝國兵<hex:02280DFF09>BNpcName<hex:3E0103>和<hex:02280DFF09>BNpcName<hex:3D0103>。"
 2,"TEXT_GAIUSA310_00742_SEQ_02","向巴斯卡隆酒家的奧菲里奧報告。"
 3,"TEXT_GAIUSA310_00742_SEQ_03","多虧冒險者出手，帝國兵被一網打盡了。這下子，森林就可以恢復平靜了。"
 4,"TEXT_GAIUSA310_00742_SEQ_04",""

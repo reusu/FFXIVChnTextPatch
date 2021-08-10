@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000","這裡是久遠聖堂……<hex:02100103>是個供命中註定的二人許下永結同心誓言的神聖場所。<hex:02100103>請問您來這裡有什麼事嗎？"
+0,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_000","這裡是久遠聖堂……<hex:02100103>是個供命中注定的二人許下永結同心誓言的神聖場所。<hex:02100103>請問您來這裡有什麼事嗎？"
 1,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_001","<hex:022903EB0203>，<hex:02100103>如果想和雷莫商量典禮方案，<hex:02100103>請去找儀式迎賓員，由他領您進聖堂。"
 2,"TEXT_WARPWEDDINGPLACEDESK_ETOINELLE_000_002","<hex:022903EB0203>，<hex:02100103>請問您找我有什麼事嗎？"
 3,"TEXT_WARPWEDDINGPLACEDESK_Q1_000_020","您有什麼事？"
@@ -22,7 +22,7 @@ int32,str,str
 17,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_122","典禮最遲會在開場40分鐘（地球時間）後舉行。<hex:02100103>時間完全由新人控制，有可能開場後馬上舉行典禮，<hex:02100103>因此建議按時到達，參加典禮。"
 18,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_123","新人準備好後，<hex:02100103>來賓們將自動從休息室前往會場。<hex:02100103>在會場內有不明白的地方，可以詢問典禮接待員。"
 19,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_124","另外，永結同心典禮開始後，<hex:02100103>來賓也會出現在過場動畫中，<hex:02100103>因此請提前換好參加典禮所穿的服裝。"
-20,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125","善用聊天等手段將來賓到齊、服裝換好等訊息告知新人，<hex:02100103>以便新人順利開始舉辦典禮。"
+20,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_125","善用聊天等手段將來賓到齊、服裝換好等資訊告知新人，<hex:02100103>以便新人順利開始舉辦典禮。"
 21,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_126","典禮分為「入場」、「問候」、「誓約儀式」、「暢談（自由時間）」、<hex:02100103>「結束」這幾個步驟，可以盡情按下快門截圖，記錄這一美好時光。"
 22,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_127","典禮最長將舉行約1個半小時（地球時間）。<hex:02100103>在會場內基本上可以自由行動，也可以中途入場或提前退場。"
 23,"TEXT_WARPWEDDINGPLACEDESK_SYSTEM_000_140","新人有可能會中止或延期典禮。"

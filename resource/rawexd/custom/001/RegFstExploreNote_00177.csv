@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_000","我叫米莉絲·艾恩哈特，是個探險家。<hex:02100103>你知道「艾歐澤亞全景圖」吧？那是我爺爺繪製的……<hex:02100103>受他影響，我家代代都以探險家為職。"
+0,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_000","我叫米莉絲・艾恩哈特，是個探險家。<hex:02100103>你知道「艾歐澤亞全景圖」吧？那是我爺爺繪製的……<hex:02100103>受他影響，我家代代都以探險家為職。"
 1,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_001","兄長奈德里克以發現未知的領域為目標……<hex:02100103>而我為了繪製名勝與秘境的風景畫行走在世界各地。"
 2,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_010","啊，<hex:022903EB0203>！<hex:02100103>探險進展得順利嗎？"
 3,"TEXT_REGFSTEXPLORENOTE_00177_MILLITHIRONHEART_000_011","交給你的那本「探索筆記」上，<hex:02100103>記載著我聽說過的名勝與秘境的傳聞。<hex:02100103>你先藉助它在各地看看吧。"

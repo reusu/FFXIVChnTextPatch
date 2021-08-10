@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA307_01248_SEQ_00","灰陣營的雅德夫·夏想要挫敗炎牙眾的士氣。"
-1,"TEXT_BANAMA307_01248_SEQ_01","接受了雅德夫·夏的委託。前往不悔戰陣，將<hex:022811FF0A>EventItem<hex:F61E892A0103>插在5處<hex:02280CFF05>EObj<hex:F61E91050103>。此外，敵方蜥蜴人族可能會來妨礙。討伐出現的<hex:02280FFF09>BNpcName<hex:F209050103>。"
-2,"TEXT_BANAMA307_01248_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E892A0103>插在了<hex:02280CFF05>EObj<hex:F61E91050103>。向灰陣營的雅德夫·夏報告。"
-3,"TEXT_BANAMA307_01248_SEQ_03","向雅德夫·夏報告完畢。冒險者將武器插在了<hex:02280CFF05>EObj<hex:F61E91050103>，挫敗了炎牙眾的士氣。雅德夫·夏燃起了熊熊鬥志，準備與炎牙眾決戰。下次有機會再協助他。"
+0,"TEXT_BANAMA307_01248_SEQ_00","灰陣營的雅德夫・夏想要挫敗炎牙眾的士氣。"
+1,"TEXT_BANAMA307_01248_SEQ_01","接受了雅德夫・夏的委託。前往不悔戰陣，將<hex:022811FF0A>EventItem<hex:F61E892A0103>插在5處<hex:02280CFF05>EObj<hex:F61E91050103>。此外，敵方蜥蜴人族可能會來妨礙。討伐出現的<hex:02280FFF09>BNpcName<hex:F209050103>。"
+2,"TEXT_BANAMA307_01248_SEQ_02","將<hex:022811FF0A>EventItem<hex:F61E892A0103>插在了<hex:02280CFF05>EObj<hex:F61E91050103>。向灰陣營的雅德夫・夏報告。"
+3,"TEXT_BANAMA307_01248_SEQ_03","向雅德夫・夏報告完畢。冒險者將武器插在了<hex:02280CFF05>EObj<hex:F61E91050103>，挫敗了炎牙眾的士氣。雅德夫・夏燃起了熊熊鬥志，準備與炎牙眾決戰。下次有機會再協助他。"
 4,"TEXT_BANAMA307_01248_SEQ_04",""
 5,"TEXT_BANAMA307_01248_SEQ_05",""
 6,"TEXT_BANAMA307_01248_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA307_01248_SEQ_22",""
 23,"TEXT_BANAMA307_01248_SEQ_23",""
 24,"TEXT_BANAMA307_01248_TODO_00","<hex:02089BE3E802E804FF40>在不悔戰陣的5處<hex:02280CFF05>EObj<hex:F61E91050103>設定<hex:022811FF0A>EventItem<hex:F61E892A0103><hex:FF53>在第5處<hex:02280CFF05>EObj<hex:F61E91050103>設定<hex:022811FF0A>EventItem<hex:F61E892A0103><hex:02100103>若敵人出現則討伐之<hex:03>"
-25,"TEXT_BANAMA307_01248_TODO_01","向雅德夫·夏報告"
+25,"TEXT_BANAMA307_01248_TODO_01","向雅德夫・夏報告"
 26,"TEXT_BANAMA307_01248_TODO_02",""
 27,"TEXT_BANAMA307_01248_TODO_03",""
 28,"TEXT_BANAMA307_01248_TODO_04",""

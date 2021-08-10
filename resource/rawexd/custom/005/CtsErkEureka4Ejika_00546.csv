@@ -4,10 +4,10 @@ offset,0,4
 int32,str,str
 0,"TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_100_000","一定要消滅創神優雷卡。<hex:02100103>雖然估計我會死在這裡，但我已經做好了覺悟。<hex:02100103>我只是替加拉夫大人完成未完之事罷了。"
 1,"TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_100_001","你也應該理解了創神有多麼危險。<hex:02100103>既然這樣，你還猶豫什麼？<hex:02100103>你會尊重我的選擇吧？"
-2,"TEXT_CTSERKEUREKA4EJIKA_00546_SYSTEM_100_002","選擇與艾吉卡·岑吉卡對話推進劇情後，<hex:02100103>將無法再次推進與可露兒對話後的劇情。"
+2,"TEXT_CTSERKEUREKA4EJIKA_00546_SYSTEM_100_002","選擇與艾吉卡・岑吉卡對話推進劇情後，<hex:02100103>將無法再次推進與可露兒對話後的劇情。"
 3,"TEXT_CTSERKEUREKA4EJIKA_00546_SYSTEM_100_003","另外，不論推進哪種劇情，<hex:02100103>可以獲得的道具、需要挑戰的任務等均不會發生變化。<hex:02100103>請根據自身的價值觀進行判斷，選擇前進的道路。"
-4,"TEXT_CTSERKEUREKA4EJIKA_00546_YESNO_001","確定要尊重艾吉卡·岑吉卡的想法，<hex:02100103>推進劇情嗎？"
-5,"TEXT_CTSERKEUREKA4EJIKA_00546_YESNO_002","確定要推進艾吉卡·岑吉卡的相關劇情嗎？<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※選擇「是」的選項後，<hex:02100103>將無法推進可露兒相關的劇情。<hex:0249020103><hex:0248020103>"
+4,"TEXT_CTSERKEUREKA4EJIKA_00546_YESNO_001","確定要尊重艾吉卡・岑吉卡的想法，<hex:02100103>推進劇情嗎？"
+5,"TEXT_CTSERKEUREKA4EJIKA_00546_YESNO_002","確定要推進艾吉卡・岑吉卡的相關劇情嗎？<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※選擇「是」的選項後，<hex:02100103>將無法推進可露兒相關的劇情。<hex:0249020103><hex:0248020103>"
 6,"TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_000_010","……你要尊重我的想法啊。<hex:02100103>你的選擇是正確的。"
 7,"TEXT_CTSERKEUREKA4EJIKA_00546_EJIKATSUNJIKA_000_011","這樣一來就是2對1了。<hex:02100103>可露兒你打算怎麼辦？"
 8,"TEXT_CTSERKEUREKA4EJIKA_00546_KRILE_000_012","……艾吉卡，你真要這樣嗎？"

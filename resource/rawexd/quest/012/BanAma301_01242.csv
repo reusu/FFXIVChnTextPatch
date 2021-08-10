@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA301_01242_SEQ_00","灰陣營的雅德夫·夏想要冒險者完成一項任務。"
-1,"TEXT_BANAMA301_01242_SEQ_01","接受了雅德夫·夏的委託。討伐不悔戰陣的<hex:02280FFF09>BNpcName<hex:F2072D0103>和<hex:02280FFF09>BNpcName<hex:F2072E0103>各3名。"
-2,"TEXT_BANAMA301_01242_SEQ_02","討伐了<hex:02280FFF09>BNpcName<hex:F2072D0103>和<hex:02280FFF09>BNpcName<hex:F2072E0103>。向灰陣營的雅德夫·夏報告。"
-3,"TEXT_BANAMA301_01242_SEQ_03","向雅德夫·夏報告完畢。雅德夫·夏很欣賞冒險者的活躍表現。他說不能輸給冒險者，要努力鍛煉自己，為今後的戰鬥做好準備。下次有機會再協助他。"
+0,"TEXT_BANAMA301_01242_SEQ_00","灰陣營的雅德夫・夏想要冒險者完成一項任務。"
+1,"TEXT_BANAMA301_01242_SEQ_01","接受了雅德夫・夏的委託。討伐不悔戰陣的<hex:02280FFF09>BNpcName<hex:F2072D0103>和<hex:02280FFF09>BNpcName<hex:F2072E0103>各3名。"
+2,"TEXT_BANAMA301_01242_SEQ_02","討伐了<hex:02280FFF09>BNpcName<hex:F2072D0103>和<hex:02280FFF09>BNpcName<hex:F2072E0103>。向灰陣營的雅德夫・夏報告。"
+3,"TEXT_BANAMA301_01242_SEQ_03","向雅德夫・夏報告完畢。雅德夫・夏很欣賞冒險者的活躍表現。他說不能輸給冒險者，要努力鍛煉自己，為今後的戰鬥做好準備。下次有機會再協助他。"
 4,"TEXT_BANAMA301_01242_SEQ_04",""
 5,"TEXT_BANAMA301_01242_SEQ_05",""
 6,"TEXT_BANAMA301_01242_SEQ_06",""
@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_BANAMA301_01242_SEQ_23",""
 24,"TEXT_BANAMA301_01242_TODO_00","討伐<hex:02280FFF09>BNpcName<hex:F2072D0103>"
 25,"TEXT_BANAMA301_01242_TODO_01","討伐<hex:02280FFF09>BNpcName<hex:F2072E0103>"
-26,"TEXT_BANAMA301_01242_TODO_02","向雅德夫·夏報告"
+26,"TEXT_BANAMA301_01242_TODO_02","向雅德夫・夏報告"
 27,"TEXT_BANAMA301_01242_TODO_03",""
 28,"TEXT_BANAMA301_01242_TODO_04",""
 29,"TEXT_BANAMA301_01242_TODO_05",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_BANAMA301_01242_TODO_22",""
 47,"TEXT_BANAMA301_01242_TODO_23",""
 48,"TEXT_BANAMA301_01242_YADOVVGAH_000_000","冒險者閣下。<hex:02100103>關於炎牙眾的動向，有事想和你商量。"
-49,"TEXT_BANAMA301_01242_YADOVVGAH_000_001","從最近的情況來看，炎牙眾也很拚命。<hex:02100103>甚至連頭目扎古茲·地的一部分近身侍衛，<hex:02100103>也加入了誘拐人類的隊伍。"
+49,"TEXT_BANAMA301_01242_YADOVVGAH_000_001","從最近的情況來看，炎牙眾也很拚命。<hex:02100103>甚至連頭目扎古茲・地的一部分近身侍衛，<hex:02100103>也加入了誘拐人類的隊伍。"
 50,"TEXT_BANAMA301_01242_YADOVVGAH_000_002","正可謂天賜良機！<hex:02100103>現在正是積極進攻、削弱他們戰鬥力的時候。"
 51,"TEXT_BANAMA301_01242_YADOVVGAH_000_003","<hex:02280FFF09>BNpcName<hex:F2072D0103>和<hex:02280FFF09>BNpcName<hex:F2072E0103>現在正在這一帶暗中活躍……<hex:02100103>打倒他們應該就能削弱炎牙眾的力量。"
 52,"TEXT_BANAMA301_01242_YADOVVGAH_000_004","各討伐3名應該就夠了。<hex:02100103>這項任務就拜託你了。"

@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_LUCKBA411_03624_SEQ_00","鼴靈集市的凱瑞格有情報想告訴冒險者。"
-1,"TEXT_LUCKBA411_03624_SEQ_01","凱瑞格想利用機械人偶去嘗試測量空洞的危險範圍。想要驅動機械人偶需要收集必要的材料。在安穆·艾蘭的琥珀原的<hex:02280CFF05>EObj<hex:F61EAC360103>張望，打倒出現的<hex:02280FFF09>BNpcName<hex:F220D50103>，獲得<hex:022811FF0A>EventItem<hex:F61E8EEC0103>。"
+1,"TEXT_LUCKBA411_03624_SEQ_01","凱瑞格想利用機械人偶去嘗試測量空洞的危險範圍。想要驅動機械人偶需要收集必要的材料。在安穆・艾蘭的琥珀原的<hex:02280CFF05>EObj<hex:F61EAC360103>張望，打倒出現的<hex:02280FFF09>BNpcName<hex:F220D50103>，獲得<hex:022811FF0A>EventItem<hex:F61E8EEC0103>。"
 2,"TEXT_LUCKBA411_03624_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E8EEC0103>。將<hex:022811FF0A>EventItem<hex:F61E8EEC0103>交給鼴靈集市的凱瑞格。"
 3,"TEXT_LUCKBA411_03624_SEQ_03","凱瑞格說他修完機械人偶就會過去。前往出現過目擊情報的琥珀原的<hex:02280CFF05>EObj<hex:F61EAC660103>等待。"
 4,"TEXT_LUCKBA411_03624_SEQ_04","智德生成的空洞中出現了一名神秘少年。和鼴靈集市的凱瑞格談談。"
