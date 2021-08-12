@@ -23,7 +23,7 @@ int32,str,str
 18,"TEXT_AETHERYTE_FIRST_OPEN_02","接觸城內乙太之晶後，<hex:02100103>可使用自由來往城內乙太之晶的都市傳送網。"
 19,"TEXT_AETHERYTE_FULL_OPEN_FST","開放了格里達尼亞的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到青貉門和黃蛇門，<hex:02100103>以及格里達尼亞飛艇坪！"
 20,"TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE","開放了格里達尼亞的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到青貉門、黃蛇門和白狼門，<hex:02100103>以及格里達尼亞飛艇坪！"
-21,"TEXT_AETHERYTE_FULL_OPEN_SEA","開放了利姆薩・羅敏薩的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到和風陸門和暴風陸門，<hex:02100103>以及利姆薩・羅敏薩飛艇坪！"
+21,"TEXT_AETHERYTE_FULL_OPEN_SEA","開放了利姆薩·羅敏薩的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到和風陸門和暴風陸門，<hex:02100103>以及利姆薩·羅敏薩飛艇坪！"
 22,"TEXT_AETHERYTE_FULL_OPEN_WIL","開放了烏爾達哈的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到納爾之門、札爾之門和娜娜莫新門，<hex:02100103>以及烏爾達哈飛艇坪！"
 23,"TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER","開放了金碟遊樂場的所有城內乙太之晶！"
 24,"TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC","開放了伊修加德的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可傳送到聖徒門！"

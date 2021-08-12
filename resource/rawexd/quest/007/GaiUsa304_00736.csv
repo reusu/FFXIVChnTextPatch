@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSA304_00736_SEQ_00","在撒拉奧斯的遺骸，塔恩嘉・托恩嘉正在找人幫忙挖掘化石。"
-1,"TEXT_GAIUSA304_00736_SEQ_01","接受了塔恩嘉・托恩嘉的委託，挖掘化石。在撒拉奧斯的遺骸周圍尋找1個<hex:022811FF0A>EventItem<hex:F61E86D10103>和2個<hex:022811FF0A>EventItem<hex:F61E86D00103>。"
-2,"TEXT_GAIUSA304_00736_SEQ_02","找到了<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>。將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給貧女材場的塔恩嘉・托恩嘉。"
-3,"TEXT_GAIUSA304_00736_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給了塔恩嘉・托恩嘉。冒險者撿到的化石是撒拉奧斯吃下的生物的骨頭，和寄生在其身上的貝類。如果這能有助於他的研究就好了……"
+0,"TEXT_GAIUSA304_00736_SEQ_00","在撒拉奧斯的遺骸，塔恩嘉·托恩嘉正在找人幫忙挖掘化石。"
+1,"TEXT_GAIUSA304_00736_SEQ_01","接受了塔恩嘉·托恩嘉的委託，挖掘化石。在撒拉奧斯的遺骸周圍尋找1個<hex:022811FF0A>EventItem<hex:F61E86D10103>和2個<hex:022811FF0A>EventItem<hex:F61E86D00103>。"
+2,"TEXT_GAIUSA304_00736_SEQ_02","找到了<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>。將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給貧女材場的塔恩嘉·托恩嘉。"
+3,"TEXT_GAIUSA304_00736_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給了塔恩嘉·托恩嘉。冒險者撿到的化石是撒拉奧斯吃下的生物的骨頭，和寄生在其身上的貝類。如果這能有助於他的研究就好了……"
 4,"TEXT_GAIUSA304_00736_SEQ_04",""
 5,"TEXT_GAIUSA304_00736_SEQ_05",""
 6,"TEXT_GAIUSA304_00736_SEQ_06",""
@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_GAIUSA304_00736_SEQ_23",""
 24,"TEXT_GAIUSA304_00736_TODO_00","在撒拉奧斯的遺骸尋找<hex:022811FF0A>EventItem<hex:F61E86D10103>"
 25,"TEXT_GAIUSA304_00736_TODO_01","在撒拉奧斯的遺骸尋找<hex:022811FF0A>EventItem<hex:F61E86D00103>"
-26,"TEXT_GAIUSA304_00736_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給貧女材場的塔恩嘉・托恩嘉"
+26,"TEXT_GAIUSA304_00736_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E86D10103>和<hex:022811FF0A>EventItem<hex:F61E86D00103>交給貧女材場的塔恩嘉·托恩嘉"
 27,"TEXT_GAIUSA304_00736_TODO_03",""
 28,"TEXT_GAIUSA304_00736_TODO_04",""
 29,"TEXT_GAIUSA304_00736_TODO_05",""

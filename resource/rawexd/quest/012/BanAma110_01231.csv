@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA110_01231_SEQ_00","灰陣營的菲布布・夏有必須要完成的使命。"
-1,"TEXT_BANAMA110_01231_SEQ_01","接受了菲布布・夏的委託。破壞不悔戰陣西邊的2座<hex:02280FFF09>BNpcName<hex:F2056E0103>。"
-2,"TEXT_BANAMA110_01231_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F2056E0103>。向灰陣營的菲布布・夏報告。"
-3,"TEXT_BANAMA110_01231_SEQ_03","向菲布布・夏報告完畢。菲布布・夏十分感謝冒險者英勇戰鬥。他說下次再發生同樣的事情時還望冒險者再來協助。"
+0,"TEXT_BANAMA110_01231_SEQ_00","灰陣營的菲布布·夏有必須要完成的使命。"
+1,"TEXT_BANAMA110_01231_SEQ_01","接受了菲布布·夏的委託。破壞不悔戰陣西邊的2座<hex:02280FFF09>BNpcName<hex:F2056E0103>。"
+2,"TEXT_BANAMA110_01231_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F2056E0103>。向灰陣營的菲布布·夏報告。"
+3,"TEXT_BANAMA110_01231_SEQ_03","向菲布布·夏報告完畢。菲布布·夏十分感謝冒險者英勇戰鬥。他說下次再發生同樣的事情時還望冒險者再來協助。"
 4,"TEXT_BANAMA110_01231_SEQ_04",""
 5,"TEXT_BANAMA110_01231_SEQ_05",""
 6,"TEXT_BANAMA110_01231_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA110_01231_SEQ_22",""
 23,"TEXT_BANAMA110_01231_SEQ_23",""
 24,"TEXT_BANAMA110_01231_TODO_00","破壞不悔戰陣西邊的<hex:02280FFF09>BNpcName<hex:F2056E0103>"
-25,"TEXT_BANAMA110_01231_TODO_01","向菲布布・夏報告"
+25,"TEXT_BANAMA110_01231_TODO_01","向菲布布·夏報告"
 26,"TEXT_BANAMA110_01231_TODO_02",""
 27,"TEXT_BANAMA110_01231_TODO_03",""
 28,"TEXT_BANAMA110_01231_TODO_04",""

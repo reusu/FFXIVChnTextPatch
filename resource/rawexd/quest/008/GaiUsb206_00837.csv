@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSB206_00837_SEQ_00","太陽海岸的管家佩・艾巴羅，還有一件事想要委託給冒險者。"
+0,"TEXT_GAIUSB206_00837_SEQ_00","太陽海岸的管家佩·艾巴羅，還有一件事想要委託給冒險者。"
 1,"TEXT_GAIUSB206_00837_SEQ_01","<hex:02280FFF09>BNpcName<hex:F202830103>在房屋下面的支柱中安家了。對結實的支柱使用<hex:022811FF0A>EventItem<hex:F61E87DF0103>，打倒所有現身的<hex:02280FFF09>BNpcName<hex:F202830103>。"
-2,"TEXT_GAIUSB206_00837_SEQ_02","打倒了所有的<hex:02280FFF09>BNpcName<hex:F202830103>。向太陽海岸的佩・艾巴羅報告。"
-3,"TEXT_GAIUSB206_00837_SEQ_03","佩・艾巴羅曾是海雄旅團的一員。她在與蠻神的戰鬥中負傷，身體再也無法參加戰鬥了。海雄旅團與蠻神間的戰鬥似乎非常壯烈……"
+2,"TEXT_GAIUSB206_00837_SEQ_02","打倒了所有的<hex:02280FFF09>BNpcName<hex:F202830103>。向太陽海岸的佩·艾巴羅報告。"
+3,"TEXT_GAIUSB206_00837_SEQ_03","佩·艾巴羅曾是海雄旅團的一員。她在與蠻神的戰鬥中負傷，身體再也無法參加戰鬥了。海雄旅團與蠻神間的戰鬥似乎非常壯烈……"
 4,"TEXT_GAIUSB206_00837_SEQ_04",""
 5,"TEXT_GAIUSB206_00837_SEQ_05",""
 6,"TEXT_GAIUSB206_00837_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_GAIUSB206_00837_SEQ_22",""
 23,"TEXT_GAIUSB206_00837_SEQ_23",""
 24,"TEXT_GAIUSB206_00837_TODO_00","對結實的支柱使用<hex:022811FF0A>EventItem<hex:F61E87DF0103> 討伐<hex:02280FFF09>BNpcName<hex:F202830103>"
-25,"TEXT_GAIUSB206_00837_TODO_01","向佩・艾巴羅報告"
+25,"TEXT_GAIUSB206_00837_TODO_01","向佩·艾巴羅報告"
 26,"TEXT_GAIUSB206_00837_TODO_02",""
 27,"TEXT_GAIUSB206_00837_TODO_03",""
 28,"TEXT_GAIUSB206_00837_TODO_04",""

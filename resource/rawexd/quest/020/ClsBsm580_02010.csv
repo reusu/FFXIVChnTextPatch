@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_CLSBSM580_02010_SEQ_00","寶杖大街的弗勒蒙丹想要委託冒險者為洛莉斯製作某物。"
-1,"TEXT_CLSBSM580_02010_SEQ_01","和弗勒蒙丹進行了交談。他想要修復傑爾凡家的寶劍，讓洛莉斯在比賽時使用。將<hex:022811FF0A>EventItem<hex:F61E8B2D0103>拿給利姆薩・羅敏薩鍛鐵匠公會的布瑞賽爾查看。"
+1,"TEXT_CLSBSM580_02010_SEQ_01","和弗勒蒙丹進行了交談。他想要修復傑爾凡家的寶劍，讓洛莉斯在比賽時使用。將<hex:022811FF0A>EventItem<hex:F61E8B2D0103>拿給利姆薩·羅敏薩鍛鐵匠公會的布瑞賽爾查看。"
 2,"TEXT_CLSBSM580_02010_SEQ_02","讓布瑞賽爾查看了<hex:022811FF0A>EventItem<hex:F61E8B2D0103>。就算是經驗豐富的布瑞賽爾也不知道如何修復這柄寶劍。前往北部林區的林場水車，將<hex:022811FF0A>EventItem<hex:F61E8B2D0103>拿去給傳說中的武器工匠蓋羅爾特查看，向他尋求幫助。"
 3,"TEXT_CLSBSM580_02010_SEQ_03","讓蓋羅爾特查看了<hex:022811FF0A>EventItem<hex:F61E8B2D0103>，作為蓋羅爾特提供幫助的交換條件，接受委託為其製作道具。製作<hex:02280DFF07>ItemHQ<hex:F22E650103>，將其交給北部林區林場水車的德雷克。"
 4,"TEXT_CLSBSM580_02010_SEQ_04","將<hex:02280DFF07>ItemHQ<hex:F22E650103>交給了德雷克，交易成立。讓蓋羅爾特查看<hex:022811FF0A>EventItem<hex:F61E8B2D0103>，詢問寶劍的修復方法。"
@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_CLSBSM580_02010_SEQ_21",""
 22,"TEXT_CLSBSM580_02010_SEQ_22",""
 23,"TEXT_CLSBSM580_02010_SEQ_23",""
-24,"TEXT_CLSBSM580_02010_TODO_00","讓利姆薩・羅敏薩的布瑞賽爾查看<hex:022811FF0A>EventItem<hex:F61E8B2D0103>"
+24,"TEXT_CLSBSM580_02010_TODO_00","讓利姆薩·羅敏薩的布瑞賽爾查看<hex:022811FF0A>EventItem<hex:F61E8B2D0103>"
 25,"TEXT_CLSBSM580_02010_TODO_01","讓林場水車的蓋羅爾特查看<hex:022811FF0A>EventItem<hex:F61E8B2D0103>"
 26,"TEXT_CLSBSM580_02010_TODO_02","<hex:020842E3E802E803FF17>製作<hex:02280DFF07>ItemHQ<hex:F22E650103><hex:FF23>將<hex:02280DFF07>ItemHQ<hex:F22E650103>交給德雷克<hex:03>"
 27,"TEXT_CLSBSM580_02010_TODO_03","讓蓋羅爾特查看<hex:022811FF0A>EventItem<hex:F61E8B2D0103>"
@@ -53,8 +53,8 @@ int32,str,str
 48,"TEXT_CLSBSM580_02010_FREMONDAIN_000_000","御覽大賽的正式比賽就要開始了！<hex:02100103>洛莉斯小姐離她的理想又近了一步。<hex:02100103>在此我有一件重要的工作想要委託給鍛鐵匠閣下……"
 49,"TEXT_CLSBSM580_02010_FREMONDAIN_000_001","其實在傑爾凡家歷代家主手中流傳著一把寶劍。<hex:02100103>他們在世時都非常喜歡使用它。<hex:02100103>我想讓洛莉斯小姐在正式比賽中揮舞這把寶劍。"
 50,"TEXT_CLSBSM580_02010_FREMONDAIN_000_002","只不過這把劍經歷了無數戰鬥早已傷痕纍纍……<hex:02100103>我之前也問過鍛鐵匠公會的布瑞賽爾閣下，<hex:02100103>他當時跟我說如果能看到實物的話說不定會有辦法修復。"
-51,"TEXT_CLSBSM580_02010_FREMONDAIN_000_003","鍛鐵匠閣下，能否麻煩您將這把<hex:022811FF0A>EventItem<hex:F61E8B2D0103><hex:02100103>拿給利姆薩・羅敏薩的布瑞賽爾閣下看看呢？"
-52,"TEXT_CLSBSM580_02010_FREMONDAIN_000_010","鍛鐵匠閣下，能否麻煩您將這把<hex:022811FF0A>EventItem<hex:F61E8B2D0103><hex:02100103>拿給利姆薩・羅敏薩的布瑞賽爾閣下看看呢？"
+51,"TEXT_CLSBSM580_02010_FREMONDAIN_000_003","鍛鐵匠閣下，能否麻煩您將這把<hex:022811FF0A>EventItem<hex:F61E8B2D0103><hex:02100103>拿給利姆薩·羅敏薩的布瑞賽爾閣下看看呢？"
+52,"TEXT_CLSBSM580_02010_FREMONDAIN_000_010","鍛鐵匠閣下，能否麻煩您將這把<hex:022811FF0A>EventItem<hex:F61E8B2D0103><hex:02100103>拿給利姆薩·羅敏薩的布瑞賽爾閣下看看呢？"
 53,"TEXT_CLSBSM580_02010_BRITHAEL_000_030","呀，你回來了啊。<hex:02100103>我已經收到了伊修加德的弗勒蒙丹大人寄來的信了。<hex:02100103>他想修復<hex:022811FF0A>EventItem<hex:F61E8B2D0103>，沒錯吧？"
 54,"TEXT_CLSBSM580_02010_BRITHAEL_000_034","嗯，我看看……<hex:02100103>它曾經的確是一把好劍，但損傷得太嚴重。<hex:02100103>要修復怕是不太可能了……"
 55,"TEXT_CLSBSM580_02010_BRITHAEL_000_035","原來如此，是為了幫助他家小姐復興家業嗎……<hex:02100103>不好意思……我把你介紹給他為他工作，<hex:02100103>但你卻跟白乾一樣一分錢都拿不到。"

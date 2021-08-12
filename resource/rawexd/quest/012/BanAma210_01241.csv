@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANAMA210_01241_SEQ_00","灰陣營的納爾基・冬想要見證冒險者的力量。"
-1,"TEXT_BANAMA210_01241_SEQ_01","接受了納爾基・冬的委託。破壞贊拉克周圍的2座<hex:02280FFF09>BNpcName<hex:F207550103>。"
-2,"TEXT_BANAMA210_01241_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F207550103>。向灰陣營的納爾基・冬報告。"
-3,"TEXT_BANAMA210_01241_SEQ_03","向納爾基・冬報告完畢。冒險者按照委託的要求破壞了<hex:02280FFF09>BNpcName<hex:F207550103>，納爾基・冬對此深表敬佩。他認為能得到冒險者的幫助是幸事。下次有機會再協助他。"
+0,"TEXT_BANAMA210_01241_SEQ_00","灰陣營的納爾基·冬想要見證冒險者的力量。"
+1,"TEXT_BANAMA210_01241_SEQ_01","接受了納爾基·冬的委託。破壞贊拉克周圍的2座<hex:02280FFF09>BNpcName<hex:F207550103>。"
+2,"TEXT_BANAMA210_01241_SEQ_02","破壞了<hex:02280FFF09>BNpcName<hex:F207550103>。向灰陣營的納爾基·冬報告。"
+3,"TEXT_BANAMA210_01241_SEQ_03","向納爾基·冬報告完畢。冒險者按照委託的要求破壞了<hex:02280FFF09>BNpcName<hex:F207550103>，納爾基·冬對此深表敬佩。他認為能得到冒險者的幫助是幸事。下次有機會再協助他。"
 4,"TEXT_BANAMA210_01241_SEQ_04",""
 5,"TEXT_BANAMA210_01241_SEQ_05",""
 6,"TEXT_BANAMA210_01241_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_BANAMA210_01241_SEQ_22",""
 23,"TEXT_BANAMA210_01241_SEQ_23",""
 24,"TEXT_BANAMA210_01241_TODO_00","破壞<hex:02280FFF09>BNpcName<hex:F207550103>"
-25,"TEXT_BANAMA210_01241_TODO_01","向納爾基・冬報告"
+25,"TEXT_BANAMA210_01241_TODO_01","向納爾基·冬報告"
 26,"TEXT_BANAMA210_01241_TODO_02",""
 27,"TEXT_BANAMA210_01241_TODO_03",""
 28,"TEXT_BANAMA210_01241_TODO_04",""

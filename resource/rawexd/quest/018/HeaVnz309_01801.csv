@@ -2,13 +2,13 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_HEAVNZ309_01801_SEQ_00","不潔三塔的特・伊斯拉很在意冒險者。"
-1,"TEXT_HEAVNZ309_01801_SEQ_01","特・伊斯拉很好奇人類的食物。前往龍堡參天高地的陸行鳥之森，和萊奧尼爾夫談談。"
+0,"TEXT_HEAVNZ309_01801_SEQ_00","不潔三塔的特·伊斯拉很在意冒險者。"
+1,"TEXT_HEAVNZ309_01801_SEQ_01","特·伊斯拉很好奇人類的食物。前往龍堡參天高地的陸行鳥之森，和萊奧尼爾夫談談。"
 2,"TEXT_HEAVNZ309_01801_SEQ_02","萊奧尼爾夫委託冒險者去收集肉。從陸行鳥之森的<hex:02280FFF09>BNpcName<hex:F20DEC0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8AD90103>。"
 3,"TEXT_HEAVNZ309_01801_SEQ_03","獲得了<hex:022811FF0A>EventItem<hex:F61E8AD90103>。將<hex:022811FF0A>EventItem<hex:F61E8AD90103>交給陸行鳥之森的萊奧尼爾夫。"
 4,"TEXT_HEAVNZ309_01801_SEQ_04","將<hex:022811FF0A>EventItem<hex:F61E8AD90103>交給了萊奧尼爾夫。作為謝禮，他說可以拿走<hex:022811FF0A>EventItem<hex:F61E8ADA0103>。在陸行鳥之森獲取<hex:022811FF0A>EventItem<hex:F61E8ADA0103>。"
-5,"TEXT_HEAVNZ309_01801_SEQ_05","獲得了<hex:022811FF0A>EventItem<hex:F61E8ADA0103>。將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給不潔三塔的特・伊斯拉。"
-6,"TEXT_HEAVNZ309_01801_SEQ_06","將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給了特・伊斯拉。特・伊斯拉並不太理解人類的烹調方法，因此對眼前的熟肉不太滿意。"
+5,"TEXT_HEAVNZ309_01801_SEQ_05","獲得了<hex:022811FF0A>EventItem<hex:F61E8ADA0103>。將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給不潔三塔的特·伊斯拉。"
+6,"TEXT_HEAVNZ309_01801_SEQ_06","將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給了特·伊斯拉。特·伊斯拉並不太理解人類的烹調方法，因此對眼前的熟肉不太滿意。"
 7,"TEXT_HEAVNZ309_01801_SEQ_07",""
 8,"TEXT_HEAVNZ309_01801_SEQ_08",""
 9,"TEXT_HEAVNZ309_01801_SEQ_09",""
@@ -30,7 +30,7 @@ int32,str,str
 25,"TEXT_HEAVNZ309_01801_TODO_01","從<hex:02280FFF09>BNpcName<hex:F20DEC0103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8AD90103>"
 26,"TEXT_HEAVNZ309_01801_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E8AD90103>交給萊奧尼爾夫"
 27,"TEXT_HEAVNZ309_01801_TODO_03","獲取<hex:022811FF0A>EventItem<hex:F61E8ADA0103>"
-28,"TEXT_HEAVNZ309_01801_TODO_04","將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給特・伊斯拉"
+28,"TEXT_HEAVNZ309_01801_TODO_04","將<hex:022811FF0A>EventItem<hex:F61E8ADA0103>交給特·伊斯拉"
 29,"TEXT_HEAVNZ309_01801_TODO_05",""
 30,"TEXT_HEAVNZ309_01801_TODO_06",""
 31,"TEXT_HEAVNZ309_01801_TODO_07",""

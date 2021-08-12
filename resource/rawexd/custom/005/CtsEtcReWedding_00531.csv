@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_000","我的名字是哈舞・巴基莉，<hex:02100103>在為結下了永結同心誓約的人們<hex:02100103>提供「永結同心週年紀念」服務。"
+0,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_000","我的名字是哈舞·巴基莉，<hex:02100103>在為結下了永結同心誓約的人們<hex:02100103>提供「永結同心週年紀念」服務。"
 1,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_001","等您今後舉辦了永結同心典禮後，可以來這裡找我。"
-2,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_010","我的名字是哈舞・巴基莉，<hex:02100103>在為結下了永結同心誓約的人們<hex:02100103>提供「永結同心週年紀念」服務。"
+2,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_010","我的名字是哈舞·巴基莉，<hex:02100103>在為結下了永結同心誓約的人們<hex:02100103>提供「永結同心週年紀念」服務。"
 3,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_011","為了能讓大家的生活更加美滿幸福，<hex:02100103>我準備了一個非常非常棒的方案。<hex:02100103>請您帶上您的伴侶一起來體驗吧。"
 4,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_012","登記「永結同心週年紀念」時，<hex:02100103>需要您與舉辦了永結同心典禮的伴侶結成2人小隊，<hex:02100103>並各自攜帶<hex:02280BFF05>Item<hex:F2217F0103>。"
 5,"TEXT_CTSETCREWEDDING_00531_Q1_000_000","要做什麼？"
@@ -17,7 +17,7 @@ int32,str,str
 12,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_022","期待二位屆時能一同前來。"
 13,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_023","已將<hex:02280BFF05>Item<hex:F2217F0103>上銘刻的<hex:02100103>「永結同心紀念日」中的月和日登記為永結同心週年紀念日。"
 14,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_024","登記的日子到來後，<hex:02100103>您會在移動到城市或黑衣森林東部林區時收到週年紀念的通知。"
-15,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_025","屆時可以找哈舞・巴基莉領取任務「<hex:02280DFF06>Quest<hex:F601062A0103>」的後半部分，<hex:02100103>再一次舉行永結同心典禮。"
+15,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_025","屆時可以找哈舞·巴基莉領取任務「<hex:02280DFF06>Quest<hex:F601062A0103>」的後半部分，<hex:02100103>再一次舉行永結同心典禮。"
 16,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_030","「永結同心週年紀念」是重溫與伴侶的美好回憶，<hex:02100103>加深二人羈絆的特別紀念日。"
 17,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_031","通過登記永結同心週年紀念，可以每年舉行一次永結同心典禮。"
 18,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_032","典禮舉辦時能夠選擇與之前不同的會場裝飾、入場方式等，<hex:02100103>從而體驗與從前不同的典禮氛圍。<hex:02100103>推薦您趁此機會向另一半表示感謝，感謝對方這一年來的風雨相伴。"
@@ -33,7 +33,7 @@ int32,str,str
 28,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_050","您的永結同心週年紀念日為<hex:022003E80203>月<hex:022003E80303>日。<hex:02100103>期待您屆時來訪。"
 29,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_051","「永結同心週年紀念」登記的週年紀念日，<hex:02100103>就是<hex:02280BFF05>Item<hex:F2217F0103>上銘刻的「永結同心紀念日」中的月和日。"
 30,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_052","解除「永結同心週年紀念」的登記後，<hex:02100103>將無法舉行每年一次的永結同心典禮。<hex:02100103>您確定要這麼做嗎？"
-31,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_053","解除「永結同心週年紀念」的登記後，<hex:02100103>可以再次找哈舞・巴基莉重新登記。"
+31,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_053","解除「永結同心週年紀念」的登記後，<hex:02100103>可以再次找哈舞·巴基莉重新登記。"
 32,"TEXT_CTSETCREWEDDING_00531_Q4_000_000","確定要解除「永結同心週年紀念」的登記嗎？"
 33,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_054","我幫您解除了「永結同心週年紀念」的登記。<hex:02100103>需要再次登記時請再來找我。"
 34,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_060","距離您的永結同心週年紀念日還有一段時間。<hex:02100103>我衷心期待二位的到來。"

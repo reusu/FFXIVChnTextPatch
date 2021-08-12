@@ -2,11 +2,11 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSB309_00850_SEQ_00","葡萄酒港的夏馬尼・洛馬尼，有件事一定要委託給冒險者。"
-1,"TEXT_GAIUSB309_00850_SEQ_01","夏馬尼・洛馬尼得知本已放棄的最棒的葡萄酒仍然存在，非常興奮。將<hex:022811FF0A>EventItem<hex:F61E88320103>交給斷弦亭的德雷斯特。"
+0,"TEXT_GAIUSB309_00850_SEQ_00","葡萄酒港的夏馬尼·洛馬尼，有件事一定要委託給冒險者。"
+1,"TEXT_GAIUSB309_00850_SEQ_01","夏馬尼·洛馬尼得知本已放棄的最棒的葡萄酒仍然存在，非常興奮。將<hex:022811FF0A>EventItem<hex:F61E88320103>交給斷弦亭的德雷斯特。"
 2,"TEXT_GAIUSB309_00850_SEQ_02","德雷斯特有見過<hex:022811FF0A>EventItem<hex:F61E88320103>的印象。那好像是生長在森林中的魔物頭上。在斷弦亭東南方的<hex:02280CFF05>EObj<hex:F61E8C8E0103>等待，打倒<hex:02280FFF09>BNpcName<hex:F207D20103>。"
-3,"TEXT_GAIUSB309_00850_SEQ_03","終於獲得了<hex:022811FF0A>EventItem<hex:F61E87120103>。向葡萄酒港的夏馬尼・洛馬尼報告。"
-4,"TEXT_GAIUSB309_00850_SEQ_04","夏馬尼・洛馬尼和比格萊恩特達成了和解，共同起誓要做出最棒的葡萄酒。將<hex:022811FF0A>EventItem<hex:F61E87130103>交給太陽海岸的維斯凱特。"
+3,"TEXT_GAIUSB309_00850_SEQ_03","終於獲得了<hex:022811FF0A>EventItem<hex:F61E87120103>。向葡萄酒港的夏馬尼·洛馬尼報告。"
+4,"TEXT_GAIUSB309_00850_SEQ_04","夏馬尼·洛馬尼和比格萊恩特達成了和解，共同起誓要做出最棒的葡萄酒。將<hex:022811FF0A>EventItem<hex:F61E87130103>交給太陽海岸的維斯凱特。"
 5,"TEXT_GAIUSB309_00850_SEQ_05","將<hex:022811FF0A>EventItem<hex:F61E87130103>交給了太陽海岸的維斯凱特。終於獲得了配得上美味的最棒的葡萄酒。距離討伐蠻神泰坦只差一步了。"
 6,"TEXT_GAIUSB309_00850_SEQ_06",""
 7,"TEXT_GAIUSB309_00850_SEQ_07",""
@@ -28,7 +28,7 @@ int32,str,str
 23,"TEXT_GAIUSB309_00850_SEQ_23",""
 24,"TEXT_GAIUSB309_00850_TODO_00","將<hex:022811FF0A>EventItem<hex:F61E88320103>交給德雷斯特"
 25,"TEXT_GAIUSB309_00850_TODO_01","在<hex:02280CFF05>EObj<hex:F61E8C8E0103>等待 討伐<hex:02280FFF09>BNpcName<hex:F207D20103>"
-26,"TEXT_GAIUSB309_00850_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E87120103>交給夏馬尼・洛馬尼"
+26,"TEXT_GAIUSB309_00850_TODO_02","將<hex:022811FF0A>EventItem<hex:F61E87120103>交給夏馬尼·洛馬尼"
 27,"TEXT_GAIUSB309_00850_TODO_03","將<hex:022811FF0A>EventItem<hex:F61E87130103>交給維斯凱特"
 28,"TEXT_GAIUSB309_00850_TODO_04",""
 29,"TEXT_GAIUSB309_00850_TODO_05",""
@@ -62,7 +62,7 @@ int32,str,str
 57,"TEXT_GAIUSB309_00850_DUMMYTODO_000_040","在指定地點等待，打倒出現的<hex:02280FFF09>BNpcName<hex:F207D20103>，<hex:02100103>獲取<hex:022811FF0A>EventItem<hex:F61E87130103>"
 58,"TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_050","冒險者，你回來啦！<hex:02100103>怎麼樣，找到枝條了嗎？！"
 59,"TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_060","這是……這個味道，肯定錯不了！<hex:02100103>只要培育好這個的話，傳說中的「酒神葡萄」就復活了！"
-60,"TEXT_GAIUSB309_00850_BYRGLAENT_000_061","我都聽到了！剛、剛才的話是真的嗎？！<hex:02100103>就連我都已經放棄的酒神葡萄枝，<hex:02100103>竟被身為新手的夏馬尼・洛馬尼和冒險者發現了嗎？"
+60,"TEXT_GAIUSB309_00850_BYRGLAENT_000_061","我都聽到了！剛、剛才的話是真的嗎？！<hex:02100103>就連我都已經放棄的酒神葡萄枝，<hex:02100103>竟被身為新手的夏馬尼·洛馬尼和冒險者發現了嗎？"
 61,"TEXT_GAIUSB309_00850_BYRGLAENT_000_062","確、確實……這是酒神葡萄的枝條！<hex:02100103>竟被我一直輕視的你們給找到了……<hex:02100103>看來我不得不承認你們的熱情與知識了。"
 62,"TEXT_GAIUSB309_00850_BYRGLAENT_000_063","什、什麼？！<hex:02100103>你要把這個枝條托、託付給我？！"
 63,"TEXT_GAIUSB309_00850_SHAMANILOHMANI_000_064","這裡技術最好的就是你了。<hex:02100103>讓我們一起復活「酒神葡萄」……<hex:02100103>復活「酒神之酒」吧！"

@@ -3,9 +3,9 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSB307_00848_SEQ_00","斷弦亭的德雷斯特，有事想要委託給冒險者。"
-1,"TEXT_GAIUSB307_00848_SEQ_01","德雷斯特想向掛念著自己的夏馬尼・洛馬尼表達謝意。前往斷弦亭北方的紅螳螂瀑布，獲得3個<hex:022811FF0A>EventItem<hex:F61E87110103>。"
-2,"TEXT_GAIUSB307_00848_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E87110103>。將其交給葡萄酒港的夏馬尼・洛馬尼。"
-3,"TEXT_GAIUSB307_00848_SEQ_03","夏馬尼・洛馬尼對德雷斯特的一番好意感到十分高興。樹木果實經發酵後，可以成為製作發泡酒的原料。"
+1,"TEXT_GAIUSB307_00848_SEQ_01","德雷斯特想向掛念著自己的夏馬尼·洛馬尼表達謝意。前往斷弦亭北方的紅螳螂瀑布，獲得3個<hex:022811FF0A>EventItem<hex:F61E87110103>。"
+2,"TEXT_GAIUSB307_00848_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E87110103>。將其交給葡萄酒港的夏馬尼·洛馬尼。"
+3,"TEXT_GAIUSB307_00848_SEQ_03","夏馬尼·洛馬尼對德雷斯特的一番好意感到十分高興。樹木果實經發酵後，可以成為製作發泡酒的原料。"
 4,"TEXT_GAIUSB307_00848_SEQ_04",""
 5,"TEXT_GAIUSB307_00848_SEQ_05",""
 6,"TEXT_GAIUSB307_00848_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_GAIUSB307_00848_SEQ_22",""
 23,"TEXT_GAIUSB307_00848_SEQ_23",""
 24,"TEXT_GAIUSB307_00848_TODO_00","獲取<hex:022811FF0A>EventItem<hex:F61E87110103>"
-25,"TEXT_GAIUSB307_00848_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E87110103>交給夏馬尼・洛馬尼"
+25,"TEXT_GAIUSB307_00848_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E87110103>交給夏馬尼·洛馬尼"
 26,"TEXT_GAIUSB307_00848_TODO_02",""
 27,"TEXT_GAIUSB307_00848_TODO_03",""
 28,"TEXT_GAIUSB307_00848_TODO_04",""

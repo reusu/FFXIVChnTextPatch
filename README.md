@@ -4,7 +4,7 @@ FFXIV的中文漢化器。適用於最新的5.58版本（7/20），並已套用�
 English description is below.
 
 相較於原版：
-1. 針對5.5X以後版本修正中文字庫補丁
+1. 針對5.5X以後版本修正中文字庫補丁。
 2. 新增使用CSV進行漢化的功能。CSV是使用修改過的SaintCoinach輸出。
 3. 刪除原版exe中與teemo連線的部分。
 
@@ -17,9 +17,13 @@ English description is below.
 
 請注意，如果沒有額外備份原遊戲檔案，請不要重複漢化，因為會覆蓋`backup`資料夾裡面的備份檔。
 
-![](https://i.imgur.com/ix4u2G3.png)
 
-![](https://i.imgur.com/kMrYQlj.png)
+
+請從release的地方下載：
+
+![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/tree/master/docs/fig1.png?raw=true)
+
+![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/tree/master/docs/fig2.png?raw=true)
 
 ### 如何使用CSV進行漢化？（推薦）
 0. 下載右邊的release版本或自行編譯
@@ -68,6 +72,7 @@ English description is below.
 
 
 ## 更新註記
+1. 8/12 修正因中文點（·）與日文點（・）bytes數不同造成指令碼失效的問題
 1. 8/11 使用中國服檔案更新5.57版本以前內容漢化、更新簡繁轉換表
 2. 8/8 更新部分漢化和修正錯誤
 3. 8/6 更新部分漢化

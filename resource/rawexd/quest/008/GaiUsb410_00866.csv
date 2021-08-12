@@ -2,15 +2,15 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSB410_00866_SEQ_00","石綠湖營地療養院的管理人魯庫薩・琺魯薩，看上去十分煩惱。"
+0,"TEXT_GAIUSB410_00866_SEQ_00","石綠湖營地療養院的管理人魯庫薩·琺魯薩，看上去十分煩惱。"
 1,"TEXT_GAIUSB410_00866_SEQ_01","這個村落本是傷兵進行療養的場所，不知為何雕金匠造訪了這裡。從<hex:02280FFF09>BNpcName<hex:F201870103>身上獲得4瓶量可以乾燥傷患部位的<hex:022811FF0A>EventItem<hex:F61E87210103>。"
 2,"TEXT_GAIUSB410_00866_SEQ_02","獲得了4瓶量的<hex:022811FF0A>EventItem<hex:F61E87210103>。讓石綠湖營地的雕金匠查看。"
 3,"TEXT_GAIUSB410_00866_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E87210103>撒滿戈德伯特全身。"
 4,"TEXT_GAIUSB410_00866_SEQ_04","再次將<hex:022811FF0A>EventItem<hex:F61E87210103>撒滿戈德伯特全身。"
 5,"TEXT_GAIUSB410_00866_SEQ_05","將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍戈德伯特全身。"
 6,"TEXT_GAIUSB410_00866_SEQ_06","再次將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍戈德伯特全身。"
-7,"TEXT_GAIUSB410_00866_SEQ_07","將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍了戈德伯特全身。向石綠湖營地的魯庫薩・琺魯薩報告。"
-8,"TEXT_GAIUSB410_00866_SEQ_08","魯庫薩・琺魯薩無法理解烏爾達哈有錢人的想法。戈德伯特真是一個不可思議的人物。"
+7,"TEXT_GAIUSB410_00866_SEQ_07","將<hex:022811FF0A>EventItem<hex:F61E87210103>塗遍了戈德伯特全身。向石綠湖營地的魯庫薩·琺魯薩報告。"
+8,"TEXT_GAIUSB410_00866_SEQ_08","魯庫薩·琺魯薩無法理解烏爾達哈有錢人的想法。戈德伯特真是一個不可思議的人物。"
 9,"TEXT_GAIUSB410_00866_SEQ_09",""
 10,"TEXT_GAIUSB410_00866_SEQ_10",""
 11,"TEXT_GAIUSB410_00866_SEQ_11",""
@@ -32,7 +32,7 @@ int32,str,str
 27,"TEXT_GAIUSB410_00866_TODO_03","再次對戈德伯特使用<hex:022811FF0A>EventItem<hex:F61E87210103>"
 28,"TEXT_GAIUSB410_00866_TODO_04","給戈德伯特塗<hex:022811FF0A>EventItem<hex:F61E87210103>"
 29,"TEXT_GAIUSB410_00866_TODO_05","再次給戈德伯特塗<hex:022811FF0A>EventItem<hex:F61E87210103>"
-30,"TEXT_GAIUSB410_00866_TODO_06","向魯庫薩・琺魯薩報告"
+30,"TEXT_GAIUSB410_00866_TODO_06","向魯庫薩·琺魯薩報告"
 31,"TEXT_GAIUSB410_00866_TODO_07",""
 32,"TEXT_GAIUSB410_00866_TODO_08",""
 33,"TEXT_GAIUSB410_00866_TODO_09",""

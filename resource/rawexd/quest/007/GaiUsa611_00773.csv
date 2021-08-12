@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_GAIUSA611_00773_SEQ_00","姆恩・圖伊釀造庫的釀造師埃里蒙，有件簡單的工作想委託給冒險者。"
+0,"TEXT_GAIUSA611_00773_SEQ_00","姆恩·圖伊釀造庫的釀造師埃里蒙，有件簡單的工作想委託給冒險者。"
 1,"TEXT_GAIUSA611_00773_SEQ_01","冒險者要幫忙製作<hex:022811FF0A>EventItem<hex:F61E86E30103>。獲得<hex:022811FF0A>EventItem<hex:F61E86E20103>、<hex:022811FF0A>EventItem<hex:F61E87C30103>和<hex:022811FF0A>EventItem<hex:F61E87C40103>。"
-2,"TEXT_GAIUSA611_00773_SEQ_02","將獲得的<hex:022811FF0A>EventItem<hex:F61E86E20103>、<hex:022811FF0A>EventItem<hex:F61E87C30103>和<hex:022811FF0A>EventItem<hex:F61E87C40103>放入姆恩・圖伊釀造庫的鍋中。"
+2,"TEXT_GAIUSA611_00773_SEQ_02","將獲得的<hex:022811FF0A>EventItem<hex:F61E86E20103>、<hex:022811FF0A>EventItem<hex:F61E87C30103>和<hex:022811FF0A>EventItem<hex:F61E87C40103>放入姆恩·圖伊釀造庫的鍋中。"
 3,"TEXT_GAIUSA611_00773_SEQ_03","將作料全都放入了鍋中。和喬弗里交談，獲取<hex:022811FF0A>EventItem<hex:F61E86E30103>。"
 4,"TEXT_GAIUSA611_00773_SEQ_04","獲得了<hex:022811FF0A>EventItem<hex:F61E86E30103>。將其交給石場水車的愛德可。"
 5,"TEXT_GAIUSA611_00773_SEQ_05","愛德可焦急等待著冒險者的歸來。<hex:022811FF0A>EventItem<hex:F61E86E30103>是格里達尼亞菜系不可或缺的東西。但對其味道的接受程度則因人而異。"
@@ -54,8 +54,8 @@ int32,str,str
 49,"TEXT_GAIUSA611_00773_ERIMMONT_000_001","<hex:022811FF0A>EventItem<hex:F61E86E30103>在內部的釀造鍋完成最後工序，<hex:02100103>你能不能將作料加入鍋中呢？"
 50,"TEXT_GAIUSA611_00773_ERIMMONT_000_002","一共需要3種作料。它們會將味道提煉出來。<hex:02100103>作料就在倉庫裡，你去把它們拿到鍋那裡吧。<hex:02100103>醬汁做好後，你就把它送去石場水車吧。"
 51,"TEXT_GAIUSA611_00773_SYSTEM_000_000","從釀造庫的倉庫中獲取<hex:022811FF0A>EventItem<hex:F61E86E20103>"
-52,"TEXT_GAIUSA611_00773_SYSTEM_000_001","將3個<hex:022811FF0A>EventItem<hex:F61E86E20103>放入姆恩・圖伊釀造庫的鍋中。"
+52,"TEXT_GAIUSA611_00773_SYSTEM_000_001","將3個<hex:022811FF0A>EventItem<hex:F61E86E20103>放入姆恩·圖伊釀造庫的鍋中。"
 53,"TEXT_GAIUSA611_00773_SYSTEM_000_002","（未使用/預計刪除）"
 54,"TEXT_GAIUSA611_00773_NPC1_000_010","你是來幫忙的？辛苦啦。<hex:02100103>將香料充分攪勻……完成啦！<hex:02100103>這就是我們引以為豪的<hex:022811FF0A>EventItem<hex:F61E86E30103>。你拿去吧！"
 55,"TEXT_GAIUSA611_00773_AEDOC_000_010","啊！你可算回來了！<hex:02100103>衛兵們餓得都不行了，差點就要鬧事了！"
-56,"TEXT_GAIUSA611_00773_AEDOC_000_020","由姆恩・圖伊豆釀出來的醬汁，是格里達尼亞菜系的精華所在！<hex:02100103>其獨特的醇香，廣受群眾們的好評！<hex:02100103>至於氣味嘛……那就因人而異啦……"
+56,"TEXT_GAIUSA611_00773_AEDOC_000_020","由姆恩·圖伊豆釀出來的醬汁，是格里達尼亞菜系的精華所在！<hex:02100103>其獨特的醇香，廣受群眾們的好評！<hex:02100103>至於氣味嘛……那就因人而異啦……"

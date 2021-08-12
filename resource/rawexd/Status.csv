@@ -206,12 +206,12 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 201,"眩暈","無法做出任何行動",15004,0,1,2,3,0,True,False,True,False,False,False,False,True,True,100,False,False,False,0,0,False,0,False,False,0,0,False
 202,"受傷加重","受到攻擊的傷害增加",17101,8,1,2,17,0,False,False,False,False,False,False,False,False,False,100,False,False,False,10,0,False,0,False,False,0,0,False
 203,"蓄力","提升下次戰技的攻擊力",15507,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-204,"魔法劍・火","令自動攻擊附加火屬性傷害",15509,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-205,"魔法劍・冰","令自動攻擊附加冰屬性傷害",15510,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-206,"魔法劍・風","令自動攻擊附加風屬性傷害",15511,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-207,"魔法劍・土","令自動攻擊附加土屬性傷害",15512,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-208,"魔法劍・雷","令自動攻擊附加雷屬性傷害",15513,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-209,"魔法劍・水","令自動攻擊附加水屬性傷害",15514,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+204,"魔法劍·火","令自動攻擊附加火屬性傷害",15509,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+205,"魔法劍·冰","令自動攻擊附加冰屬性傷害",15510,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+206,"魔法劍·風","令自動攻擊附加風屬性傷害",15511,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+207,"魔法劍·土","令自動攻擊附加土屬性傷害",15512,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+208,"魔法劍·雷","令自動攻擊附加雷屬性傷害",15513,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
+209,"魔法劍·水","令自動攻擊附加水屬性傷害",15514,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
 210,"死亡宣告","倒數計時為0時會陷入無法戰鬥狀態",15503,0,1,2,9,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 211,"打磨好的菜刀","菜刀的攻擊力提升",15515,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,0,0,False,0,False,False,0,0,False
 212,"識破","由於被識破而產生動搖，體力最大值降低",15076,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,False,False,False,-30,0,False,0,False,False,0,0,False
@@ -1231,7 +1231,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1226,"受傷減輕","受到攻擊的傷害減少",15021,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,-10,0,False,0,False,False,0,0,False
 1227,"雪風","斬擊耐性降低",13303,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-10,0,False,0,False,False,0,0,False
 1228,"彼岸花","體力逐漸減少",13304,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
-1229,"必殺劍・回天","下次發動戰技造成的傷害提高",13305,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,False,0,False,False,0,0,False
+1229,"必殺劍·回天","下次發動戰技造成的傷害提高",13305,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,False,0,False,False,0,0,False
 1230,"治癒","體力會隨時間逐漸恢復",12626,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
 1231,"默想","持續獲得劍氣",13306,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,4,False,0,False,False,0,27,False
 1232,"心眼","下次受到攻擊時所受到的傷害減輕",13307,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-20,0,False,0,False,False,0,0,False
@@ -1242,7 +1242,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1237,"散碎效果提高","發動散碎時可以獲得更多白魔元和黑魔元",13404,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1238,"促進","發動附加赤火炎預備或赤飛石預備的魔法時必定發動追加效果",19661,3,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,27,False,0,False,False,0,0,False
 1239,"鼓勵","魔法攻擊所造成的傷害提高",18921,5,112,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,4,0,False,0,False,False,0,0,False
-1240,"必殺劍・地天","令自身所受到的傷害減少，同時給予對方反擊傷害",14820,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-20,0,True,0,False,False,0,0,False
+1240,"必殺劍·地天","令自身所受到的傷害減少，同時給予對方反擊傷害",14820,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-20,0,True,0,False,False,0,0,False
 1241,"單打獨鬥","攻擊目標時造成的傷害提高，同時受到該目標的傷害減少",14821,0,1,1,16,0,False,False,False,False,False,False,False,True,True,50,False,False,False,0,0,True,0,False,False,0,0,False
 1242,"單打獨鬥","受到附加此效果的赤魔法師攻擊的傷害增加，同時對該目標造成的傷害減少",14822,0,1,2,17,0,False,False,False,False,False,False,False,True,True,50,False,False,True,10,0,True,0,False,False,0,0,False
 1243,"幻象衝預備","可以發動幻象衝",12583,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1516,7 +1516,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1511,"石化","手足被石化，無法做出任何行動",15001,0,1,2,6,1,True,False,True,False,False,False,True,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
 1512,"擊退無效","擊退與吸引效果無效",16824,0,1,2,17,0,False,False,False,False,False,False,False,True,True,50,False,False,False,0,0,False,0,False,False,0,0,False
 1513,"眩暈","無法做出任何行動",15004,0,1,2,17,0,False,False,True,True,False,False,False,True,False,100,False,False,False,0,4,False,0,False,False,2,0,False
-1514,"スリル・オブ・ウォー：効果","連続してＨＰが回復している狀態。",14842,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,1000,0,True,0,False,False,0,0,False
+1514,"スリル·オブ·ウォー：効果","連続してＨＰが回復している狀態。",14842,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,1000,0,True,0,False,False,0,0,False
 1515,"滯空","高度提高",15683,0,1,1,16,0,False,False,False,False,False,False,False,True,True,1,False,False,False,0,12,True,0,False,False,0,0,False
 1516,"水泥","水泥粘在身上，不斷石化。效果結束時會石化",0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,True,0,False,False,0,0,False
 1517,"火屬性耐性提升","對火屬性的耐性有所提高",15028,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
@@ -1652,7 +1652,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1647,"物理盾","受到物理攻擊的傷害減少",16643,0,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,-99,0,False,0,False,False,0,0,False
 1648,"魔法盾","受到魔法攻擊的傷害減少",16644,0,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,-99,0,False,0,False,False,0,0,False
 1649,"文理反射","自身受到的魔法將被反射給對方",16645,0,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,0,0,False,0,False,False,0,40,False
-1650,"ロゴス・ポイズン","ＨＰが徐々に失われる狀態。",16646,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,30,0,False,0,False,False,0,0,False
+1650,"ロゴス·ポイズン","ＨＰが徐々に失われる狀態。",16646,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,30,0,False,0,False,False,0,0,False
 1651,"文理醒神","魔素乙太恢復量提高",16647,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,100,0,False,0,False,False,0,0,False
 1652,"文理魔法爆發","以自身發動魔法時消耗的魔力增加為代價提高魔法類技能攻擊時造成的傷害",16648,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,6,False,0,False,False,0,19,False
 1653,"文理雙刃劍","以體力不斷降低為代價提高物理攻擊所造成的傷害",19401,16,1,1,16,0,False,False,False,False,False,False,False,False,False,70,False,False,False,1200,0,False,0,False,False,0,0,False
@@ -1684,8 +1684,8 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1679,"延遲詠唱：強回返","成為了將延遲發動的強回返的目標<hex:02100103>倒數計時結束時，強回返發動",15331,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1680,"延遲詠唱：核爆","成為了將延遲發動的核爆的目標<hex:02100103>倒數計時結束時，核爆發動",15970,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1681,"強制移動","朝著特定方向持續移動",15773,0,1,2,17,0,True,False,True,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
-1682,"睡眠・陰","陰陷入沉睡",15929,0,1,1,16,76,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
-1683,"睡眠・陽","陽陷入沉睡",15930,0,1,1,16,75,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
+1682,"睡眠·陰","陰陷入沉睡",15929,0,1,1,16,76,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
+1683,"睡眠·陽","陽陷入沉睡",15930,0,1,1,16,75,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1684,"號令：強石化","收到號令，發動次級強石化",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1685,"號令：蓄勢衝撞","收到號令，發動次級蓄勢衝撞",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1686,"號令：龍卷","收到號令，發動次級龍卷",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1822,7 +1822,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1817,"落血雨預備","可以發動落血雨",13704,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1818,"標準舞步","進入了跳舞模式。無法發動舞步技能和標準舞步結束、前衝步、職能技能、衝刺、極限技以外的技能",13705,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 1819,"技巧舞步","進入了跳舞模式。無法發動舞步技能和技巧舞步結束、前衝步、職能技能、衝刺、極限技以外的技能",13706,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
-1820,"扇舞・急預備","可以發動扇舞・急",13707,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+1820,"扇舞·急預備","可以發動扇舞·急",13707,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1821,"標準舞步結束","攻擊所造成的傷害提高",13708,0,150,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,5,False
 1822,"技巧舞步結束","攻擊所造成的傷害提高",13709,0,150,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,5,False
 1823,"閉式舞姿","使用部分技能時，對指定隊員發動追加效果",13712,0,150,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,0,0,True,0,False,False,0,0,False
@@ -2023,7 +2023,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2018,"ワイルドファイア","ワイルドファイアを付與した狀態。",13019,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2019,"毒菌衝擊","受到攻擊的傷害增加",13020,0,96,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,True,0,False,False,0,0,False
 2020,"干預","減輕所受到的傷害",12511,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,0,False
-2021,"扇舞・急預備","可以發動扇舞・急",13707,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
+2021,"扇舞·急預備","可以發動扇舞·急",13707,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2022,"劍舞","攻擊所造成的傷害提高",14859,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,15,0,True,0,False,False,0,0,False
 2023,"標準舞步","進入了跳舞模式。無法發動舞步技能和標準舞步結束、前衝步、傷頭、疾跑、軍用恢復藥、額外技能以外的技能",13705,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2024,"標準舞步結束","戰技與魔法的詠唱及複唱時間縮短",13708,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,5,False
@@ -2054,7 +2054,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2049,"技巧舞步","進入了跳舞模式。無法發動舞步技能和技巧舞步結束、前衝步、傷頭、疾跑、軍用恢復藥、額外技能以外的技能",13706,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2050,"技巧舞步結束","戰技與魔法的詠唱及複唱時間縮短",13709,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,5,False
 2051,"伶俐","附加此效果的舞者或小隊成員發動戰技或魔法攻擊命中時，舞者獲得伶俐",13711,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,5,False
-2052,"扇舞・急","受到攻擊的傷害減少",14861,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-15,0,True,0,False,False,0,0,False
+2052,"扇舞·急","受到攻擊的傷害減少",14861,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-15,0,True,0,False,False,0,0,False
 2053,"護盾","受到攻擊的傷害減少",10405,0,125,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,0,False
 2054,"王冠之領主（抽卡）","抽取了奧秘卡「王冠之領主」",13256,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 2055,"王冠之貴婦（抽卡）","抽取了奧秘卡「王冠之貴婦」",13257,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
@@ -2559,7 +2559,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2554,"防禦形態：真月","強化了防禦的狀態",15343,0,1,1,16,0,False,False,False,False,True,False,False,True,True,200,False,False,False,0,2,False,0,False,False,0,0,False
 2555,"物理傷害提高","物理攻擊所造成的傷害提高",15050,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,10,0,False,0,False,False,0,0,False
 2556,"魔法傷害提高","魔法攻擊所造成的傷害提高",15054,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,10,0,False,0,False,False,0,0,False
-2557,"魔法劍・雷","令自動攻擊附加雷屬性傷害",15513,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,100,0,False,0,False,False,0,0,False
+2557,"魔法劍·雷","令自動攻擊附加雷屬性傷害",15513,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,100,0,False,0,False,False,0,0,False
 2558,"失傳爆發","受到攻擊的傷害增加",16619,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,10,0,False,0,False,False,0,0,False
 2559,"失傳狂飆","受到攻擊的傷害增加",16622,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,10,0,False,0,False,False,0,0,False
 2560,"失傳連鎖詠唱","魔法不需要詠唱時間",16623,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False

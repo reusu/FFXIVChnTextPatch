@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_FESSUM505_03667_SEQ_00","※本任務是特定期間內的任務。<hex:02100103><hex:02100103>太陽海岸的紅蓮節釣魚負責人嘉・喃歌正在等待著釣魚大會的參加者。"
-1,"TEXT_FESSUM505_03667_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>聽嘉・喃歌講解釣魚大會的規則，並提出釣來3條<hex:022811FF0A>EventItem<hex:F61E8FB50103>的要求。<hex:022811FF0A>EventItem<hex:F61E8FB50103>可從永夏島北釣得。"
-2,"TEXT_FESSUM505_03667_SEQ_02","釣到<hex:022811FF0A>EventItem<hex:F61E8FB50103>了。把3條<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給在太陽海岸的紅蓮節釣魚負責人嘉・喃歌。"
-3,"TEXT_FESSUM505_03667_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給了嘉・喃歌。為了炒熱紅蓮節的氣氛，可再度參加釣魚大會。"
+0,"TEXT_FESSUM505_03667_SEQ_00","※本任務是特定期間內的任務。<hex:02100103><hex:02100103>太陽海岸的紅蓮節釣魚負責人嘉·喃歌正在等待著釣魚大會的參加者。"
+1,"TEXT_FESSUM505_03667_SEQ_01","※本任務只有在季節活動開放期間才能接受和進行。<hex:02100103>　季節活動結束後無法進行，敬請注意。<hex:02100103>　詳情請參見官方網站。<hex:02100103><hex:02100103>聽嘉·喃歌講解釣魚大會的規則，並提出釣來3條<hex:022811FF0A>EventItem<hex:F61E8FB50103>的要求。<hex:022811FF0A>EventItem<hex:F61E8FB50103>可從永夏島北釣得。"
+2,"TEXT_FESSUM505_03667_SEQ_02","釣到<hex:022811FF0A>EventItem<hex:F61E8FB50103>了。把3條<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給在太陽海岸的紅蓮節釣魚負責人嘉·喃歌。"
+3,"TEXT_FESSUM505_03667_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給了嘉·喃歌。為了炒熱紅蓮節的氣氛，可再度參加釣魚大會。"
 4,"TEXT_FESSUM505_03667_SEQ_04",""
 5,"TEXT_FESSUM505_03667_SEQ_05",""
 6,"TEXT_FESSUM505_03667_SEQ_06",""
@@ -27,7 +27,7 @@ int32,str,str
 22,"TEXT_FESSUM505_03667_SEQ_22",""
 23,"TEXT_FESSUM505_03667_SEQ_23",""
 24,"TEXT_FESSUM505_03667_TODO_00","在永夏島北釣上<hex:022811FF0A>EventItem<hex:F61E8FB50103>"
-25,"TEXT_FESSUM505_03667_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給紅蓮節釣魚負責人嘉・喃歌"
+25,"TEXT_FESSUM505_03667_TODO_01","將<hex:022811FF0A>EventItem<hex:F61E8FB50103>交給紅蓮節釣魚負責人嘉·喃歌"
 26,"TEXT_FESSUM505_03667_TODO_02",""
 27,"TEXT_FESSUM505_03667_TODO_03",""
 28,"TEXT_FESSUM505_03667_TODO_04",""
