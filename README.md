@@ -21,9 +21,9 @@ English description is below.
 
 請從release的地方下載：
 
-![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/tree/master/docs/fig1.png?raw=true)
+![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig1.png?raw=true)
 
-![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/tree/master/docs/fig2.png?raw=true)
+![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig2.png?raw=true)
 
 ### 如何使用CSV進行漢化？（推薦）
 0. 下載右邊的release版本或自行編譯
