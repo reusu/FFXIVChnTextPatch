@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_000","冒險者，來幫我們騎士團一個忙吧。<hex:02100103>龍族的眷屬<hex:02280FFF09>BNpcName<hex:F202AD0103>阻礙著我們的進軍，<hex:02100103>希望你能去討伐它們。"
 49,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_001","它們並不像龍族那樣擁有智慧，只是和野獸差不多的魔物。<hex:02100103>但是卻有追隨主人也就是龍族的習性。<hex:02100103>你在森林中使用<hex:022811FF0A>EventItem<hex:F61E87590103>就可以把它們引出來。"
 50,"TEXT_GAIUSB910_00933_DUMMY_000_010","將<hex:022811FF0A>EventItem<hex:F61E87590103>設定在指定地點。討伐2隻跳蜥。"
-51,"TEXT_GAIUSB910_00933_DUMMYTODO_000_010","（★未使用／削除予定★）"
+51,"TEXT_GAIUSB910_00933_DUMMYTODO_000_010","無"
 52,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_020","已經打倒了<hex:02280FFF09>BNpcName<hex:F202AD0103>啊。<hex:02100103>這樣我們進攻石衛塔的障礙就又少了一些。"
 53,"TEXT_GAIUSB910_00933_FAUCILLIEN_000_021","利用眷屬來阻礙我們的進軍路，<hex:02100103>龍族一貫愛用這種策略來拖延。<hex:02100103>……但是這次就等著被我們騎士團驅除出去吧！"
 54,"TEXT_GAIUSB910_00933_POP_MESSAGE_000","察覺到了敵人的氣息！"

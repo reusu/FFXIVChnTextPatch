@@ -1,7 +1,7 @@
 # FFXIV Translation Patch Tool
 FFXIV的中文漢化器。適用於最新的5.58版本（7/20），並已套用中國服更新（8/10）。
 
-English description is below.
+English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
 
 相較於原版：
 1. 針對5.5X以後版本修正中文字庫補丁。
@@ -21,9 +21,9 @@ English description is below.
 
 請從release的地方下載：
 
-![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig1.png?raw=true)
+<img src="https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig1.png?raw=true" width="480px" />
 
-![](https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig2.png?raw=true)
+<img src="https://github.com/GpointChen/FFXIVChnTextPatch-GP/blob/master/docs/fig2.png?raw=true" width="480px" />
 
 ### 如何使用CSV進行漢化？（推薦）
 0. 下載右邊的release版本或自行編譯
@@ -72,13 +72,8 @@ English description is below.
 
 
 ## 更新註記
-1. 8/12 修正因中文點（·）與日文點（・）bytes數不同造成指令碼失效的問題
-1. 8/11 使用中國服檔案更新5.57版本以前內容漢化、更新簡繁轉換表
-2. 8/8 更新部分漢化和修正錯誤
-3. 8/6 更新部分漢化
-4. 7/21 解決部分使用者會出現亂碼的問題以及部分使用者無法正確執行的問題
-5. 7/20 更新5.58版本內容、新增部分翻譯
-6. 7/17 問世
+詳參本專案的[Wiki](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki/1.-%E9%A6%96%E9%A0%81)。
+
 
 ## 原項目說明
 	
@@ -135,29 +130,3 @@ English description is below.
 	1.此项目仅供学习技术以及技术交流使用
 	2.严禁使用于任何商业用途
 	3.请下载后24小时内删除
-
-
-## English Description
-This tool is used to translate the in-game text and patch the Chinese font files.
-
-It is available to translate via the CSV files that are generated based on a modified version of SaintCoinach. You can also replace the in-game text with anything you want by editing the CSV files.
-
-We only provide the CSV files for the translation, not the files from the CN servers.
-
-This project is forked from [reusu/FFXIVChnTextPatch](https://github.com/reusu/FFXIVChnTextPatch).
-
-### How To Use
-
-0. Download the release pack or compile the source code by yourself.
-1. Launch the .exe.
-2. Clicking the 「設置」 on the top-right.
-3. Setup your game folder.
-4. 「檔案語言」：Choose CSV to use the CSV files in `resource/rawexd`. Other (Ja, En, De, Fr, Zh-cn) to use the `.dat0` and `.index` files in `resource/text`.
-5. 「原始語言」：The language to be covered. There are Japanese, English, German, French, and simplified Chinese. Only Japanese is fully tested.
-6. 「目標語言」：Only for not CSV mode. Choose simpliifed or traditional Chinese as the target langauge.
-7. Click 「確定」 on the bottom-left.
-8. Click 「漢化」 on the left.
-
-### How to Compile
-
-[The notes of compile process can be found here.](https://hackmd.io/@GpointChen/SJi_gv-ad) (written in zh-TW)

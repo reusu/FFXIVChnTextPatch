@@ -53,7 +53,7 @@ int32,str,str
 48,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_000","這裡還有一份雜役，也順便交給你去做吧。<hex:02100103>希望你去打倒棲息在這附近的<hex:02280FFF09>BNpcName<hex:F2086C0103>，<hex:02100103>從它們身上得到<hex:022811FF0A>EventItem<hex:F61E87580103>。"
 49,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_001","……打倒4隻應該就夠了。<hex:02100103>你幫助我們神殿騎士分憂，也就是為聖戰出力。<hex:02100103>你可以為此感到光榮，不過也要盡快完成工作啊。"
 50,"TEXT_GAIUSB909_00932_DUMMY_000_010","打倒4隻駿鷹，獲得<hex:022811FF0A>EventItem<hex:F61E87580103>"
-51,"TEXT_GAIUSB909_00932_DUMMYTODO_000_010","（★未使用／削除予定★）"
+51,"TEXT_GAIUSB909_00932_DUMMYTODO_000_010","無"
 52,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_020","你拿到<hex:022811FF0A>EventItem<hex:F61E87580103>了嗎？<hex:02100103>希望你能準備4份。"
 53,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_030","嗯，這些<hex:022811FF0A>EventItem<hex:F61E87580103>質量很不錯，辛苦了。<hex:02100103>這可以做成軟膏，用來治療陸行鳥的凍傷。"
 54,"TEXT_GAIUSB909_00932_CHAUNOLLET_000_031","身為騎士，照顧好陸行鳥也是很重要的工作。<hex:02100103>呵……萬一要和龍族開戰時，<hex:02100103>陸行鳥卻沒法奔跑那可就糟了。"
