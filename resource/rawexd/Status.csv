@@ -760,7 +760,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 755,"採集優質獲得率提升(限定)","下一次採集時獲得優質道具的機率增加<hex:02100103>不過對玩家無法獲取的優質道具及無優質的道具沒有影響",16008,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 756,"採集獲得數提升(限定)","下一次採集的道具獲得量提高",16009,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 757,"集中檢查","收藏價值的上升量提高",16017,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
-758,"極度警戒","甄別道具時的負載增長率降低",11010,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
+758,"極度警戒","甄別道具時的負荷增長率降低",11010,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 759,"","",0,0,1,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 760,"聚精會神","甄別道具時不減少採集次數",11011,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 761,"釣組","可以釣上原本的釣餌與擬餌釣不上的魚或道具",11102,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
@@ -1861,7 +1861,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1856,"盾陣","受到攻擊時必定發動格擋",12510,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
 1857,"原初的勇猛","自身的物理攻擊命中時會吸收體力",12558,0,22,1,16,110,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,True,0,False,False,0,0,False
 1858,"原初的武猛","附加此效果的戰士受到原初的勇猛的吸收體力的效果時，會獲得相當於其50％的恢復效果。<hex:02100103>另外受到攻擊的傷害減少",12559,0,22,1,16,0,False,False,False,False,False,False,False,False,False,100,False,False,True,-10,0,True,0,False,False,0,0,False
-1859,"命脈負載","消除氣息的秘技給命脈帶來了負載，不解除會陷入無法戰鬥狀態",15116,0,1,2,9,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
+1859,"命脈負荷","消除氣息的秘技給命脈帶來了負荷，不解除會陷入無法戰鬥狀態",15116,0,1,2,9,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1860,"生命活動停滯","命脈斷絕對生命活動造成了巨大的負面影響，移動速度大幅降低",15117,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,False,False,False,0,1,False,0,False,False,0,0,False
 1861,"連擊效果提高","下次發動連擊的威力提高",12533,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1862,"無我","身形和雙掌打的效果時間停止流逝",12534,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
@@ -1908,8 +1908,8 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1903,"幻影","影子形成的幻象",15980,0,1,1,16,69,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1904,"光之解放","釋放自身積累的光之力，與暗之力形成抗衡。攻擊傷害和體力恢復量增加",15987,0,1,1,16,117,False,False,False,False,False,False,False,True,True,200,False,False,False,20,0,True,0,False,False,0,0,False
 1905,"身著魔裝","將羽蛇作為魔裝穿著，戰鬥能力得到大幅強化",15992,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,False,False,False,0,0,True,0,False,False,0,0,False
-1906,"完美隱形","絞鎖自身命脈，完全切斷氣息。對自身附加「命脈負載」狀態",15112,0,1,1,16,116,False,False,False,False,False,False,False,True,False,0,False,False,False,0,19,True,0,False,True,0,24,False
-1907,"身體高負載","身體陷入高負載狀態，暫時無法做出任何行動",15114,0,1,2,17,0,True,False,True,False,False,False,False,False,False,100,False,False,False,0,4,False,0,False,False,0,0,False
+1906,"完美隱形","絞鎖自身命脈，完全切斷氣息。對自身附加「命脈負荷」狀態",15112,0,1,1,16,116,False,False,False,False,False,False,False,True,False,0,False,False,False,0,19,True,0,False,True,0,24,False
+1907,"身體高負荷","身體陷入高負荷狀態，暫時無法做出任何行動",15114,0,1,2,17,0,True,False,True,False,False,False,False,False,False,100,False,False,False,0,4,False,0,False,False,0,0,False
 1908,"拘束","無法做出任何行動",15534,0,1,2,3,0,True,False,True,True,False,False,False,False,True,100,False,False,False,0,0,False,0,False,False,2,0,False
 1909,"擴大技能效果範圍","發動的技能效果範圍比以往要大",17981,16,1,1,16,0,False,False,False,False,False,False,False,False,False,50,False,False,False,0,0,False,0,False,False,0,33,False
 1910,"巨龍右眼","攻擊所造成的傷害提高",12581,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,False,False,False,10,0,True,0,False,False,0,0,False
@@ -1958,7 +1958,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1953,"擊倒","被擊倒在地，無法移動或發動技能",15044,0,1,2,0,0,True,False,True,False,False,False,False,True,True,100,False,True,False,0,4,False,0,False,False,0,0,False
 1954,"分身之術","自身一發動戰技就會立刻進行分身攻擊",19681,5,92,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,27,False,0,False,False,0,0,False
 1955,"斷絕預備","可以發動斷絕",12913,0,92,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-1956,"絕脈隱形","暫時絞鎖自身命脈，完全切斷氣息。對自身附加「命脈負載」和「生命活動停滯」狀態",15113,0,1,1,16,122,False,False,False,False,False,False,False,True,False,0,False,False,False,0,19,True,0,False,True,0,24,False
+1956,"絕脈隱形","暫時絞鎖自身命脈，完全切斷氣息。對自身附加「命脈負荷」和「生命活動停滯」狀態",15113,0,1,1,16,122,False,False,False,False,False,False,False,True,False,0,False,False,False,0,19,True,0,False,True,0,24,False
 1957,"","",0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,False,True,False,0,18,False,0,False,False,0,0,False
 1958,"移動命令：前","被下達了移動命令，效果結束時會向前方移動",15774,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1959,"移動命令：後","被下達了移動命令，效果結束時會向後方移動",15775,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False

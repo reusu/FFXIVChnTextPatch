@@ -10679,7 +10679,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 10674,0,2,False,False,False,5,1,False,False,4,"「損傷率超過95%……<hex:02100103>無法繼續戰鬥……緊急撤離……」"
 10675,0,2,False,False,False,5,1,False,False,4,"嗯……果然還有改善的餘地啊。"
 10676,0,2,False,False,False,5,1,False,False,4,"叛軍們，感謝你們為實驗做出的貢獻！<hex:02100103>我們下次再見！"
-10677,0,2,False,False,False,5,1,False,False,4,"不行啊……這種程度的對手根本無法測試極限！<hex:02100103>負載測試中止，回去了！"
+10677,0,2,False,False,False,5,1,False,False,4,"不行啊……這種程度的對手根本無法測試極限！<hex:02100103>負荷測試中止，回去了！"
 10678,0,2,False,False,False,5,1,False,False,4,"「嗶嗶嗶……戰術晶片讀取完成！<hex:02100103>好了，到了殺戮的時間了！」"
 10679,0,2,False,False,False,5,1,False,False,4,"即將開始最終測試。<hex:02100103>成為我的研究數據吧，叛軍們！"
 10680,0,2,False,False,False,5,1,False,False,4,"「嗶嗶嗶……追加兵裝……正在連接！」"
