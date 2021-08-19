@@ -3,8 +3,8 @@
 offset,0,4
 int32,str,str
 0,"TEXT_BANNAM506_03120_SEQ_00","<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>※本任務需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>朵洛衣樓的光風院霽月正在為供品的管理髮愁。"
-1,"TEXT_BANNAM506_03120_SEQ_01","和懦夫弔橋的負責供應供品的鯰魚精交談"
-2,"TEXT_BANNAM506_03120_SEQ_02","和懦夫弔橋的負責供應供品的鯰魚精進行了交談<hex:02100103>將委託物品交給光風院霽月"
+1,"TEXT_BANNAM506_03120_SEQ_01","和懦夫吊橋的負責供應供品的鯰魚精交談"
+2,"TEXT_BANNAM506_03120_SEQ_02","和懦夫吊橋的負責供應供品的鯰魚精進行了交談<hex:02100103>將委託物品交給光風院霽月"
 3,"TEXT_BANNAM506_03120_SEQ_03",""
 4,"TEXT_BANNAM506_03120_SEQ_04",""
 5,"TEXT_BANNAM506_03120_SEQ_05",""
@@ -26,7 +26,7 @@ int32,str,str
 21,"TEXT_BANNAM506_03120_SEQ_21",""
 22,"TEXT_BANNAM506_03120_SEQ_22",""
 23,"TEXT_BANNAM506_03120_SEQ_23",""
-24,"TEXT_BANNAM506_03120_TODO_00","和懦夫弔橋的負責供應供品的鯰魚精對話"
+24,"TEXT_BANNAM506_03120_TODO_00","和懦夫吊橋的負責供應供品的鯰魚精對話"
 25,"TEXT_BANNAM506_03120_TODO_01","<hex:0208F204BCE4E8050AFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF20451><hex:0208F2044BE4E8050BFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF203E0><hex:0208F203DAE4E8050CFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF2036F><hex:0208F20369E4E80509FF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF202FE><hex:0208F202F8E4E8050DFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF2028D><hex:0208F20287E4E8050EFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF2021C><hex:0208F20216E4E8050FFF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF201AB><hex:0208F201A5E4E80510FF62><hex:02085EE3E802E803FF30>製作筆記 蠻族任務：製作<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFF2013A><hex:0208F20134E4E80511FF64><hex:020860E3E802E803FF32>在模兒衣樓東邊的石場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FFCA><hex:0208C6E4E80512FF64><hex:020860E3E802E803FF32>在模兒衣樓東邊的草場採集<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FF5B><hex:020857E4E80513FF4F><hex:02084BE3E802E803FF1D>在太陽湖釣<hex:02280AFF05>Item<hex:E8060103><hex:FF26>將<hex:02280AFF05>Item<hex:E8060103>交給光風院霽月<hex:03><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>"
 26,"TEXT_BANNAM506_03120_TODO_02",""
 27,"TEXT_BANNAM506_03120_TODO_03",""
@@ -51,7 +51,7 @@ int32,str,str
 46,"TEXT_BANNAM506_03120_TODO_22",""
 47,"TEXT_BANNAM506_03120_TODO_23",""
 48,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_000","<hex:022903EB0203>，我想拜託你辦點事情可以嗎？<hex:02100103>用來供奉的供品不夠了，我想請你幫忙弄些回來。<hex:02100103>只不過需要的不是普通的供品……"
-49,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_001","至於具體要做什麼，請你去詢問負責供應供品的鯰魚精吧。<hex:02100103>他應該在懦夫弔橋附近幹活呢。<hex:02100103>還有這件事請務必秘密行動……拜託你了。"
+49,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_001","至於具體要做什麼，請你去詢問負責供應供品的鯰魚精吧。<hex:02100103>他應該在懦夫吊橋附近幹活呢。<hex:02100103>還有這件事請務必秘密行動……拜託你了。"
 50,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_010","你是來幫忙籌集供品的嗎噗？非常感謝噗！<hex:02100103>光風院霽月那傢伙提的要求害得我完全忙不過來正發愁呢噗，<hex:02100103>他說供品必須用只能在這裡收集到的貴重素材製作。"
 51,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_011","我想請工匠你製作<hex:02280DFF07>ItemHQ<hex:F258D30103>的優質金屬材質的魚噗！<hex:02100103>素材就放在旁邊的貨箱裡，你就隨意拿取吧噗。"
 52,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_012","我想請工匠你製作<hex:02280DFF07>ItemHQ<hex:F258D30103>的優質精巧的假花噗！<hex:02100103>素材就放在旁邊的貨箱裡，你就隨意拿取吧噗。"
