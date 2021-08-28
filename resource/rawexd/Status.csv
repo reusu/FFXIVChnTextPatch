@@ -158,7 +158,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 153,"石膚（魔法攻擊）","將皮膚硬質化，可以抵消一定魔法傷害",15042,0,1,1,16,0,False,False,False,False,False,False,False,True,True,30,False,False,False,100,0,False,0,False,False,0,12,False
 154,"女神的加護","魔力持續恢復",10408,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,60,0,False,0,False,False,0,0,False
 155,"救療效果提高","下次詠唱救療時不會消耗魔力",10410,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-156,"愈療效果提高","下次詠唱愈療時消耗魔力減半",10411,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+156,"癒療效果提高","下次詠唱癒療時消耗魔力減半",10411,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 157,"神速詠唱","自動攻擊間隔時間縮短，魔法的詠唱時間和複唱時間縮短",12627,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-15,0,False,0,False,False,0,0,False
 158,"再生","體力會隨時間逐漸恢復",12626,0,25,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,True,10,0,False,0,False,False,0,0,False
 159,"神封印","發動治療魔法的治療量提高",10407,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,30,0,False,0,False,False,0,0,False
@@ -770,7 +770,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 765,"捉放","更容易釣上大尺寸的魚",11106,0,1,1,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 766,"人形態","身體呈人類的外形",15669,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
 767,"手形態","身體呈手掌的外形",15670,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
-768,"龍卷形態","身體呈龍卷風的外形",15671,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
+768,"龍捲形態","身體呈龍捲風的外形",15671,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
 769,"烈焰鏈","被烈焰鏈連接，體力逐漸減少",15666,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 770,"拘束","無法做出任何行動",15545,0,1,2,17,0,True,False,True,True,False,False,False,True,False,100,False,False,False,0,0,False,0,False,False,0,0,False
 771,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1688,7 +1688,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1683,"睡眠·陽","陽陷入沉睡",15930,0,1,1,16,75,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1684,"號令：強石化","收到號令，發動次級強石化",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1685,"號令：蓄勢衝撞","收到號令，發動次級蓄勢衝撞",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
-1686,"號令：龍卷","收到號令，發動次級龍卷",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
+1686,"號令：龍捲","收到號令，發動次級龍捲",15555,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1687,"體力持續恢復","體力會隨時間逐漸恢復",15532,0,1,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,True,10,0,False,0,False,False,0,0,False
 1688,"集中攻擊","對攻擊目標進行集中攻擊",15931,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,0,0,True,0,False,False,0,0,False
 1689,"攻擊目標","被認定為攻擊目標，不斷受到集中攻擊",15932,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,False,False,True,0,0,True,0,False,False,0,0,False
@@ -2246,7 +2246,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2241,"強制傳送：後","受到強制傳送魔法的影響，效果結束時，會在眩暈之後向後方傳送",15247,0,1,2,17,157,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
 2242,"強制傳送：左","受到強制傳送魔法的影響，效果結束時，會在眩暈之後向左方傳送",15248,0,1,2,17,158,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
 2243,"強制傳送：右","受到強制傳送魔法的影響，效果結束時，會在眩暈之後向右方傳送",15249,0,1,2,17,159,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
-2244,"龍卷形態","小型食罪靈群體組成的龍卷風的形態",15671,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
+2244,"龍捲形態","小型食罪靈群體組成的龍捲風的形態",15671,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,False,0,2,False,0,False,False,0,0,False
 2245,"雷神的詛咒","受到雷神的詛咒，每隔一段時間就會放電，對周圍造成雷屬性傷害<hex:02100103>效果時間結束時會陷入恐慌狀態",15252,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 2246,"減速","自動攻擊間隔延長，同時戰技與魔法的詠唱及複唱時間也會延長",15009,0,1,2,13,0,False,False,False,False,False,False,False,False,False,50,False,False,False,15,0,False,0,False,False,0,0,False
 2247,"突進目標","成為突進的目標，效果結束時附加眩暈效果",15026,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
