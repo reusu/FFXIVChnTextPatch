@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSB204_00835_SEQ_00","太陽海岸的菲利爾森，有些想法想要實施。"
-1,"TEXT_GAIUSB204_00835_SEQ_01","地靈族將<hex:02280CFF05>EObj<hex:F61E8C850103>拿了出去，他們似乎在謀划著什麼。使用<hex:022811FF0A>EventItem<hex:F61E870B0103>爆破3個<hex:02280CFF05>EObj<hex:F61E8C850103>。"
+1,"TEXT_GAIUSB204_00835_SEQ_01","地靈族將<hex:02280CFF05>EObj<hex:F61E8C850103>拿了出去，他們似乎在謀劃著什麼。使用<hex:022811FF0A>EventItem<hex:F61E870B0103>爆破3個<hex:02280CFF05>EObj<hex:F61E8C850103>。"
 2,"TEXT_GAIUSB204_00835_SEQ_02","對全部<hex:02280CFF05>EObj<hex:F61E8C850103>進行了爆破。向太陽海岸的菲利爾森報告。"
 3,"TEXT_GAIUSB204_00835_SEQ_03","地靈族幹的壞事，性質越來越惡劣。菲利爾森似乎很信賴冒險者。"
 4,"TEXT_GAIUSB204_00835_SEQ_04",""

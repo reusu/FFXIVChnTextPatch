@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_CTSHNT50RISKYMOBRAKTIKA_00618_INGVAR_000","拉凱提卡大森林中有很多自古就棲息於此的魔物。<hex:02100103>身為一名衛士，我必須支起耳朵收集情報，<hex:02100103>不放過任何可能會威脅到蛇行枝的訊息。"
+0,"TEXT_CTSHNT50RISKYMOBRAKTIKA_00618_INGVAR_000","拉凱提卡大森林中有很多自古就棲息於此的魔物。<hex:02100103>身為一名衛士，我必須支起耳朵收集情報，<hex:02100103>不放過任何可能會威脅到蛇行枝的資訊。"
 1,"TEXT_CTSHNT50RISKYMOBRAKTIKA_00618_INGVAR_001","拉凱提卡大森林中有很多自古就棲息於此的魔物。<hex:02100103>身為守護集落的衛士，我一直在努力收集情報。<hex:02100103>你要幫忙狩獵這裡的怪物嗎？"
 2,"TEXT_CTSHNT50RISKYMOBRAKTIKA_00618_INGVAR_Q1_000_000","想了解什麼？"
 3,"TEXT_CTSHNT50RISKYMOBRAKTIKA_00618_INGVAR_A1_000_001","關於B級怪物：鮮紅的殺人果——啟靈果"

@@ -29,7 +29,7 @@ int32,str,str
 24,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_075","防禦塔是核心的防禦裝置，每個陣營各有兩座防禦塔。"
 25,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_076","防禦塔還設定著能減輕塔本身與附近的我方隊員所受傷害的「塔結界」。"
 26,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_077","戰況不利的情況下，就請退到我方防禦塔的周圍，<hex:02100103>減輕所受到的敵方傷害，重整態勢吧。"
-27,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_090","呼哧……呼哧……<hex:02100103>能成功 佔領 「動力發生器」 的話<hex:02100103>「青磷水」 就會不斷 積攢到 己方 陣營中！"
+27,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_090","呼哧……呼哧……<hex:02100103>能成功 佔領「動力發生器」 的話<hex:02100103>「青磷水」 就會不斷 積攢到 己方 陣營中！"
 28,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_095","動力發生器只在戰場的中央部分設定了一處。<hex:02100103>參戰者可以通過接觸，對其進行「佔領」。"
 29,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_096","通過佔領動力發生器，可以使自身所屬陣營的所有成員，<hex:02100103>進入青磷水持續增加的狀態。"
 30,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_097","我方陣營各小隊的青磷水持續增加的話，<hex:02100103>機動兵器的運用也會更加便捷。<hex:02100103>請積極的佔領動力發生器吧。"

@@ -40,4 +40,4 @@ int32,str,str
 35,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_053","【仇恨】指敵人的敵意，仇恨越高越容易被攻擊，也稱為HATE。<hex:02100103>【強化效果】指能夠使能力變強的積極效果。<hex:02100103>【弱化效果】與強化效果相反，指會使能力變弱的消極效果。"
 36,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_054","【DoT】Damage Over Time的簡寫，指對目標造成持續傷害。<hex:02100103>【AE／AoE】Area (of) Effect的簡寫，指範圍攻擊。"
 37,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_055","除了舉例的這些，簡語還有很多，<hex:02100103>如果遇到不明白的，可以向指導者詢問。"
-38,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_TALK_ACTOR","（★未使用／削除予定★）"
+38,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_TALK_ACTOR","無"

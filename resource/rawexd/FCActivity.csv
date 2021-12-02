@@ -27,7 +27,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 22,"",4,0,0,0,-1
 23,"",4,0,0,0,-1
 24,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了部隊公告。",4,0,0,3,4
-25,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了部隊訊息。",4,0,0,3,4
+25,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了部隊資訊。",4,0,0,3,4
 26,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>更新了部隊隊徽。",4,0,0,3,8
 27,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>獲得了「<hex:022813FF0E>CompanyAction<hex:E8020103>」的特效。",4,0,1,4,9
 28,"<hex:020816E908FF10><hex:02280CFF07>ObjStr<hex:E9080103><hex:EB0303>使用了「<hex:022813FF0E>CompanyAction<hex:E8020103>」的特效。",4,0,1,4,9

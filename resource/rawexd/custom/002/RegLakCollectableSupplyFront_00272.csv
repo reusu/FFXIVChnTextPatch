@@ -32,4 +32,4 @@ int32,str,str
 27,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_031","如果職業為採礦工和園藝工，<hex:02100103>那麼在採集收藏品時會出現專用的介面。<hex:02100103>如果職業為捕魚人，那麼收藏價值從魚的大小來體現。"
 28,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_032","採礦工和園藝工想要提高收藏價值的話，<hex:02100103>可以先使用技能「集中檢查」，然後再使用「提純」。<hex:02100103>等習慣之後，可以嘗試其他的提純技能。"
 29,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_033","當收藏價值達到需要後，就採集收藏品吧。<hex:02100103>另外，採集地點的耐久變為0時，將無法繼續進行採集，<hex:02100103>還請多多注意。"
-30,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_034","另外，職業為採礦工和園藝工時，<hex:02100103>有的採集地點需要乘坐飛行坐騎才能到達。"
+30,"TEXT_REGLAKCOLLECTABLESUPPLYFRONT_00272_SYSTEM_000_034","另外，有的採集地點和釣場需要乘坐飛行坐騎才能到達。"

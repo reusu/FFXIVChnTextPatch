@@ -136,7 +136,7 @@ int32,str,str
 131,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_164","在部隊房屋內打開「房屋」選單，<hex:02100103>選擇「拆除部隊工房」即可拆除部隊工房。"
 132,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_156","公寓是在各冒險者住宅區為冒險者準備的個人居住設施。"
 133,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_157","冒險者居住區中名為中桅塔、百合嶺、娜娜莫大風車、<hex:02100103>紅梅御殿的幾處建築即為公寓。"
-134,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_158","可以向各公寓內的公寓管理人詢問購買公寓房間等詳細訊息。"
+134,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_158","可以向各公寓內的公寓管理人詢問購買公寓房間等詳細資訊。"
 135,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_210","在擁有土地的情況下，<hex:02100103>可以利用搬遷將自己的家搬到別的土地上。"
 136,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_211","「搬遷」是將房屋與土地整個轉移到其他土地上的機能。<hex:02100103>就算是住宅區或土地面積不同，也能夠進行轉移。"
 137,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_212","若想執行搬遷操作，個人房屋需要是房屋主人，<hex:02100103>部隊房屋則需要擁有「購買或廢棄土地」許可權的成員。"

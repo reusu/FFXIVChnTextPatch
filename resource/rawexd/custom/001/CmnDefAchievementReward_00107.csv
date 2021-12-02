@@ -12,7 +12,7 @@ int32,str,str
 7,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_011","如今，我不再記錄輝煌的王宮中所發生的事情，<hex:02100103>而是傾聽和記錄冒險者的故事，並樂在其中。"
 8,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_012","如果你達成可以被稱作「偉業」的豐功偉績，<hex:02100103>那就過來講給我聽一聽。<hex:02100103>當然，我會給予你相應的謝禮。"
 9,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_013","解開了特定的成就後，<hex:02100103>和喬納森對話就可以領取相應的報酬。"
-10,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_010_031","另外，達成成就後可以獲得「成就點」，<hex:02100103>當成就點積累到一定程度後，<hex:02100103>可以領取用來交換報酬的「成就幣」。"
+10,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_010_031","達成成就後可以獲得「成就點」，<hex:02100103>當成就點積累到一定程度後，<hex:02100103>可以領取用來交換報酬的「成就幣」。"
 11,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_030","你這一路走來，已經達成了多項偉業。<hex:02100103>我現將代表你長久積累的成就幣交託於你，<hex:02100103>你可以用它交換自己中意的報酬。"
 12,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_031","因成就點積累到了一定程度而獲得了「成就幣」。"
 13,"TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_032","成就幣可以用來向喬納森交換特別的報酬。"

@@ -2,7 +2,7 @@
 #,Name,FCAuthorityCategory,
 offset,0,4,8
 int32,str,FCAuthorityCategory,byte
-0,"更新部隊訊息",1,1
+0,"更新部隊資訊",1,1
 1,"",0,0
 2,"階級設定",1,2
 3,"編輯隊徽",1,3

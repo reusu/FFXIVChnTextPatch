@@ -11,12 +11,12 @@ int32,Quest,str,str,str,bit&01,DescriptionSection
 3604486,0,"紛爭前線","FRONTLINE","フロントライン解説",True,7
 3604487,0,"出海垂釣","OCEAN FISHING","オーシャンフィッシング解説",True,8
 3604488,0,"幻巧拼圖","FAUX HOLLOWS","ソーチョーの幻想盤解説",True,9
-3604489,0,"南方博茲雅戰線","THE BOZJAN SOUTHERN FRONT","南方戰線說明",True,10
-3604490,0,"義軍等級","RESISTANCE RANK","義軍等級說明",True,11
-3604491,0,"失傳技能","LOST ACTION","失落技能說明",True,13
-3604492,0,"博茲雅晶簇","BOZJA CLUSTER","博茲雅晶簇說明",True,12
+3604489,0,"南方博茲雅戰線","THE BOZJAN SOUTHERN FRONT","南方ボズヤ戦線解説",True,10
+3604490,0,"義軍等級","RESISTANCE RANK","レジスタンスランク解説",True,11
+3604491,0,"失傳技能","LOST ACTION","ロストアクション解説",True,13
+3604492,0,"博茲雅晶簇","BOZJA CLUSTER","ボズヤクラスター解説",True,12
 3604493,0,"九宮幻卡錦標賽解說","CARD TOURNAMENT","トリプルトライアドトーナメント解説",True,14
 3604494,0,"","","",True,15
 3604495,0,"","","",True,16
 3604496,0,"義軍勳章","RESISTANCE HONORS","レジスタンス勲章解説",True,17
-3604497,0,"札圖諾爾高原戰線","ZADNOR","ザトゥノル高原解説",True,18
+3604497,0,"扎杜諾爾高原戰線","ZADNOR","ザトゥノル高原解説",True,18

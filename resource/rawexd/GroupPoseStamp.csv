@@ -538,7 +538,7 @@ int32,Image,int32,GroupPoseStampCategory,uint16,int32,bit&01,bit&02,bit&04,str
 533,76203,1,21,4,120,True,False,False,"<hex:0212027103>FanFest：垂れ幕（白）"
 534,76204,1,21,5,120,True,False,False,"<hex:0212027103>FanFest：垂れ幕（黒）"
 535,76205,1,21,6,120,True,False,False,"<hex:0212027103>FanFest：バナー（縦）"
-536,76206,1,21,7,120,True,False,False,"<hex:0212027103>FanFest：バナー（橫）"
+536,76206,1,21,7,120,True,False,False,"<hex:0212027103>FanFest：バナー（横）"
 537,76208,2,22,1,120,True,False,False,"<hex:0212027103>FanFest：FAN FESTIVAL 2021"
 538,76207,2,22,2,120,True,False,False,"<hex:0212027103>FanFest：ハッシュタグ"
 539,0,0,0,0,0,False,False,False,""

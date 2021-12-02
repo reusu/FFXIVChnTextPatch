@@ -5,7 +5,7 @@ int32,str,str
 0,"TEXT_HEAVNZ635_01903_SEQ_00","雲頂營地的法布雷耶好像在思考著什麼。"
 1,"TEXT_HEAVNZ635_01903_SEQ_01","法布雷耶委託冒險者前去取回<hex:022811FF0A>EventItem<hex:F61E8AFA0103>。前往阿巴拉提亞雲海的牧牛台，調查<hex:02280CFF05>EObj<hex:F61E9B130103>獲取<hex:022811FF0A>EventItem<hex:F61E8AFA0103>。"
 2,"TEXT_HEAVNZ635_01903_SEQ_02","獲取了<hex:022811FF0A>EventItem<hex:F61E8AFA0103>。將<hex:022811FF0A>EventItem<hex:F61E8AFA0103>交給雲頂營地的法布雷耶。"
-3,"TEXT_HEAVNZ635_01903_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8AFA0103>交給了法布雷耶。他說自己不准備吃掉這顆蛋，而是要培育它孵化，生出更多的蛋。"
+3,"TEXT_HEAVNZ635_01903_SEQ_03","將<hex:022811FF0A>EventItem<hex:F61E8AFA0103>交給了法布雷耶。他說自己不準備吃掉這顆蛋，而是要培育它孵化，生出更多的蛋。"
 4,"TEXT_HEAVNZ635_01903_SEQ_04",""
 5,"TEXT_HEAVNZ635_01903_SEQ_05",""
 6,"TEXT_HEAVNZ635_01903_SEQ_06",""
