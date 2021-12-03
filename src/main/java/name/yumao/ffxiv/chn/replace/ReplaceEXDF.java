@@ -290,11 +290,12 @@ public class ReplaceEXDF {
 										// an offset (exdfDatasetSE.offset)
 										// System.out.println("\t\toffset: " + String.valueOf(exdfDatasetSE.offset));
 										Integer offsetInteger = offsetMap.get(Integer.valueOf(exdfDatasetSE.offset));
-										// System.out.println("\t\t\toffset integer: " + String.valueOf(offsetInteger));
-										// System.out.println("\t\t\t\tlist entry index: " + String.valueOf(listEntryIndex));
+										System.out.println("\t\t\toffset integer: " + String.valueOf(offsetInteger));
+										System.out.println("\t\t\t\tlist entry index: " + String.valueOf(listEntryIndex));
 										String[] rowStrings = csvDataMap.get(listEntryIndex);
 										if (rowStrings != null) {
 											String readString = rowStrings[offsetInteger];
+											System.out.println("\t\t\t\t\t" + readString);
 											String newString = new String();
 											boolean isHexString = false;
 											if (readString != null) {
@@ -338,6 +339,8 @@ public class ReplaceEXDF {
 												// System.out.println("\t\tCannot find listEntryIndex " + String.valueOf(listEntryIndex));
 												newFFXIVString = ArrayUtil.append(newFFXIVString,  jaBytes);
 											}
+										} else {
+											newFFXIVString = ArrayUtil.append(newFFXIVString,  jaBytes);
 										}
 										
 									} else if (Config.getConfigResource("transtable") != null && Config.getProperty("transtable", transKey) != null && Config.getProperty("transtable", transKey).length() > 0) {
