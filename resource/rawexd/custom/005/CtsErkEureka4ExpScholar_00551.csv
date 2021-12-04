@@ -62,7 +62,7 @@ int32,str,str
 57,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_221","兵武塔是只有通過特殊的方法才能突入的開放性迷宮。<hex:02100103>最多可以56人同時進行攻略。"
 58,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_222","等待玩家的將是強大的敵人以及強力的陷阱，<hex:02100103>因此請與其他玩家組隊，<hex:02100103>互相協助進行攻略！"
 59,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_230","兵武塔被封印障壁所封鎖！<hex:02100103>除了利用特定的天氣時發生的地脈紊亂直接從外部傳送外，<hex:02100103>沒有其他辦法進入！"
-60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","進入巴爾德西昂兵武塔<hex:02100103>需要利用出現在「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」的乙太之節。"
+60,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_231","進入巴爾德西昂兵武塔<hex:02100103>需要利用出現在「<hex:02281CFF17>ContentFinderCondition<hex:E8022703>」的乙太之節。"
 61,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_232","另外，突入兵武塔之前，<hex:02100103>需要將元素等級提升到60級，<hex:02100103>並且必須處於某種特定的狀態效果中。"
 62,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_INV00463_000_240","關於利用地脈的紊亂進行傳送的方法，<hex:02100103>請參考艾吉卡·岑吉卡整理的資料！"
 63,"TEXT_CTSERKEUREKA4EXPSCHOLAR_00551_SYSTEM_000_241","乙太之節存在有2種狀態。<hex:02100103>發出藍色光芒的是不穩定狀態，<hex:02100103>發出紅色光芒的是穩定狀態。"

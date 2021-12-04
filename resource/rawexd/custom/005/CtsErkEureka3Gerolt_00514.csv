@@ -88,7 +88,7 @@ int32,str,str
 83,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_317","當然我也去問過原因，然後可露兒小姐給我講了<hex:02100103>一堆專用術語和公式，說核心是最前沿的乙太學。<hex:02100103>我最終也只能大致理解為原因是相同環境下的乙太最合適。"
 84,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_318","就算我是天才，但是對於乙太學我可真是不懂。<hex:02100103>……對了，說起來可露兒小姐好像說過她也不是專攻乙太學的，<hex:02100103>但就算這樣她也能熟知最前沿學科的知識，真不愧是研究者啊。"
 85,"TEXT_CTSERKEUREKA3GEROLT_00514_GEROLT_000_319","……哎呀，話題扯遠了。<hex:02100103>先不管理論怎麼樣，總之你現在有辦法制作觸媒了。<hex:02100103>要想為武器賦予能力，那你就在湧火地帶好好努力吧。"
-86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","在「<hex:02281CFF17>ContentFinderCondition<hex:E8022603>」任務內討伐敵人後，<hex:02100103>優雷卡乙太壺將自動積蓄混合乙太。"
+86,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_320","在「<hex:02281CFF17>ContentFinderCondition<hex:E8022703>」任務內討伐敵人後，<hex:02100103>優雷卡乙太壺將自動積蓄混合乙太。"
 87,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_321","通過湧火地帶的<hex:02280CFF05>EObj<hex:F61EAA2E0103>，<hex:02100103>使用積蓄的混合乙太，可以獲得<hex:02280BFF05>Item<hex:F25E3A0103>。"
 88,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_322","為「禁地兵裝·湧火」賦予副屬性時，<hex:02100103>會消耗一定數量的<hex:02280BFF05>Item<hex:F25E3A0103>。"
 89,"TEXT_CTSERKEUREKA3GEROLT_00514_SYSTEM_000_323","另外，可以通過<hex:02280CFF05>EObj<hex:F61EAA2F0103><hex:02100103>選擇「賦予副屬性」對武器進行副屬性的賦予。"

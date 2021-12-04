@@ -290,12 +290,12 @@ public class ReplaceEXDF {
 										// an offset (exdfDatasetSE.offset)
 										// System.out.println("\t\toffset: " + String.valueOf(exdfDatasetSE.offset));
 										Integer offsetInteger = offsetMap.get(Integer.valueOf(exdfDatasetSE.offset));
-										System.out.println("\t\t\toffset integer: " + String.valueOf(offsetInteger));
-										System.out.println("\t\t\t\tlist entry index: " + String.valueOf(listEntryIndex));
+										// System.out.println("\t\t\toffset integer: " + String.valueOf(offsetInteger));
+										// System.out.println("\t\t\t\tlist entry index: " + String.valueOf(listEntryIndex));
 										String[] rowStrings = csvDataMap.get(listEntryIndex);
 										if (rowStrings != null) {
 											String readString = rowStrings[offsetInteger];
-											System.out.println("\t\t\t\t\t" + readString);
+											// System.out.println("\t\t\t\t\t" + readString);
 											String newString = new String();
 											boolean isHexString = false;
 											if (readString != null) {

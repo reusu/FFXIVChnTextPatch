@@ -357,7 +357,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 352,"神槍昆古尼爾的魔力","受到神槍昆古尼爾的影響，體力逐漸流失",15530,0,1,2,17,0,False,False,False,False,False,False,False,False,True,10,False,False,False,100,0,False,0,False,False,0,0,False
 353,"部隊特效：鼓勵新人","新人戰鬥職業的所有狀態參數提高",16501,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,30,0,True,0,True,False,0,0,False
 354,"部隊特效：獲得力提高","大地使者的獲得力提高",16502,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,5,0,True,0,True,False,0,0,False
-355,"部隊特效：鑑別力提高","大地使者的鑑別力提高",16503,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,5,0,True,0,True,False,0,0,False
+355,"部隊特效：技術力提高","大地使者的技術力提高",16503,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,5,0,True,0,True,False,0,0,False
 356,"部隊特效：作業精度提高","能工巧匠的作業精度提高",16504,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,5,0,True,0,True,False,0,0,False
 357,"部隊特效：加工精度提高","能工巧匠的加工精度提高",16505,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,5,0,True,0,True,False,0,0,False
 358,"雪人","被雪球打中之後滿身積雪，能夠對妖炎狀態下的目標造成傷害",15510,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -365,13 +365,13 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 360,"部隊特效：食物效果時間延長","食物的效果時間延長",16508,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,15,0,True,0,True,False,0,0,False
 361,"部隊特效：精鍊度增加量提高","精鍊度增長得更快",16509,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,3,0,True,0,True,False,0,0,False
 362,"部隊特效：裝備損耗降低","裝備品耐久度損耗降低",16510,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,30,0,True,0,True,False,0,0,False
-363,"部隊特效：衰弱時間縮短","衰弱狀態的效果時間縮短",16511,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,30,0,True,0,True,False,0,0,False
+363,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 364,"部隊特效：傳送優惠","傳送所需要花費的金幣減少",16512,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,30,15,True,0,True,False,0,0,False
 365,"部隊特效：討伐經驗值提高","打倒敵人時獲得的經驗增加",16513,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,15,0,True,0,True,False,0,0,False
 366,"部隊特效：搭檔經驗值提高","搭檔獲得的經驗增加",16514,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,15,0,True,0,True,False,0,0,False
 367,"部隊特效：採集經驗值提高","採集時獲得的經驗增加",16515,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,20,0,True,0,True,False,0,0,False
 368,"部隊特效：製作經驗值提高","製作時獲得的經驗增加",16516,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,20,0,True,0,True,False,0,0,False
-369,"吸附式炸彈","身上帶有吸附式乙太炸彈，積攢到5檔之後會陷入無法戰鬥狀態",17281,5,1,2,17,0,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
+369,"吸附式炸彈","身上帶有吸附式乙太炸彈，積攢到5檔之後會受到巨大傷害",17281,5,1,2,17,0,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
 370,"塞壬的歌聲","聽到塞壬的歌聲之後會逐漸轉化成殭屍，在效果結束之前如果體力沒有恢復到最大值便會變成殭屍",15558,0,1,2,17,0,False,False,False,False,False,False,False,False,False,100,False,False,False,60,0,False,0,False,False,0,0,False
 371,"殭屍","變成了殭屍，會向同伴發動攻擊",15559,0,1,2,17,0,False,False,False,True,False,True,False,False,False,100,False,False,False,0,0,False,0,False,False,0,0,False
 372,"親鳥之怒","母鳥看到蛋被破壞之後異常憤怒，攻擊造成的傷害均會有所增加",17221,16,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,5,0,False,0,False,False,0,0,False
@@ -852,7 +852,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 847,"命運之輪","產生能夠令範圍內隊員恢復體力的區域",13227,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,4,True,0,False,False,0,27,False
 848,"命運之輪","產生減輕傷害的防護區域",13227,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
 849,"命運之輪","減輕所受到的傷害",13226,0,99,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,-10,0,False,0,False,False,0,0,False
-850,"採集優質獲得率提升","釣魚時釣上優質魚的機率增加",16004,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
+850,"大型尺寸釣率提升","釣魚時釣上大型尺寸魚的機率增加",16004,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 851,"整備","下次發動的戰技必定打出暴擊和直擊",13001,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,1,0,False,0,False,False,0,0,False
 852,"升變","切換了浮空炮塔的作戰模式",13002,0,1,1,16,0,False,False,False,False,False,False,False,True,True,1,False,False,False,0,0,True,0,False,False,0,0,False
 853,"速射","戰技的複唱時間縮短",13003,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1197,7 +1197,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1192,"漸愈","自身所受的治療魔法效果提高",13912,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,20,0,False,0,False,False,0,0,False
 1193,"雪仇","攻擊所造成的傷害降低",13901,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-10,0,False,0,False,False,0,0,False
 1194,"預判","招架發動率提高",13902,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,20,0,False,0,False,False,0,0,False
-1195,"牽制","力量與靈巧有所降低",13904,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-20,0,False,0,False,False,0,0,False
+1195,"牽制","造成的物理傷害和魔法傷害有所降低",13904,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-20,0,False,0,False,False,0,0,False
 1196,"護欄","受到物理攻擊的傷害減少",13905,0,115,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,-10,0,False,0,False,False,0,0,False
 1197,"策動","技力持續恢復",13906,0,115,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
 1198,"醒神","魔力持續恢復",13907,0,115,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
@@ -1205,7 +1205,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1200,"烈毒咬箭","身中劇毒，體力會逐漸減少",12616,0,1,2,1,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 1201,"狂風蝕箭","風屬性持續傷害，體力逐漸流失",12617,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 1202,"大地神的抒情戀歌","自身所受的治療效果提高",12618,0,24,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
-1203,"昏亂","智力與精神有所降低",13917,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-20,0,False,0,False,False,0,0,False
+1203,"昏亂","造成的物理傷害和魔法傷害有所降低",13917,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,False,False,False,-20,0,False,0,False,False,0,0,False
 1204,"醒夢","魔力持續恢復",13909,0,120,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,60,0,False,0,False,False,0,0,False
 1205,"火焰噴射器","對前方扇形範圍內的敵人持續造成傷害",13017,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,27,False
 1206,"命運之輪","減輕所受到的傷害",13226,0,99,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,False,0,False,False,0,0,False
@@ -1240,7 +1240,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1235,"赤飛石預備","可以發動赤飛石",13403,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1236,"燕飛效果提高","下次發動燕飛的威力提高",13310,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1237,"散碎效果提高","發動散碎時可以獲得更多白魔元和黑魔元",13404,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-1238,"促進","發動附加赤火炎預備或赤飛石預備的魔法時必定發動追加效果",19661,3,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,27,False,0,False,False,0,0,False
+1238,"促進","",19661,3,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,27,False,0,False,False,0,0,False
 1239,"鼓勵","魔法攻擊所造成的傷害提高",18921,5,112,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,4,0,False,0,False,False,0,0,False
 1240,"必殺劍·地天","令自身所受到的傷害減少，同時給予對方反擊傷害",14820,0,111,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-20,0,True,0,False,False,0,0,False
 1241,"單打獨鬥","攻擊目標時造成的傷害提高，同時受到該目標的傷害減少",14821,0,1,1,16,0,False,False,False,False,False,False,False,True,True,50,False,False,False,0,0,True,0,False,False,0,0,False
@@ -1287,7 +1287,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1282,"計都強化","左臂計都得到了強化",18821,3,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1283,"混亂","頭腦變得混亂，會向同伴發動攻擊",15603,0,1,2,17,0,False,False,False,True,False,True,False,False,False,100,False,False,False,1051,0,False,0,False,False,0,0,False
 1284,"無法發動技能","無法發出任何技能",15045,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,False,False,False,0,19,False,0,False,False,0,24,False
-1285,"採集優質獲得率提升II","獲得優質道具的機率根據鑑別力得到增加<hex:02100103>不過對玩家無法獲取的優質道具及無優質的道具沒有影響",16011,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
+1285,"採集優質獲得率提升II","獲得優質道具的機率根據技術力得到增加<hex:02100103>不過對玩家無法獲取的優質道具及無優質的道具沒有影響",16011,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 1286,"採集獲得數提升II(限定)","下一次採集的道具獲得數根據獲得力得到增加",16012,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 1287,"抓捕","被抓住，無法行動，體力逐漸減少",15564,0,1,2,17,0,True,False,True,False,False,False,False,True,True,0,False,False,False,500,0,False,0,False,False,0,0,False
 1288,"危命經驗值提高","完成危命任務獲得的經驗值增加",16225,0,1,1,25,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1300,8 +1300,8 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1295,"移動命令：左","被下達了移動命令，效果結束時會向左方移動",15776,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1296,"移動命令：右","被下達了移動命令，效果結束時會向右方移動",15777,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1297,"鼓勵","物理攻擊所造成的傷害提高",18941,5,112,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,2,0,False,0,False,False,0,0,False
-1298,"陣風","攻擊所造成的傷害提高",13301,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,15,0,False,0,False,False,0,0,False
-1299,"士風","自動攻擊間隔、戰技與魔法的詠唱及複唱時間縮短",13302,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-15,0,False,0,False,False,0,0,False
+1298,"風月","攻擊所造成的傷害提高",13301,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,15,0,False,0,False,False,0,0,False
+1299,"風花","自動攻擊間隔、戰技與魔法的詠唱及複唱時間縮短",13302,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-15,0,False,0,False,False,0,0,False
 1300,"保護","正在保護特定的隊員，效果中受到的傷害增加",12501,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 1301,"被保護","正處於特定隊員的保護下",12502,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,35,False
 1302,"神聖領域","除特定攻擊之外其他所有攻擊均無效化",12504,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,12,False
@@ -1370,7 +1370,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1365,"雷雲","可以詠唱暴雷或霹雷",10461,0,26,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 1366,"浮空","無視重力，浮在空中的狀態",15037,0,1,1,16,33,False,False,False,False,False,False,False,True,True,1,False,False,False,0,12,True,0,False,False,0,0,False
 1367,"衝擊預備","可以發動衝擊",13401,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
-1368,"安魂祈禱","魔法攻擊所造成的傷害及發動治療魔法的治療量提高<hex:02100103>習得安魂祈禱效果提高後追加效果：詠唱魔法沒有任何詠唱時間",12514,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,20,0,False,0,False,False,0,0,False
+1368,"安魂祈禱","詠唱魔法沒有任何詠唱時間，聖靈和聖環的效果上升。",12514,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,20,0,False,0,False,False,0,0,False
 1369,"安魂祈禱","詠唱魔法時沒有任何詠唱時間，並且不會消耗魔力",12514,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,25,6,True,0,False,False,0,19,False
 1370,"戰女神之怒","發動攻擊所造成的傷害及自身發動的體力恢復效果降低",14836,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,False,0,False,False,0,0,False
 1371,"寒風斧","受到攻擊的傷害增加",14837,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
@@ -1381,7 +1381,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1376,"巨身之術","使用巨身之術令身體變得巨大，攻擊所造成的傷害提高",15799,0,1,1,16,0,False,False,False,False,True,False,False,True,True,100,False,False,False,20,2,False,0,False,False,0,0,False
 1377,"生命吸收","生命力被吸收，體力逐漸流失",15778,0,1,2,17,0,False,False,False,False,False,False,False,True,True,10,False,False,True,10,0,False,0,False,False,0,0,False
 1378,"連續詠唱","可連續發動魔法",15779,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,0,0,False
-1379,"_rsv_1379_-1_4_C0_0Status","_rsv_1379_-1_4_C1_0Status",15781,0,1,2,17,0,False,False,False,False,False,False,False,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
+1379,"","",15781,0,1,2,17,0,False,False,False,False,False,False,False,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 1380,"生者之傷","肉體負傷，受到「生者暗黑光擊」攻擊時傷害會有所提高",15782,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,0,0,False
 1381,"死者之傷","靈魂負傷，受到「死者暗黑光擊」攻擊時傷害會有所提高",15783,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,0,0,False
 1382,"超越死亡","只有超越死亡才能求得一線生機",15780,0,1,2,17,20,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,25,False
@@ -1413,7 +1413,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1408,"微型隕石","受到攻擊的傷害增加",14843,0,124,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,25,0,True,0,False,False,0,0,False
 1409,"終端速度","自身所受的體力恢復效果降低",14844,0,123,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-25,0,True,0,False,False,0,0,False
 1410,"反覆無常","吉祥天女爆發了反覆無常的神性",15805,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,0,0,False
-1411,"70級經驗加速","70級以下獲得的經驗值將大幅提高",16227,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,100,0,True,0,False,False,0,0,False
+1411,"80級經驗加速","80級以下獲得的經驗值將大幅提高",16227,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,False,100,0,True,0,False,False,0,0,False
 1412,"受傷加重","受到攻擊的傷害增加",17101,16,1,2,17,0,False,False,False,False,False,False,False,False,False,50,False,False,False,50,0,False,0,False,False,0,0,False
 1413,"紅蓮極意","自身發動的下一次戰技所造成的傷害提高",12528,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,50,0,True,0,False,False,0,0,False
 1414,"戰鬥連禱","造成的傷害提高",12578,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,5,0,True,0,False,False,0,0,False
@@ -1549,7 +1549,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1544,"傷害提高","攻擊所造成的傷害提高",17061,2,1,1,16,0,False,False,False,False,False,False,False,True,True,2,False,False,False,20,0,False,0,False,False,0,0,False
 1545,"受傷減輕","受到攻擊的傷害減少",17301,2,1,1,16,0,False,False,False,False,False,False,False,True,True,1,False,False,False,-20,0,False,0,False,False,0,0,False
 1546,"獺獺","變成了獺獺，無法發動任何技能",16827,0,1,2,17,0,False,False,False,False,True,False,False,False,False,100,False,False,False,-50,2,False,0,False,False,0,0,False
-1547,"潛能","覺醒了潛能，最大體力增加，同時攻擊造成的傷害及治療魔法的治療量也會增加",15869,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,15,0,False,0,False,False,0,0,False
+1547,"不屈的鬥志","燃燒不屈的鬥志，最大體力增加，同時攻擊造成的傷害及治療魔法的治療量也會增加",15869,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,15,0,False,0,False,False,0,0,False
 1548,"衝刺","移動速度提高",10101,0,1,1,0,0,False,False,False,False,False,False,False,True,True,1,False,False,False,0,0,True,0,False,False,0,6,False
 1549,"禁用魔石","禁止使用魔石",16828,0,1,2,17,0,False,False,False,False,False,False,False,True,True,50,False,False,False,0,0,False,0,False,False,0,0,False
 1550,"磁場崩壞 正極","受到了磁場的影響，帶有正極磁力",15854,0,1,2,17,60,False,False,False,False,False,False,False,False,False,1,False,False,False,0,0,False,0,False,False,0,0,False
@@ -1803,7 +1803,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1798,"連續詠唱","可連續發動魔法",15779,0,0,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,0,0,False
 1799,"妖靈光","緹坦妮雅向法杖中輸送了妖靈的魔力，攻擊所造成的傷害大幅提高、自動攻擊變為範圍攻擊",15976,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 1800,"膨脹","發生了膨脹。隨著檔數的增加，攻擊所造成的傷害提高",19441,5,1,1,16,0,False,False,False,False,True,False,False,True,False,199,False,False,False,20,26,False,0,False,False,0,0,False
-1801,"連貫採集","雖然無法採集到優質道具，但獲得數量會隨著鑑別力增加",16013,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
+1801,"連貫採集","雖然無法採集到優質道具，但獲得數量會隨著技術力增加",16013,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 1802,"大地的恩惠","隨機增加碎晶、水晶、晶簇的獲得數",16014,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
 1803,"拍擊水面","剛釣上來的魚的同類提高了警戒心，不再出現",11115,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,False,0,False,False,0,0,False
 1804,"專一垂釣","能釣上來和前一隻相同種類的魚",11116,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,False,0,0,True,0,False,False,0,0,False
@@ -1829,7 +1829,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1824,"舞伴","附加此效果的舞者發動了特定技能時，會對自身發動追加效果",13713,0,150,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,True,0,0,True,0,False,False,0,0,False
 1825,"進攻之探戈","暴擊發動率和直擊發動率提高",13714,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
 1826,"防守之桑巴","減輕所受到的傷害",13715,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,False,0,False,False,0,0,False
-1827,"即興表演","即興跳舞，處於戰鬥狀態時會持續獲得伶俐",13716,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
+1827,"即興表演","即興跳舞",13716,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
 1828,"享受即興表演","自身所受的治療效果提高",13717,0,150,1,16,0,False,False,False,False,False,False,False,False,True,5,False,False,False,10,0,False,0,False,False,0,0,False
 1829,"無敵","一切攻擊都無法造成傷害",15024,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,False,0,0,False,0,False,False,1,1,False
 1830,"魔物化","因中了汙穢魔法而變成了魔物",15978,0,1,2,17,0,False,False,False,False,True,False,False,True,True,200,False,False,False,0,2,False,0,False,False,0,0,False
@@ -1859,13 +1859,13 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1854,"斷絕之兆","被水屬性乙太侵蝕，倒數計時結束時會發生斷絕大海嘯",15966,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
 1855,"擴散之兆","被水屬性乙太侵蝕，倒數計時結束時會發生擴散大海嘯",15967,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
 1856,"盾陣","受到攻擊時必定發動格擋",12510,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,False,0,False,False,0,0,False
-1857,"原初的勇猛","自身的物理攻擊命中時會吸收體力",12558,0,22,1,16,110,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,True,0,False,False,0,0,False
+1857,"原初的勇猛","",12558,0,22,1,16,110,False,False,False,False,False,False,False,False,False,100,False,False,False,0,0,True,0,False,False,0,0,False
 1858,"原初的武猛","附加此效果的戰士受到原初的勇猛的吸收體力的效果時，會獲得相當於其50％的恢復效果。<hex:02100103>另外受到攻擊的傷害減少",12559,0,22,1,16,0,False,False,False,False,False,False,False,False,False,100,False,False,True,-10,0,True,0,False,False,0,0,False
 1859,"命脈負荷","消除氣息的秘技給命脈帶來了負荷，不解除會陷入無法戰鬥狀態",15116,0,1,2,9,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 1860,"生命活動停滯","命脈斷絕對生命活動造成了巨大的負面影響，移動速度大幅降低",15117,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,False,False,False,0,1,False,0,False,False,0,0,False
 1861,"連擊效果提高","下次發動連擊的威力提高",12533,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1862,"無我","身形和雙掌打的效果時間停止流逝",12534,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
-1863,"龍眼雷電預備","可以發動龍眼雷電",12584,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+1863,"龍眼","",12584,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1864,"猛槍","攻擊所造成的傷害提高",10304,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
 1865,"劍壓","不斷增強劍壓",19501,3,111,1,16,0,False,False,False,False,False,False,False,True,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1866,"毒菌衝擊","體力逐漸減少",13020,0,96,2,1,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
@@ -1881,7 +1881,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1876,"王冠之領主","攻擊所造成的傷害提高",13243,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
 1877,"王冠之貴婦","攻擊所造成的傷害提高",13244,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
 1878,"占卜","攻擊所造成的傷害提高",13245,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
-1879,"天星衝日（日）","體力會隨時間逐漸恢復",13246,0,99,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
+1879,"天星衝日","體力會隨時間逐漸恢復",13246,0,99,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
 1880,"天星衝日（夜）","抵消一定傷害",13247,0,99,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,100,0,False,0,False,False,0,12,False
 1881,"焚灼","體力逐漸減少",13248,0,99,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
 1882,"太陽神之衡","攻擊所造成的傷害提高",13204,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
@@ -1891,7 +1891,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1886,"河流神之瓶","攻擊所造成的傷害提高",13208,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
 1887,"建築神之塔","攻擊所造成的傷害提高",13209,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,10,0,False,0,False,False,0,0,False
 1888,"天星交錯（日）","體力會隨時間逐漸恢復",13249,0,99,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
-1889,"天星交錯（夜）","抵消一定傷害",13250,0,99,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,100,0,False,0,False,False,0,12,False
+1889,"天星交錯","抵消一定傷害",13250,0,99,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,100,0,False,0,False,False,0,12,False
 1890,"天宮圖","可以受到天宮圖帶來的治療效果",13251,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,True,0,0,True,0,False,False,0,0,False
 1891,"陽星天宮圖","可以受到天宮圖帶來的治療效果",13252,0,99,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,True,0,0,True,0,False,False,0,0,False
 1892,"中間學派","發動治療魔法的治療量提高",13253,0,99,1,16,114,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
@@ -1923,7 +1923,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1918,"激勵","抵消一定傷害",12814,0,1,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,125,0,False,0,False,False,0,12,False
 1919,"傷害提高","攻擊所造成的傷害提高",15519,0,1,1,16,0,False,False,False,False,True,False,False,True,True,200,False,False,False,30,26,False,0,False,False,0,0,False
 1920,"中間學派（日）","體力會隨時間逐漸恢復",13254,0,99,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
-1921,"中間學派（夜）","抵消一定傷害",13255,0,99,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,100,0,False,0,False,False,0,12,False
+1921,"中間學派","抵消一定傷害",13255,0,99,1,16,0,False,False,False,False,False,False,False,False,False,30,False,False,False,100,0,False,0,False,False,0,12,False
 1922,"沃斯裡的祝福","接受沃斯裡大王的祝福，有所強化",15962,0,1,1,16,115,False,False,False,False,True,False,False,True,True,0,False,False,False,25,26,False,0,False,False,0,0,False
 1923,"沃斯裡的祝福","接受沃斯裡大王的祝福，有所強化",15962,0,1,1,16,115,False,False,False,False,True,False,False,True,True,0,False,False,False,42,26,False,0,False,False,0,0,False
 1924,"沃斯裡的祝福","接受沃斯裡大王的祝福，有所強化",15962,0,1,1,16,115,False,False,False,False,True,False,False,True,True,0,False,False,False,67,26,False,0,False,False,0,0,False
@@ -1942,7 +1942,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1937,"過場劇情中","正處於過場劇情中",15765,0,1,1,0,27,False,False,True,True,False,False,False,True,True,100,False,False,False,0,4,True,0,False,False,0,0,False
 1938,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1939,"妖靈的誘惑","受到妖靈迷惑，身體不聽使喚了",15002,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,False,False,False,0,1,False,0,False,False,0,0,False
-1940,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+1940,"體溫低下","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1941,"隆卡咒毒","受到隆卡咒毒的影響，體力逐漸減少",15007,0,1,2,1,0,False,False,False,False,False,False,False,False,False,100,False,False,False,6000,0,False,0,False,False,0,0,False
 1942,"偵察中","正在偵察。進入戰鬥狀態的話，偵察受到阻礙，停留在原地。非戰鬥狀態維持一段時間後偵察結束，狀態解除，得以撤退",15994,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1943,"武裝衛護","產生減輕傷害的防護區域",12512,0,1,1,16,0,True,False,True,False,False,False,False,True,False,0,False,False,False,100,4,True,0,False,False,0,27,False
@@ -2185,7 +2185,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2180,"快速裝填","戰技的複唱時間縮短",19601,3,149,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,0,False
 2181,"親疏自行","攻擊所造成的傷害降低",14885,0,122,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,False,-10,0,True,0,False,False,0,0,False
 2182,"深謀遠慮之策","體力降低到一定比例或持續時間結束時自動發動恢復效果",12808,0,29,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,True,0,False,False,0,25,False
-2183,"ノクターナルフィールド","一定量のダメージを軽減する狀態。",13217,0,99,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,12,False
+2183,"","",13217,0,99,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,12,False
 2184,"還擊","受到攻擊時會對攻擊者造成反擊傷害",14817,0,121,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,100,0,True,0,False,False,0,0,False
 2185,"牽制","被為你附加此效果的玩家攻擊時所受傷害增加",13904,0,122,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,True,20,0,True,0,False,False,0,0,False
 2186,"集中","下次發動戰技造成的傷害提高",14815,0,123,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,20,0,True,0,False,False,0,0,False
@@ -2570,7 +2570,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2565,"英傑","攻擊所造成的傷害提高，受到攻擊的傷害減少",16649,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,65,0,False,0,False,False,0,0,False
 2566,"失傳血怒","攻擊所造成的傷害提高，受到攻擊的傷害減少",17486,4,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,15,0,False,0,False,False,0,0,False
 2567,"血怒覺醒","攻擊所造成的傷害提高，體力和魔力會隨時間逐漸恢復，縮短下次能力類技能的複唱時間",16702,0,1,1,16,0,False,False,False,False,False,False,False,False,False,1,False,False,False,60,5,False,0,False,False,0,18,False
-2568,"海鷗風暴","釣魚時釣上優質魚的機率增加",16238,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
+2568,"海鷗風暴","釣魚時釣上大型魚的機率增加",16238,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2569,"急速海豚","採集力自然恢復量提高",16239,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2570,"極光海豚","幻海流發生率提高",16240,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,True,0,False,False,0,0,False
 2571,"命運抽卡","在命運的指引下，抽取了一張奧秘卡",15344,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False

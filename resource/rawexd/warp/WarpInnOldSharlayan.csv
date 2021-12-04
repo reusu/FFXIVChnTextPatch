@@ -1,0 +1,15 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000","<hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>、おかえりぃ～！<hex:02100103>どう？　このまま「ナップルーム」で休む？"
+1,"TEXT_WARPINNOLDSHARLAYAN_Q1_000_100","何を聞く？"
+2,"TEXT_WARPINNOLDSHARLAYAN_A1_000_101","居室に移動する"
+3,"TEXT_WARPINNOLDSHARLAYAN_A1_000_102","ナップルームとは？"
+4,"TEXT_WARPINNOLDSHARLAYAN_A1_000_103","キャンセル"
+5,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_150","了解～、ゆっくり休みな～！<hex:02100103>シーツもカバーもさらさらに整えてあるから、<hex:02100103>好きなだけ頬ずりするといいよぉ～。"
+6,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_200","ナップルームは「仮眠部屋」って意味なんだよねぇ～。<hex:02100103>もともとは、研究なんかで徹夜続きだった人とか、<hex:02100103>調査から戻った人のための休憩用でさ～。"
+7,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_201","だから、初めて中に入った人は少し驚くかもねぇ～。<hex:02100103>壁の至るところに、前の滞在者のメモや研究記事、<hex:02100103>それから、ほかの利用者への伝言なんかも貼ってあるんだ～。"
+8,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_202","なんで剥がさないかってぇ～？<hex:02100103>まあ、ここを使う人は毎度お馴染みの顔ぶれが多いからねぇ～。"
+9,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_203","……それにほら、もう会えない人たちのメモを見ると、<hex:02100103>ついさっきまでここにいたような感覚がしちゃってさ～。<hex:02100103>また戻ってくるような気がするんだよねぇ～。"
+10,"TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_204","あ、そうそう……仮眠部屋なんて呼ばれてるけど、<hex:02100103>さらさらで清潔なベッドは保証するからねぇ～。<hex:02100103>そこは俺が管理人として、がんばってるところなの。"

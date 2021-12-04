@@ -38,7 +38,7 @@ int32,str,str
 33,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_073","戴上專家之證，<hex:02100103>確定了自己要在那條道路上走下去的決心，<hex:02100103>才可以開始熟練掌握高超的技藝。"
 34,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_074","也並不是不可以改變前進的道路。<hex:02100103>但是，這需要相當大的努力才行，這一點我不說你也明白吧。"
 35,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_075","裝備專家之證後可以成為專家。"
-36,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_076","製作專家之證所必須的<hex:02280BFF05>Item<hex:F228600103>，<hex:02100103>需要使用<hex:02280BFF05>Item<hex:F245A90103>換取。"
+36,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_076","製作專家之證所必須的<hex:02280BFF05>Item<hex:F228600103>，<hex:02100103>需要使用<hex:02280BFF05>Item<hex:F2626F0103>換取。"
 37,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_080","你知道靈魂水晶嗎？<hex:02100103>那是一種印刻著戰士們記憶的特殊石頭，<hex:02100103>據說蘊藏著先人的記憶和知識。"
 38,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_081","我認為，工匠也需要類似的東西。<hex:02100103>所以經過反覆的試驗，創造出了適合熟練工匠的靈魂水晶……<hex:02100103>也就是專家之證。"
 39,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_082","要製作專家之證，<hex:02100103>就需要一種名為<hex:02280BFF05>Item<hex:F228600103>的特殊素材，<hex:02100103>然後再由我來進行加工。"
