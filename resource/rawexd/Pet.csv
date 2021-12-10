@@ -20,7 +20,7 @@ int32,str,uint16,uint16,uint16,uint16,uint16,bit&01,bit&02,bit&04,sbyte,byte,byt
 15,"熾天使",16550,16551,16547,0,16548,False,True,True,-1,0,0,0
 16,"月長寶石獸",0,0,0,0,0,False,False,False,-1,0,0,0
 17,"英雄的掠影",0,0,0,0,0,True,False,False,-1,0,0,0
-18,"後式自走人偶",0,0,16503,0,0,True,False,False,-1,0,0,0
+18,"后式自走人偶",0,0,16503,0,0,True,False,False,-1,0,0,0
 19,"分身",0,0,0,0,0,False,False,False,-1,0,0,0
 20,"亞靈神不死鳥",0,0,17784,0,0,False,False,False,-1,0,0,0
 21,"熾天使",0,0,0,0,0,False,False,False,-1,0,0,0
