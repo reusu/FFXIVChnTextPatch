@@ -34,7 +34,7 @@ public class ReplaceThread implements Runnable {
 				System.exit(1);
 			} 
 			*/
-			PercentPanel percentPanel = new PercentPanel("本程式修改自《提莫苑|资源汉化》");
+			PercentPanel percentPanel = new PercentPanel("漢化進度");
 			new ReplaceFont(this.resourceFolder + File.separator + "000000.win32.index", "resource" + File.separator + "font").replace();
 			if ((new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
 				(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "text" + File.separator + "0a0000.win32.index", percentPanel)).replace();

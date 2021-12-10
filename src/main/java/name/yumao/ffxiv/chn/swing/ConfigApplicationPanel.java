@@ -34,7 +34,7 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 	
 	// private List<TeemoUpdateVo> updates;
 	private static Point origin = new Point();
-	private static String title = "漢化設置|本程式修改自《提莫苑》";
+	private static String title = "漢化設置";
 	private JLabel title_lable = new JLabel(title);
 	private Dimension dimension;
 	private JButton closeButton = new JButton("x");
@@ -60,7 +60,7 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 	private JComboBox<String> transModeVal;
 	*/
 	
-	private JButton configButton = new JButton("确认");
+	private JButton configButton = new JButton("確認");
 	private JButton exitButton = new JButton("退出");
 	
 	public ConfigApplicationPanel(/*List<TeemoUpdateVo> updateVoList*/) {
@@ -168,6 +168,7 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 		this.fLangLableVal.setForeground(new Color(110, 110, 110));
 		this.fLangLableVal.setOpaque(false);
 		this.fLangLableVal.setFocusable(false);
+		this.fLangLableVal.addActionListener(this);
 		add(this.fLangLableVal, 0);
 		
 		this.sLangLable.setBounds(30, 100, 100, 25);
@@ -200,6 +201,9 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 		this.dLangLableVal.setOpaque(false);
 		this.dLangLableVal.setFocusable(false);
 		add(this.dLangLableVal, 0);
+		
+		this.dLangLable.setVisible(false);
+		this.dLangLableVal.setVisible(false);
 		
 		/*
 		if (this.updates.size() == 0) {
@@ -301,6 +305,17 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 				} 
 			} 
 		} 
+		if (e.getSource() == this.fLangLableVal) {
+			String selected = (String)this.fLangLableVal.getSelectedItem();
+			// System.out.println(selected);
+			if (selected == "CSV") {
+				this.dLangLable.setVisible(false);
+				this.dLangLableVal.setVisible(false);
+			} else {
+				this.dLangLable.setVisible(true);
+				this.dLangLableVal.setVisible(true);
+			}
+		}
 		if (e.getSource() == this.configButton) {
 			String path = this.pathField.getText();
 			String srcLang = (String)this.sLangLableVal.getSelectedItem();

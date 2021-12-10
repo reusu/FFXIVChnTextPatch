@@ -32,7 +32,7 @@ import name.yumao.ffxiv.chn.util.res.Config;
 public class ClientLauncherPanel extends JFrame implements ActionListener {
 	private static Point origin = new Point();
 	
-	private static String title = "提莫苑|快速启动";
+	private static String title = "啟動";
 	
 	private JLabel title_lable = new JLabel(title);
 	

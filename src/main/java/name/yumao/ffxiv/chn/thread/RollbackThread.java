@@ -38,7 +38,7 @@ public class RollbackThread implements Runnable {
 			*/
 			String[] resourceNames = { "000000.win32.dat0", "000000.win32.index", "000000.win32.index2", "0a0000.win32.dat0", "0a0000.win32.index", "0a0000.win32.index2" };
 			int fileCount = 0;
-			PercentPanel percentPanel = new PercentPanel("資源還原|本程式修改自《提莫苑》");
+			PercentPanel percentPanel = new PercentPanel("資源還原");
 			for (String resourceName : resourceNames) {
 				percentPanel.percentShow(++fileCount / resourceNames.length);
 				File backupFile = new File("backup" + File.separator + resourceName);

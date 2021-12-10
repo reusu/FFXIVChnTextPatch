@@ -32,7 +32,7 @@ public class PercentPanel extends JFrame implements ActionListener {
 	private JPanel percentFrontPanel = new JPanel();
 	
 	public PercentPanel() {
-		new PercentPanel("提莫苑|资源应用");
+		new PercentPanel("進度條");
 	}
 	
 	public PercentPanel(String title) {
