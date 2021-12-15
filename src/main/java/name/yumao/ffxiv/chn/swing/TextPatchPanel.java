@@ -156,6 +156,7 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 		setVisible(false);
 		setVisible(true);
 		
+		/*
 		try {
 			String path = Config.getProperty("GamePath");
 			if (isFFXIVFloder(path)) {
@@ -164,7 +165,6 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 				EXDFUtil exdfUtil = new EXDFUtil(pathToIndex);
 				if (exdfUtil.isTransDat()) {
 					this.replaceButton.setEnabled(false);
-					/*
 					List<TeemoUpdateVo> diffFiles = UpdateUtil.diffChnFile(this.updates);
 					if (diffFiles.size() > 0 && 
 						JOptionPane.showConfirmDialog(null, "检测到新汉化版本，是否使用？", "提示", 0) == 0) {
@@ -175,10 +175,11 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 						Thread replaceFileThread = new Thread((Runnable)replaceThread);
 						replaceFileThread.start();
 					} 
-					*/
+					
 				} 
 			} 
 		} catch (Exception exception) {}
+		*/
 	}
 	
 	@Override
