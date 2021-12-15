@@ -74,7 +74,7 @@ public class ReplaceEXDF {
 		this.dlang = Config.getProperty("DLanguage");
 		// added
 		this.flang = Config.getProperty("FLanguage");
-		if (this.flang == "CSV") {
+		if (this.flang.equals("CSV")) {
 			this.csv = true;
 		} else {
 			this.csv = false;
