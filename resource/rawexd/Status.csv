@@ -2588,7 +2588,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2583,"攻擊請求：鋼鐵人馬——魔導騎兵大隊","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：鋼鐵人馬——魔導騎兵大隊",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2584,"攻擊請求：有角凶鳥——阿爾科諾斯特","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：有角凶鳥——阿爾科諾斯特",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2585,"攻擊請求：複製統治者——第四軍團哈修馬利姆 ","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：複製統治者——第四軍團哈修馬利姆 ",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
-2586,"死亡圖謀","受到來自附加此效果的玩家的傷害提高<hex:02100103>如果在持續時間內被擊倒，會提高釤鐮客的靈魂量表",12926,0,0,180,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,10,0,False,0,False,False,0,0,0,False
+2586,"死亡圖謀","受到來自附加此效果的玩家的傷害提高<hex:02100103>如果在持續時間內被擊倒，會提高釤鐮客的靈魂量譜",12926,0,0,180,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,True,10,0,False,0,False,False,0,0,0,False
 2587,"妖異之鐮","可以發動示眾、絞首、斷頭",17097,0,2,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,27,False,0,False,False,0,0,0,False
 2588,"示眾效果提高","下一次發動的示眾威力提高",12927,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,50,2,False,False,0,0,False,0,False,False,0,0,0,False
 2589,"絞首效果提高","下一次發動的絞首威力提高",12928,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,50,2,False,False,0,0,False,0,False,False,0,0,0,False
