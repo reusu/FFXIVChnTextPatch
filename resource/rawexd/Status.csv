@@ -2542,7 +2542,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2537,"槍強化","強化了槍<hex:02100103>韓塞爾與格雷特接近時，變為槍盾強化",15360,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,50,0,False,0,False,False,0,0,False
 2538,"盾強化","強化了盾，受到的傷害降低，同時反射來自後背與側面的攻擊<hex:02100103>韓塞爾與格雷特接近時，變為槍盾強化",15361,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,-50,0,False,0,False,False,0,0,False
 2539,"槍盾強化","韓塞爾與格雷特接近，強化了槍和盾<hex:02100103>受到的傷害降低，同時反射來自後背與側面的攻擊",15362,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,False,50,0,False,0,False,False,0,0,False
-2540,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+2540,"冷卻","冷卻狀態，不持續移動會被凍結",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2541,"不淨的侵蝕","正在被不淨侵蝕，倒數計時為0時陷入不淨的恐怖、想要離開目標",15363,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,True,0,False,False,0,0,False
 2542,"不淨的恐怖","受到不淨的恐怖無法行動、想要離開目標",15364,0,1,2,17,0,False,False,True,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 2543,"軟體化","陷入軟體化狀態。移動速度降低，無法進行跳躍以及發動技能",16214,0,1,1,16,0,False,False,False,False,True,False,False,False,False,100,False,False,False,0,2,True,0,False,False,0,0,False
@@ -2692,7 +2692,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2687,"疾風的極意","縮短了自動攻擊的攻擊間隔",12537,0,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-50,0,False,0,False,False,0,0,0,False
 2688,"龍眼蒼穹預備","可以發動龍眼蒼穹",0,0,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2689,"命水","下一次發動的六道輪迴威力提高",12914,0,0,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
-2690,"月影雷獸爪預備","月影雷獸爪可以發動",17597,0,3,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
+2690,"月影雷獸預備","可以發動月影雷獸爪或月影雷獸牙",17597,0,3,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2691,"月影雷獸牙預備","月影雷獸牙可以發動",12916,0,0,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2692,"爆裂箭預備","爆裂箭可以發動",12621,0,0,24,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2693,"對稱投擲","可以發動逆瀑瀉或升風車",13718,0,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2725,7 +2725,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2720,"龍槍","攻擊造成的傷害提高",10303,0,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,10,0,False,0,False,False,0,0,0,False
 2721,"英勇劍","緩慢失去體力",12518,120,0,20,2,17,0,False,False,False,False,False,False,True,False,False,10,0,False,True,10,0,False,0,False,False,0,0,0,False
 2722,"光輝神的最終樂章","發動了光輝神的最終樂章",12622,0,0,24,1,16,335,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
-2723,"殘影鐮鼬預備","可以發動殘影鐮鼬",12917,0,0,92,1,16,0,False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
+2723,"殘影鐮鼬預備","可以發動殘影鐮鼬",12917,0,0,92,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2724,"深紅旋風預備","可以發動深紅旋風",12696,0,0,28,1,16,0,False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2725,"螺旋氣流預備","可以發動螺旋氣流",12697,0,0,28,1,16,0,False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2726,"苦痛","承受苦痛，緩慢失去體力",15007,0,0,1,2,1,0,False,False,False,False,False,False,False,False,False,100,0,False,False,100,0,False,0,False,False,0,0,0,False
