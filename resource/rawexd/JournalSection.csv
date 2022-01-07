@@ -2,8 +2,8 @@
 #,Name,,
 offset,0,4,4
 int32,str,bit&01,bit&02
-0,"主線任務1(重生/蒼穹/紅蓮/漆黑)",True,True
-1,"主線任務2(曉月的終途)",True,True
+0,"主線任務1(重生/蒼穹/紅蓮/暗影)",True,True
+1,"主線任務2(曉月之終途)",True,True
 2,"編年史任務",True,True
 3,"支線任務",True,True
 4,"蠻族任務1(重生/蒼穹/紅蓮)",True,True

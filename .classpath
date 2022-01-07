@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="D:/Java/nlp-lang-1.7.6.jar"/>
 	<classpathentry kind="lib" path="D:/Java/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/Java/univocity-parsers-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/apache-log4j-2.17.1-bin.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

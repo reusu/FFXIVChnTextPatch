@@ -1,6 +1,12 @@
 package name.yumao.ffxiv.chn;
 
 import java.io.File;
+import java.io.IOException;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
+
 import name.yumao.ffxiv.chn.swing.ConfigApplicationPanel;
 import name.yumao.ffxiv.chn.swing.TextPatchPanel;
 import name.yumao.ffxiv.chn.util.res.Config;
@@ -19,11 +25,24 @@ public class FFXIVPatchMain {
 	public static void main(String[] args) {
 		Config.setConfigResource("conf" + File.separator + "global.properties");
 		String path = Config.getProperty("GamePath");
-		// List updates = new ArrayList();
+		
+		// logger setup
+		Logger log = Logger.getLogger("GPLogger");
+		log.setUseParentHandlers(false);
+		log.setLevel(Level.ALL);
+		System.setProperty("java.util.logging.SimpleFormatter.format", "[%1$tF %1$tT] [%4$-7s] %5$s %n");
+		try {
+			FileHandler fh = new FileHandler("debug.log");
+			log.addHandler(fh);
+	        fh.setFormatter(new SimpleFormatter());  
+		} catch (IOException e) {  
+	        e.printStackTrace();  
+	    }
+		
 		if (isFFXIVFloder(path)) {
-			new TextPatchPanel(/*updates*/);
+			new TextPatchPanel();
 		} else {
-			new ConfigApplicationPanel(/*updates*/);
+			new ConfigApplicationPanel();
 		} 
 	}
 	

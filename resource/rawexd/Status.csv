@@ -2362,7 +2362,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2357,"全解析","所有弱點全被看穿，<hex:02100103>被攻擊時所受到的傷害增加",15254,0,1,2,17,200,False,False,False,False,False,False,False,True,True,100,False,False,False,0,0,True,0,False,False,0,0,False
 2358,"攻擊請求","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2359,"攻擊請求：高火力陸戰魔導兵器——守夜","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：高火力陸戰魔導兵器——守夜",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
-2360,"攻擊請求：腐爛蔬菜——皮裡福爾","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：腐爛蔬菜——皮裡福爾",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
+2360,"攻擊請求：腐爛蔬菜——皮里福爾","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：腐爛蔬菜——皮里福爾",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2361,"攻擊請求：紅陸行鳥之王——紅色彗星","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：紅陸行鳥之王——紅色彗星",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2362,"攻擊請求：怨念死靈——地生人","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：怨念死靈——地生人",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
 2363,"攻擊請求：新型鐵巨人——魔導勞工X型","收到博茲雅義軍發來的攻擊請求，<hex:02100103>可優先參加緊急遭遇戰：新型鐵巨人——魔導勞工X型",16697,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,True,False,False,0,0,True,0,False,False,0,0,False
@@ -2645,7 +2645,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2640,"不動宮","減輕所受到的傷害",13226,0,99,1,16,0,False,False,False,False,False,False,False,False,True,0,False,False,False,-10,0,False,0,False,False,0,0,False
 2641,"不動宮","體力會隨時間逐漸恢復",13225,0,99,1,16,0,False,False,False,False,False,False,False,False,False,5,False,False,False,10,0,False,0,False,False,0,0,False
 2642,"血液印記","血液效果解除時消耗疊層再次附加血液。持續時間結束後恢復自身體力。剩餘層數愈高恢復力愈高",17585,0,5,181,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,27,True,0,False,False,0,0,0,False
-2643,"パンハイマの印","泛血效果解除時消耗疊層再次附加泛血。持續時間結束後恢復自身體力。剩餘層數愈高恢復力愈高",17355,0,5,181,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,27,True,0,False,False,0,0,0,False
+2643,"泛血印記","泛血效果解除時消耗疊層再次附加泛血。持續時間結束後恢復自身體力。剩餘層數愈高恢復力愈高",17355,0,5,181,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,100,27,True,0,False,False,0,0,0,False
 2644,"正面未解析","只有身體正面沒有被看穿弱點，<hex:02100103>受到其他方向而來的攻擊則會受到巨大傷害",15369,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,False,False,False,0,28,True,0,False,False,0,0,False
 2645,"獵物","作為獵物被盯上了",15026,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,False,0,0,False,0,False,False,0,0,False
 2646,"感電","雷屬性持續傷害，體力逐漸流失",15528,0,1,2,17,0,False,False,False,False,False,False,False,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
@@ -2671,7 +2671,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2666,"額外獲得機率提高","額外獲得機率提高",16020,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2667,"額外獲得數量提高","額外獲得數量提高",16021,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2668,"價值提升機率提高","價值提升機率提高",16022,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,True,0,False,False,0,0,0,False
-2669,"クリュメノス","自身仇恨提高",13108,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,200,0,False,0,False,False,0,0,0,False
+2669,"克呂墨諾斯","自身仇恨提高",13108,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,200,0,False,0,False,False,0,0,0,False
 2670,"冥界行","除特定攻擊之外其他所有對自身發動的攻擊均無法令體力減少到1以下",13116,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,70,0,False,False,0,0,False,0,False,False,0,31,0,False
 2671,"蟾蜍","蛙變。無法發動技能",15580,69,0,1,2,17,0,False,False,False,False,True,False,False,False,False,100,0,False,False,0,2,False,0,False,False,0,0,0,False
 2672,"呼吸困難","毒水導致呼吸困難，累積8層會陷入無法戰鬥狀態",18981,0,8,1,2,17,323,False,False,False,False,False,False,False,True,True,250,0,False,False,0,10,False,0,False,False,0,0,0,False
@@ -2853,7 +2853,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2848,"詠唱反轉術","反轉下一次發動的攻擊的範圍",17296,0,4,1,2,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,27,False,0,False,False,0,0,0,False
 2849,"","",0,0,0,1,2,0,0,True,False,True,False,False,False,False,False,False,100,0,True,False,0,4,False,0,False,False,0,0,0,False
 2850,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,True,0,0,True,False,0,0,True,0,False,False,0,30,0,False
-2851,"事件中","事件中",15765,0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,100,0,False,False,0,4,True,0,False,False,0,0,0,False
+2851,"過場劇情中","正處於過場劇情中",15765,0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,100,0,False,False,0,4,True,0,False,False,0,0,0,False
 2852,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2853,"山崩預備","可以發動山崩",12698,0,0,28,1,16,0,False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2854,"妖異之鐮","可以發動示眾、絞首、斷頭",17097,0,2,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,27,True,0,False,False,0,0,0,False
@@ -2935,7 +2935,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2930,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2931,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2932,"部隊特效：都市内衝刺效果時間延長","都市内衝刺效果時間延長",16520,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,1,False,False,0,0,True,0,True,False,0,0,0,False
-2933,"事件中","事件中",15765,0,0,1,1,0,344,False,False,True,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
+2933,"過場劇情中","正處於過場劇情中",15765,0,0,1,1,0,344,False,False,True,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
 2934,"●強制稼働","●未完成の状態だが強制的に短時間稼働している状態。効果時間中は破壊されない。",15910,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2935,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2936,"心神喪失","心神喪失，移動時會往箭頭方向移動",15809,0,0,1,2,17,43,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2970,11 +2970,11 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2965,"死腐毒","受致死腐毒傷害，持續時間結束後陷入無法戰鬥狀態",15388,0,0,1,2,17,357,False,False,False,False,False,False,True,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2966,"孤獨的預感","持續時間結束後，若周圍沒有友方則會陷入恐慌",15428,67,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,538,0,False,0,False,False,0,0,0,False
 2967,"持續傷害","受到無屬性傷害，緩慢失去體力",15067,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,False,0,0,0,False
-2968,"","",15843,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,True,0,False,False,0,0,0,False
-2969,"","",15897,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
-2970,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2968,"開顱術","由於開顱術而錯亂，攻擊友方<hex:02100103>肉體異常活躍，體力逐漸流失",15843,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,True,0,False,False,0,0,0,False
+2969,"受限的睿智","被受到受限的睿智守護住了心身，使開顱術無效",15897,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2970,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,0,0,True,False,0,28,True,0,False,False,0,0,0,False
 2971,"最大體力減少","最大體力減少",15076,6,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,0,False,False,-10,0,False,0,False,False,0,0,0,False
-2972,"死亡供儀","可以從附加供儀之環的目標獲得死亡供品",12938,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
+2972,"死之供儀","可以從附加供儀之環的目標獲得死亡供品",12938,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2973,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2974,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2975,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -3001,7 +3001,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2996,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2997,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2998,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2999,"事件中","事件中",15765,0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
+2999,"過場劇情中","正處於過場劇情中",15765,0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
 3000,"猛毒","中毒，緩慢失去體力",15517,0,0,1,2,1,0,False,False,False,False,False,False,False,True,True,10,0,False,True,100,0,False,0,False,False,0,0,0,False
 3001,"功力","攻擊造成的傷害提高",12538,0,0,3,1,16,0,False,False,False,False,False,False,False,False,False,70,0,False,False,5,0,False,0,False,False,0,0,0,False
 3002,"影噬箭預備","可以發動影噬箭",12623,0,0,24,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False

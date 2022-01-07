@@ -13,6 +13,8 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionAdapter;
 import java.io.File;
+import java.util.logging.Logger;
+
 // import java.util.ArrayList;
 // import java.util.List;
 import javax.swing.JButton;
@@ -184,6 +186,7 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 	
 	@Override
 	public void actionPerformed(ActionEvent e) {
+		Logger log = Logger.getLogger("GPLogger");
 		if (e.getSource() == this.replaceButton) {
 			String path = Config.getProperty("GamePath");
 			String slang = Config.getProperty("SLanguage");
@@ -196,6 +199,10 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 			System.out.println("目標語言：" + dlang);
 			//added
 			System.out.println("檔案語言：" + flang);
+			log.config("遊戲路徑：" + path);
+			log.config("原始語言：" + slang);
+			log.config("目標語言：" + dlang);
+			log.config("檔案語言：" + flang);
 			
 			if (isFFXIVFloder(path)) {
 				// 備份原檔案
@@ -211,6 +218,7 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 				replaceFileThread.start();
 			} else {
 				JOptionPane.showMessageDialog(null, "<html><body>請選擇正確的遊戲根目錄<br />目錄預設名為：<br />FINAL FANTASY XIV ONLINE</body></html>", "路徑錯誤", 0);
+				log.severe("Game path error!");
 				dispose();
 				new ConfigApplicationPanel();
 			} 
@@ -225,6 +233,7 @@ public class TextPatchPanel extends JFrame implements ActionListener {
 				rollbackFileThread.start();
 			} else {
 				JOptionPane.showMessageDialog(null, "<html><body>請選擇正確的遊戲根目錄<br />目錄預設名為：<br />FINAL FANTASY XIV ONLINE</body></html>", "路徑錯誤", 0);
+				log.severe("Game path error!");
 				dispose();
 				new ConfigApplicationPanel();
 			} 

@@ -37,3 +37,7 @@ int32,str,str
 32,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","開放了多瑪飛地的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可以傳送到<hex:02100103>無二江流域（延夏方面）和甘戈斯了！"
 33,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","開放了水晶都的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可以傳送到雷克蘭德！"
 34,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","開放了游末邦的所有城內乙太之晶！<hex:02100103>作為獎勵，以後也可以傳送到珂露西亞島！"
+35,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN","舊薩雷安的「城內乙太之晶」全部開放了！"
+36,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP","舊薩雷安的「城內乙太之晶」全部開放了！<hex:02100103>可以通過都市傳送網傳送到「迷宮」了！"
+37,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN","拉札罕的「城內乙太之晶」全部開放了！"
+38,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP","拉札罕的「城內乙太之晶」全部開放了！<hex:02100103>可以通過都市傳送網傳送到「薩維奈島」了！"

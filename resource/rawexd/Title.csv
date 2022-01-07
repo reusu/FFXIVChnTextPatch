@@ -578,52 +578,50 @@ int32,str,str,bit&01,uint16
 573,"升歌採礦工","升歌採礦工",False,1639
 574,"升歌園藝工","升歌園藝工",False,1640
 575,"升歌捕魚人","升歌捕魚人",False,1641
-576,"全卡之騎士","全卡之騎士",True,1642
+576,"萬卡歸宗","萬卡歸宗",True,1642
 577,"速度之魔","速度之魔",True,1643
 578,"不知疲倦","不知疲倦",False,1644
-579,"遠洋之主","遠洋女士",True,1645
-580,"大漁","大漁",True,1646
+579,"異水之主","異水之主",True,1645
+580,"釣場之王","釣場之王",True,1646
 581,"狄蘭達爾的天使","狄蘭達爾的天使",True,1647
 582,"救生員","救生員",True,1648
-583,"黎明踏浪","黎明踏浪",True,1649
-584,"黑暗天啟見證","黑暗天啟見證",True,1650
-585,"高原堡襲擊者","高原堡襲擊者",True,1651
-586,"超調諧","超調諧",False,1652
-587,"指揮征服者","指揮征服者",True,1653
-588,"萊昂馴服者","萊昂馴服者",True,1654
-589,"札圖諾爾英雄","札圖諾爾英雄",True,1655
+583,"迎向黎明","迎向黎明",True,1649
+584,"見證暗黑天啟","見證暗黑天啟",True,1650
+585,"攻艦精銳","攻艦精銳",True,1651
+586,"超級調整兵","超級調整兵",False,1652
+587,"斬將","斬將",True,1653
+588,"獸王之王","獸王之王",True,1654
+589,"扎杜諾爾英雄","扎杜諾爾英雄",True,1655
 590,"女王之刃","女王之刃",True,1656
-591,"繡飾","繡飾",False,1657
-592,"女王選民","女王選民",True,1658
-593,"","",False,0
-594,"","",False,0
-593,"At War's Horizon","At War's Horizon",True,1659
-594,"At Magic's Horizon","At Magic's Horizon",True,1660
-595,"At Art's Horizon","At Art's Horizon",True,1661
-596,"At Land's Horizon","At Land's Horizon",True,1662
-597,"Magus Resister","Magus Resister",True,1663
-598,"Moonwalker","Moonwalker",True,1664
-599,"Lightingway","Lightingway",True,1665
-600,"Vrtra's Valiant","Vrtra's Valiant",True,1666
-601,"Elpiphoros","Elpiphoros",True,1667
-602,"Hope's Legacy","Hope's Legacy",True,1668
-603,"Endwalker","Endwalker",True,1669
-604,"Lemures","Lemures",True,1670
-605,"the Sagacious","the Sagacious",False,1671
-606,"Erudite Smith","Erudite Smith",True,1672
-607,"Erudite Artisan","Erudite Artisan",True,1673
-608,"Erudite Apothecary","Erudite Apothecary",True,1674
-609,"Erudite Seeker","Erudite Seeker",True,1675
-610,"Erudite Angler","Erudite Angler",True,1676
-611,"Honorary Academic","Honorary Academic",True,1677
-612,"the Seventh Dawn","the Seventh Dawn",False,1678
-613,"of Unbreakable Oath","of Unbreakable Oath",False,1679
-614,"of Unbreakable Steel","of Unbreakable Steel",False,1680
-615,"of Unbreakable Principle","of Unbreakable Principle",False,1681
-616,"of Unbreakable Lealty","of Unbreakable Lealty",False,1682
-617,"Gleaning Machine","Gleaning Machine",True,1683
-618,"the Keen","the Keen",False,1684
-619,"the Excruciatingly Excited","the Excruciatingly Excited",False,1685
-620,"on the Hype Tron","on the Hype Tron",False,1686
-621,"Lunaire Riche","Lunaire Riche",True,1687
-622,"Patron of the Fates","Patron of the Fates",True,1688
+591,"榮譽勳章","榮譽勳章",False,1657
+592,"女王欽點","女王欽點",True,1658
+593,"戰爭的地平線","戰爭的地平線",True,1659
+594,"魔法的地平線","魔法的地平線",True,1660
+595,"巧匠的地平線","巧匠的地平線",True,1661
+596,"自然的地平線","自然的地平線",True,1662
+597,"梅加斯抵抗者","梅加斯抵抗者",True,1663
+598,"月上行者","月上行者",True,1664
+599,"光路","光路",True,1665
+600,"星龍之勇者","星龍之勇者",True,1666
+601,"滿懷希望","滿懷希望",True,1667
+602,"希望的遺產","希望的遺產",True,1668
+603,"終末旅者","終末旅者",True,1669
+604,"死者之魂","死者之魂",True,1670
+605,"睿智者","睿智者",False,1671
+606,"博學鍛造師","博學鍛造師",True,1672
+607,"博學巧工匠","博學巧工匠",True,1673
+608,"博學藥劑師","博學藥劑師",True,1674
+609,"博學探索者","博學探索者",True,1675
+610,"博學垂釣者","博學垂釣者",True,1676
+611,"名譽學者","名譽學者",True,1677
+612,"拂曉","拂曉",False,1678
+613,"不破誓言","不破誓言",False,1679
+614,"不破鋼鐵","不破鋼鐵",False,1680
+615,"不破準則","不破準則",False,1681
+616,"不破信實","不破信實",False,1682
+617,"集收機器","集收機器",True,1683
+618,"輓歌","輓歌",False,1684
+619,"極痛狂喜","極痛狂喜",False,1685
+620,"狂喜騎手","狂喜騎手",False,1686
+621,"曉月之巨富","曉月之巨富",True,1687
+622,"命運的主顧","命運的主顧",True,1688

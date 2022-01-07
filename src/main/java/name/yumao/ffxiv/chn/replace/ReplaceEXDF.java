@@ -15,6 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Vector;
+import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
 import com.univocity.parsers.csv.CsvParser;
@@ -85,45 +86,48 @@ public class ReplaceEXDF {
 		File transtableFile;
 		Pattern pattern = null;
 		List<String> skipFiles = null;
-		// if (this.updates.size() == 0) {
+		Logger log = Logger.getLogger("GPLogger");
 		if (!this.csv) {
-			System.out.println("[ReplaceEXDF] Loading Transtable");
+			log.info("[ReplaceEXDF] Loading Transtable");
 			transtableFile = new File("conf" + File.separator + "transtable.properties");
 			transtableFile.deleteOnExit();
 			transtableFile.createNewFile();
 			Config.setConfigResource("transtable", "conf" + File.separator + "transtable.properties");
-			System.out.println("[ReplaceEXDF] Loading Root File...");
+			log.info("[ReplaceEXDF] Loading Root File...");
 			String patternStr = this.slang.equals("EN") ? "teemopattern" : "^[a-zA-Z0-9_'./\\s]*$";
 			pattern = Pattern.compile(patternStr);
 		}
 		System.out.println("[ReplaceEXDF] Initializing File List...");
+		log.info("[ReplaceEXDF] Initializing File List...");
 		initFileList();
 		System.out.println("[ReplaceEXDF] Loading Index File...");
+		log.info("[ReplaceEXDF] Loading Index File...");
 		HashMap<Integer, SqPackIndexFolder> indexSE = (new SqPackIndex(this.pathToIndexSE)).resloveIndex();
 		HashMap<Integer, SqPackIndexFolder> indexCN = null;
 		if (!this.csv) {
 			indexCN = (new SqPackIndex(this.pathToIndexCN)).resloveIndex();
-			System.out.println("[ReplaceEXDF] Resolved IndexCN");
+			log.info("[ReplaceEXDF] Resolved IndexCN");
 		} else {
-			System.out.println("[ReplaceEXDF] Skipped IndexCN");
+			log.info("[ReplaceEXDF] Skipped IndexCN");
 		}
 		System.out.println("[ReplaceEXDF] Loading Index Complete");
+		log.info("[ReplaceEXDF] Loading Index Complete");
 		LERandomAccessFile leIndexFile = new LERandomAccessFile(this.pathToIndexSE, "rw");
 		LERandomAccessFile leDatFile = new LERandomAccessFile(this.pathToIndexSE.replace("index", "dat0"), "rw");
 		long datLength = leDatFile.length();
 		leDatFile.seek(datLength);
 		if (!this.csv) {
 			try {
-				System.out.println("[ReplaceEXDF] Loading exQuestMap...");
+				log.info("[ReplaceEXDF] Loading exQuestMap...");
 				// exQuestMap這時候是個空的hashMap，透過以下兩行將東西填進去
 				this.exQuestMap = (new EXDFUtil(this.pathToIndexSE, this.pathToIndexCN, this.fileList)).exCompleteJournalSE(this.exQuestMap);
 				this.exQuestMap = (new EXDFUtil(this.pathToIndexSE, this.pathToIndexCN, this.fileList)).exQuestSE(this.exQuestMap);
-				System.out.println("[ReplaceEXDF] Loading exQuestMap Complete");
+				log.info("[ReplaceEXDF] Loading exQuestMap Complete");
 			} catch (Exception exception) {}
 			try {
-				System.out.println("[ReplaceEXDF] Loading transMap...");
+				log.info("[ReplaceEXDF] Loading transMap...");
 				this.transMap = (new EXDFUtil(this.pathToIndexSE, this.pathToIndexCN, this.fileList)).transMap(this.transMap);
-				System.out.println("[ReplaceEXDF] Loading transMap Complete");
+				log.info("[ReplaceEXDF] Loading transMap Complete");
 			} catch (Exception exception) {}
 			skipFiles = Arrays.asList(Config.getProperty("SkipFiles").toLowerCase().split("[|]"));
 		}
@@ -135,6 +139,8 @@ public class ReplaceEXDF {
 			percentPanel.percentShow((double)(++fileCount) / (double)fileList.size());
 			if (replaceFile.toUpperCase().endsWith(".EXH")) {
 				System.out.println("[ReplaceEXDF] Now File : " + replaceFile);
+				percentPanel.progressShow("正在替換文本：", replaceFile);
+				log.info("[ReplaceEXDF] Now File : " + replaceFile);
 				// 準備好檔案目錄名和檔案名
 				String filePatch = replaceFile.substring(0, replaceFile.lastIndexOf("/"));
 				String fileName = replaceFile.substring(replaceFile.lastIndexOf("/") + 1);
@@ -197,10 +203,12 @@ public class ReplaceEXDF {
 								}
 							} else {
 								System.out.println("\t\tCSV file not exists! " + csvPath);
+								log.warning("CSV file not exists! " + csvPath);
 								continue;
 							}
 						} catch (Exception csvFileIndexValueException) {
 							System.out.println("\t\tCSV Exception. " + csvFileIndexValueException.getMessage());
+							log.warning("CSV Exception. " + csvFileIndexValueException.getMessage());
 							continue;
 						}
 					}
@@ -210,7 +218,7 @@ public class ReplaceEXDF {
 						// 獲取資源檔案的CRC
 						Integer exdFileCRCJA = Integer.valueOf(FFCRC.ComputeCRC(fileName.replace(".EXH", "_" + String.valueOf(exdfPage.pageNum) + "_" + this.slang + ".EXD").toLowerCase().getBytes()));
 						// 進行CRC存在校驗
-						System.out.println("Replace File : " + fileName.substring(0, fileName.indexOf(".")));
+						log.info("Replace File : " + fileName.substring(0, fileName.indexOf(".")));
 						// 提取對應的文本檔案
 						SqPackIndexFile exdIndexFileJA = (SqPackIndexFile)((SqPackIndexFolder)indexSE.get(filePatchCRC)).getFiles().get(exdFileCRCJA);
 						byte[] exdFileJA = null;
@@ -222,8 +230,10 @@ public class ReplaceEXDF {
 						
 						// added 檢查日文檔案是否損毀
 						if (exdFileJA == null) {
-							System.out.println("      [ERROR] exdFileJA null detected!");
-							System.out.println("      [ERROR] exdIndexFileJA.getOffset(): " + String.valueOf(exdIndexFileJA.getOffset()));
+							System.out.println("\t\t[ERROR] exdFileJA null detected!");
+							log.severe("[ERROR] exdFileJA null detected!");
+							System.out.println("\t\t[ERROR] exdIndexFileJA.getOffset(): " + String.valueOf(exdIndexFileJA.getOffset()));
+							log.severe("[ERROR] exdIndexFileJA.getOffset(): " + String.valueOf(exdIndexFileJA.getOffset()));
 							continue;
 						}
 						
@@ -305,6 +315,7 @@ public class ReplaceEXDF {
 														case '<': {
 															if ((readString.charAt(i+1) == 'h') && (readString.charAt(i+2) == 'e') && (readString.charAt(i+3) == 'x')) {
 																if (isHexString) {
+																	log.warning("TagInTagException!" + readString);
 																	throw new Exception("TagInTagException!" + readString);
 																} else {
 																	isHexString = true;
@@ -411,7 +422,8 @@ public class ReplaceEXDF {
 		} 
 		leDatFile.close();
 		leIndexFile.close();
-		System.out.println("Replace Complete");
+		System.out.println("Replace Completed");
+		log.info("Replace Completed");
 	}
 	
 	private void initFileList() throws Exception {

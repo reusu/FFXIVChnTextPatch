@@ -1,6 +1,8 @@
 /backup/*
 /bin/
 /jre/
-/resource/text/
+/resource/font-4k/
 /resource/rawexd-zhcn/
-
+/resource/text/
+debug.*
+*.jar

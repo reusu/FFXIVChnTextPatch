@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_CTSERKEUREKA3ARMOR_00532_CRAFSMAN00532_000_000","沒想到能與名匠蓋羅爾特閣下一起工作……<hex:02100103>這正是我用來鍛煉自身技藝的千載難逢的機會，<hex:02100103>就讓我好好地學習學習天才的技術吧。"
+0,"TEXT_CTSERKEUREKA3ARMOR_00532_CRAFSMAN00532_000_000","沒想到能與名匠蓋羅爾特閣下一起工作……<hex:02100103>這正是我用來鍛鍊自身技藝的千載難逢的機會，<hex:02100103>就讓我好好地學習學習天才的技術吧。"
 1,"TEXT_CTSERKEUREKA3ARMOR_00532_CRAFSMAN00532_000_010","由我來代替名匠蓋羅爾特閣下負責為你製作防具。<hex:02100103>如果你準備好了素材，我馬上就可以為你進行製作。"
 2,"TEXT_CTSERKEUREKA3ARMOR_00532_TALK_ACTOR","（★未使用／削除予定★）"
 3,"TEXT_CTSERKEUREKA3ARMOR_00532_Q1_000_000","（★未使用／削除予定★）"
