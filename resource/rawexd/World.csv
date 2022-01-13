@@ -327,7 +327,7 @@ int32,str,str,WorldDCGroupType,byte,byte,bit&01
 1080,"TongLingTongShan","铜铃铜山",2,0,0,False
 1081,"ShenYiZhiDi","神意之地",2,0,0,False
 1082,"ShiJiuDaQiao","狮鹫大桥",2,0,0,False
-1083,"YongHengChuan","永恒川",2,0,0,False
+1083,"YongHengChuan","永恆川",2,0,0,False
 1084,"HaiWuShaTan","海雾沙滩",2,0,0,False
 1085,"HeFengLiuDi","和风流地",2,0,0,False
 1086,"ZeMeiErYaoSai","泽梅尔要塞",2,0,0,False
@@ -425,7 +425,7 @@ int32,str,str,WorldDCGroupType,byte,byte,bit&01
 1178,"RouFengHaiWan","柔风海湾",2,0,0,False
 1179,"HuPoYuan","琥珀原",2,0,0,False
 1180,"TaiYangHaiAn2","太阳海岸",0,0,0,False
-1181,"YongHengChuan2","永恒川",0,0,0,False
+1181,"YongHengChuan2","永恆川",0,0,0,False
 1182,"MoSHouLingYu2","魔兽领域",0,0,0,False
 1183,"YinLeiHu2","银泪湖",0,0,0,False
 1184,"HeFengLiuDi2","和风流地",0,0,0,False

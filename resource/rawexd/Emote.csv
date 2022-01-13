@@ -59,7 +59,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 54,"引用",688,0,0,673,673,0,0,True,True,True,1,0,False,True,False,False,False,5036,455,64063,0,0,0,1
 55,"黑渦團軍禮",726,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,10,456,64046,145,245,0,1
 56,"雙蛇黨軍禮",727,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,10,457,64047,146,246,0,1
-57,"恒輝隊軍禮",728,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,10,458,64048,147,247,0,1
+57,"恆輝隊軍禮",728,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,10,458,64048,147,247,0,1
 58,"祈禱",742,0,4814,4813,4813,0,0,True,True,True,1,0,False,True,False,False,False,1009,459,64064,178,278,0,1
 59,"帝國式軍禮",587,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,11,460,64066,179,279,23,1
 60,"頭部裝備操作",0,0,0,0,0,0,0,True,True,True,2,0,False,False,False,False,False,19999,461,64065,0,0,0,1
