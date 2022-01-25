@@ -1865,7 +1865,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 1860,"生命活動停滯","命脈斷絕對生命活動造成了巨大的負面影響，移動速度大幅降低",15117,0,1,2,4,6,False,False,False,False,False,False,False,False,False,100,False,False,False,0,1,False,0,False,False,0,0,False
 1861,"連擊效果提高","下次發動連擊的威力提高",12533,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1862,"無我","身形和雙掌打的效果時間停止流逝",12534,0,21,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,4,True,0,False,False,0,27,False
-1863,"龍眼","可以發動龍眼雷電<hex:020824E4E94517FF1C><hex:020818E0E94953FF10>或龍眼蒼穹<hex:FF01><hex:03><hex:FF01><hex:03>",12584,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
+1863,"龍睛","可以發動龍眼雷電<hex:020824E4E94517FF1C><hex:020818E0E94953FF10>或龍眼蒼穹<hex:FF01><hex:03><hex:FF01><hex:03>",12584,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1864,"猛槍","攻擊所造成的傷害提高",10304,0,23,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,False,10,0,False,0,False,False,0,0,False
 1865,"劍壓","不斷增強劍壓",19501,3,111,1,16,0,False,False,False,False,False,False,False,True,False,0,False,False,False,0,0,False,0,False,False,0,0,False
 1866,"毒菌衝擊","體力逐漸減少",13020,0,96,2,1,0,False,False,False,False,False,False,True,False,False,10,False,False,True,10,0,False,0,False,False,0,0,False
