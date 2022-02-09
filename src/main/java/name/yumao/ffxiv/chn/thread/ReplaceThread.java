@@ -42,9 +42,11 @@ public class ReplaceThread implements Runnable {
 			*/
 			PercentPanel percentPanel = new PercentPanel("漢化進度");
 			new ReplaceFont(this.resourceFolder + File.separator + "000000.win32.index", "resource" + File.separator + "font", percentPanel).replace();
-			if ((new File("resource" + File.separator + "rawexd" + File.separator + "Achievement.csv")).exists()) {
+			if ((this.slang == "CSV") && (new File("resource" + File.separator + "rawexd" + File.separator + "Achievement.csv")).exists()) {
+				log.info("Start patching with CSV files.");
 				(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "rawexd" + File.separator + "Achievement.csv", percentPanel)).replace();
-			} else if ((new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
+			} else if ((this.slang != "CSV") && (new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
+				log.info("Start patching with 0a0000 files.");
 				(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "text" + File.separator + "0a0000.win32.index", percentPanel)).replace();
 			} else {
 				System.out.println("No resource files detected!");
@@ -57,7 +59,7 @@ public class ReplaceThread implements Runnable {
 		} catch (Exception exception) {
 			JOptionPane.showMessageDialog(null, "<html><body>程式錯誤！</body></html>", "漢化錯誤", 0);
 			log.severe("Patch failed!");
-			log.severe(exception.getMessage());
+			log.log(Level.SEVERE, "Error Messages:", exception);
 			exception.printStackTrace();
 		} 
 	}
