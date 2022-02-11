@@ -19,12 +19,14 @@ public class ReplaceThread implements Runnable {
 	private TextPatchPanel textPatchPanel;
 	// private List<TeemoUpdateVo> updates;
 	private String slang;
+	private String flang;
 	
 	public ReplaceThread(String resourceFolder, TextPatchPanel textPatchPanel) {
 		this.resourceFolder = resourceFolder;
 		this.textPatchPanel = textPatchPanel;
 		// this.updates = updates;
 		this.slang = Config.getProperty("SLanguage");
+		this.flang = Config.getProperty("FLanguage");
 	}
 	
 	public void run() {
@@ -42,10 +44,10 @@ public class ReplaceThread implements Runnable {
 			*/
 			PercentPanel percentPanel = new PercentPanel("漢化進度");
 			new ReplaceFont(this.resourceFolder + File.separator + "000000.win32.index", "resource" + File.separator + "font", percentPanel).replace();
-			if ((this.slang == "CSV") && (new File("resource" + File.separator + "rawexd" + File.separator + "Achievement.csv")).exists()) {
+			if ((this.flang.equals("CSV")) && (new File("resource" + File.separator + "rawexd" + File.separator + "Achievement.csv")).exists()) {
 				log.info("Start patching with CSV files.");
 				(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "rawexd" + File.separator + "Achievement.csv", percentPanel)).replace();
-			} else if ((this.slang != "CSV") && (new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
+			} else if (!(this.flang.equals("CSV")) && (new File("resource" + File.separator + "text" + File.separator + "0a0000.win32.index")).exists()) {
 				log.info("Start patching with 0a0000 files.");
 				(new ReplaceEXDF(this.resourceFolder + File.separator + "0a0000.win32.index", "resource" + File.separator + "text" + File.separator + "0a0000.win32.index", percentPanel)).replace();
 			} else {

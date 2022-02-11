@@ -2594,7 +2594,7 @@ int32,str,str,Image,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit&02,b
 2589,"絞首效果提高","下一次發動的絞首威力提高",12928,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,50,2,False,False,0,0,False,0,False,False,0,0,0,False
 2590,"虛無收割效果提高","下一次發動的虛無收割威力提高",12929,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,50,2,False,False,0,0,False,0,False,False,0,0,0,False
 2591,"十字收割效果提高","下一次發動的十字收割威力提高",12930,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,50,2,False,False,0,0,False,0,False,False,0,0,0,False
-2592,"死亡供品","可以發動豐收",17287,0,8,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
+2592,"死亡供品","可以發動豐獲",17287,0,8,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2593,"遊魂","擁有化身的狀態",12931,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2594,"魂力播種","可以發動獲月",12932,0,0,180,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2595,"回歸預備","可以發動回歸",12933,0,0,180,1,0,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,False,0,0,0,False
