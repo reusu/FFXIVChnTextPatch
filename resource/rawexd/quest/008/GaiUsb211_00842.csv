@@ -3,9 +3,9 @@
 offset,0,4
 int32,str,str
 0,"TEXT_GAIUSB211_00842_SEQ_00","葡萄酒港的比格萊恩特，看上去十分惱怒。"
-1,"TEXT_GAIUSB211_00842_SEQ_01","比格萊恩特對葡萄酒瓶塞的軟木質量極為不滿。討伐5隻<hex:02280FFF09>BNpcName<hex:F202AC0103>，獲得<hex:022811FF0A>EventItem<hex:F61E870E0103>。"
+1,"TEXT_GAIUSB211_00842_SEQ_01","比格萊恩特對葡萄酒瓶塞的軟木品質極為不滿。討伐5隻<hex:02280FFF09>BNpcName<hex:F202AC0103>，獲得<hex:022811FF0A>EventItem<hex:F61E870E0103>。"
 2,"TEXT_GAIUSB211_00842_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E870E0103>。將其交給葡萄酒港的比格萊恩特。"
-3,"TEXT_GAIUSB211_00842_SEQ_03","比格萊恩特對軟木的質量表示滿意了。他對葡萄酒有著極不尋常的熱情。"
+3,"TEXT_GAIUSB211_00842_SEQ_03","比格萊恩特對軟木的品質表示滿意了。他對葡萄酒有著極不尋常的熱情。"
 4,"TEXT_GAIUSB211_00842_SEQ_04",""
 5,"TEXT_GAIUSB211_00842_SEQ_05",""
 6,"TEXT_GAIUSB211_00842_SEQ_06",""

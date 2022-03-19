@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_000","看你這樣子不是來買巨膽石的商人吧。<hex:02100103>有什麼想了解的事情就來問我吧。"
+1,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_Q1_000_000","想了解什麼？"
+2,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_001","你是做什麼的？"
+3,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_A1_000_003","取消"
+5,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_010","就如你所見，我是這個採石場的一名石工。<hex:02100103>從小就看著在這裡幹活的父親的背影長大，<hex:02100103>如今我們父子二代人都在這裡負責切割巨膽石。"
+6,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_011","這裡的工作全都是重體力勞動，<hex:02100103>有時鑿完石頭的碎片飛濺還會弄傷自己。<hex:02100103>不過即便這樣，我還是對這份出產島上特產品的工作感到自豪。"
+7,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_020","這裡是巨膽石採掘場。<hex:02100103>巨膽石又稱巨人石，是一種呈現獨特紫色的石材，<hex:02100103>不僅非常堅硬而且還具有良好的乙太傳導率，可以用來製作武具。"
+8,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_021","附近原來有座桓娑牧場，<hex:02100103>可被那座塔裡出來的魔物化為了廢墟。<hex:02100103>就連這裡也不知道能幹到什麼時候呢。"
+9,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_022","附近原來有座桓娑牧場，<hex:02100103>可被那座塔裡出來的魔物化為了廢墟。<hex:02100103>不過在這邊受到損失之前那座塔不見了，說實話總算是安心了。"
+10,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_023","所以即便在這種狀況下我們石工還是在拚命幹活。<hex:02100103>為了支援守護薩維奈島而戰的星戰士團，<hex:02100103>我們可不能停止巨膽石的供給啊。"
+11,"TEXT_REGISB5GIANTSGALLGROUNDS_00749_AFIRAZ_000_024","塔消失了，末日也已經過去了，<hex:02100103>如今我們石工更應該努力開採石材。<hex:02100103>不管怎麼說，巨膽石可是薩維奈島引以自豪的特產啊！"

@@ -50,14 +50,14 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 45,0,"乙太填充率",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 46,0,"混沌",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 47,0,"絕望",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-48,0,"六合結界的術式展開度",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+48,0,"六合結界術式展開度",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 49,0,"敵軍警戒度",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 50,0,"佐迪亞克的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 51,0,"乙太填充率",4,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 52,0,"",0,False,"",0,0,0,0,0,0,0
 53,0,"",0,False,"",0,0,0,0,0,0,0
 54,1,"",0,True,"",600,1,0,900,1,0,0
-55,0,"法丹尼爾的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+55,0,"法夫尼爾的魔力",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 56,0,"不死鳥的魔力",2,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
 57,0,"維涅斯的乙太",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
 58,0,"",0,False,"",0,0,0,0,0,0,0

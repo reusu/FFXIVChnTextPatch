@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_000","哇哇哇，人、人類大人來找我說話啦！<hex:02100103>您、您有什麼事吩咐？！"
+1,"TEXT_REGUNI5BESTWAYSBURROW_00754_Q1_000_000","想了解什麼？"
+2,"TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_001","你是做什麼的？"
+3,"TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_003","取消"
+5,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_010","您、您是問我嗎？！我是一名管理技師。<hex:02100103>那邊那個發亮的光球，我們叫它中央控制球，<hex:02100103>我的工作就是負責它的操作與維護。"
+6,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_011","中央控制球是整個最佳威兔洞設施的核心，統管兔洞裡所有的功能。<hex:02100103>如果它壞掉了的話，所有部門的工作效率都會降低，<hex:02100103>是非常非常重要的東西！"
+7,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_020","這裡是最佳威兔洞。<hex:02100103>這個名字代表住在這裡的兔兔族們都是乖乖工作的好孩子，<hex:02100103>我們住在這裡的每一天都時刻記得海德林大人託付給我們的使命。"
+8,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_021","所以聽話的我們，已經把月球改造成了跨越星空的宇宙飛船，<hex:02100103>現在正在為迎接各位人類登船出發做最後的準備啦。<hex:02100103>請各位安心地期待兔兔族們提供的最佳宇宙航行體驗吧！"
+9,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_022","我們為了幫人類逃離末日，在月球上準備了這麼久，<hex:02100103>結果人類卻坐了別的船去了宇宙盡頭。<hex:02100103>嗚嗚……我們努力了這麼久，感覺好浪費，好可惜呀！"
+10,"TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_023","聽說人類靠著自己的努力度過了末日的危機呀。<hex:02100103>雖然我們費心費力準備的飛船沒有用處了，<hex:02100103>但這對人類來說應該是最好的結果！"
+11,"TEXT_REGUNI5BESTWAYSBURROW_00754_TALK_ACTOR","（★未使用／削除予定★）"

@@ -2,7 +2,7 @@
 #,RequiredReputation,Name,AlliedNames,Color
 offset,12,0,4,8
 int32,uint16,str,str,UIColor
-0,0,"なし","なし",0
+0,0,"無","無",0
 1,150,"中立","中立",56
 2,360,"承認","承認",57
 3,510,"友好","友好",58

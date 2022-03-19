@@ -16,6 +16,8 @@ int32,str,str
 11,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_050_006","如果我猜測得沒有錯，<hex:02100103>你就把那個魔法人偶拿給「他」看看吧。<hex:02100103>看到後他就能理解我想要表達的意思了。"
 12,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_060_006","我想轉告他的話已經都託付給你了。<hex:02100103>怎麼理解我的話是他的自由，只希望他能不留下遺憾。<hex:02100103>當然，你也是。"
 13,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_070_006","你今天沒帶著監督員一起來呀。<hex:02100103>那正好，最近我翻出來了一頁很有意思的報告，你也來看看吧。"
+14,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_080_006","喲，我們通過諾亞的監視人員了解到了你的表現。<hex:02100103>聽說又發現了新的關於亞蒙和贊德的事實啊。<hex:02100103>下次有機會跟我們好好講講吧。"
+15,"TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_090_006","拂曉解散，而他也回到了巴爾德西昂分館，<hex:02100103>當然我們今後還是會留在這裡繼續進行研究。<hex:02100103>所以如果想查看調查記錄的話，可以隨時過來。"
 16,"TEXT_REGLAKSAINTCOINACHSFIND_00113_Q1_000_000","想了解什麼？"
 17,"TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_000_001","你是做什麼的？"
 18,"TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_000_002","這裡是什麼地方？"

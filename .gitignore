@@ -1,5 +1,6 @@
 /backup/*
 /bin/
+/docs/scripts/*
 /jre/
 /resource/font-4k/
 /resource/rawexd-zhcn/

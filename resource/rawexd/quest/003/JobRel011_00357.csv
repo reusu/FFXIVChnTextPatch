@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,"TEXT_JOBREL011_00357_SEQ_00","向喪靈鐘的帕帕娜諮詢黃道武器古書一事。"
 1,"TEXT_JOBREL011_00357_SEQ_01","帕帕娜手中有描寫古代英雄武器的古書。為了換到古書，集齊<hex:02280BFF05>Item<hex:F225430103>、<hex:02280BFF05>Item<hex:F225440103>、<hex:02280BFF05>Item<hex:F225420103>，交給喪靈鐘的帕帕娜。<hex:02280BFF05>Item<hex:F225420103>應該能在拉諾西亞高地的石綠湖周邊買到。"
-2,"TEXT_JOBREL011_00357_SEQ_02","帕帕娜不滿意貨物的質量，不得不答應她的新要求。突破山中戰線澤梅爾要塞，獲取<hex:022811FF0A>EventItem<hex:F61E8A780103>。突破紛爭要地布雷福洛克斯野營地，獲取<hex:022811FF0A>EventItem<hex:F61E8A790103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。"
+2,"TEXT_JOBREL011_00357_SEQ_02","帕帕娜不滿意貨物的品質，不得不答應她的新要求。突破山中戰線澤梅爾要塞，獲取<hex:022811FF0A>EventItem<hex:F61E8A780103>。突破紛爭要地布雷福洛克斯野營地，獲取<hex:022811FF0A>EventItem<hex:F61E8A790103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。"
 3,"TEXT_JOBREL011_00357_SEQ_03","獲得了帕帕娜委託的物品。將<hex:022811FF0A>EventItem<hex:F61E8A780103>與<hex:022811FF0A>EventItem<hex:F61E8A790103>交給喪靈鐘的帕帕娜。"
 4,"TEXT_JOBREL011_00357_SEQ_04","將委託品交給了帕帕娜。但據說在冒險者進行籌備的這段時間裡有新的買家出現了。帕帕娜要求冒險者準備更多東西。突破劍鬥領域日影地修鍊所，獲取<hex:022811FF0A>EventItem<hex:F61E8A7A0103>。突破凜冽洞天披雪大冰壁，獲取<hex:022811FF0A>EventItem<hex:F61E8A7B0103>。<hex:02100103><hex:02100103>※可以通過任務搜尋器參加。"
 5,"TEXT_JOBREL011_00357_SEQ_05","獲得了帕帕娜委託的物品。將<hex:022811FF0A>EventItem<hex:F61E8A7A0103>與<hex:022811FF0A>EventItem<hex:F61E8A7B0103>交給喪靈鐘的帕帕娜。"

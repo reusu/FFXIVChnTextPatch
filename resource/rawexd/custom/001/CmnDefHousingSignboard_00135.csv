@@ -6,3 +6,5 @@ int32,str,str
 1,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2","此外，所屬黑渦團的情況下，軍銜需在「協漩尉」以上，<hex:02100103>所屬雙蛇黨的情況下，軍銜需在「協牙尉」以上，<hex:02100103>所屬恆輝隊的情況下，軍銜需在「協耀尉」以上。"
 2,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED","白銀鄉現還處於售前展示狀態。<hex:02100103>在土地正式對外銷售前，請您耐心等待。"
 3,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY","想要在白銀鄉購買土地，<hex:02100103>需要先完成「紅蓮之狂潮主線任務」中的「乘風破浪」。"
+4,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED","穹頂皓天現還處於售前展示狀態。<hex:02100103>在土地正式對外銷售前，請您耐心等待。"
+5,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY",""

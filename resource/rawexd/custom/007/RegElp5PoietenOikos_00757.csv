@@ -1,0 +1,14 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_000","啊……你是使魔吧。<hex:02100103>正在獨自參觀厄爾庇斯啊。<hex:02100103>有什麼問題的話，就讓我來為你解答吧？"
+1,"TEXT_REGELP5POIETENOIKOS_00757_Q1_000_000","想了解什麼？"
+2,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_001","你是做什麼的？"
+3,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_002","這裡是什麼地方？"
+4,"TEXT_REGELP5POIETENOIKOS_00757_A1_000_003","取消"
+5,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_010","怎麼，想了解我嗎？<hex:02100103>我是創作者之家的職員。<hex:02100103>同時也是一位取名人。"
+6,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_011","我的使命就是為創造物起名字，<hex:02100103>所以經常會通過構想詩歌的方式進行練習。<hex:02100103>這樣日積月累的付出會有助於我取出好名字。"
+7,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_020","這裡是創造者之家。<hex:02100103>既是負責審查創造物的觀察者們的據點，<hex:02100103>也是取名人聚集、相互切磋共同提高的地方。"
+8,"TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_021","這個名字裡有很多含義，<hex:02100103>最契合的應該是說這個地方聚集了許多「胸藏筆墨腹有詩書的人」。<hex:02100103>畢竟我們取名人的使命就是在用名字來表達生命。"
+9,"TEXT_REGELP5POIETENOIKOS_00757_TALK_ACTOR","（★未使用／削除予定★）"
