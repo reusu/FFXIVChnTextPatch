@@ -391,7 +391,7 @@ int32,str,str,Image,byte,byte,byte,byte,StatusHitEffect,StatusLoopVFX,bit&01,bit
 386,"打破幻覺：獨木橋","打破了正在過獨木橋的幻覺",15973,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
 387,"墜落幻覺","因看到了從獨木橋墜落的幻覺而無法動彈",15974,0,0,1,2,0,0,True,False,True,False,False,False,False,False,False,150,0,False,False,0,4,False,0,False,False,0,0,0,False
 388,"幻覺：自我變異","讓對方看到自己的身體發生變異的幻覺",15975,69,0,1,1,16,0,False,False,False,False,True,False,False,True,True,200,0,False,False,10,2,False,0,False,False,0,0,0,False
-389,"槍杆擊","發動攻擊所造成的傷害及自身發動的體力恢復效果降低",14808,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
+389,"槍桿擊","發動攻擊所造成的傷害及自身發動的體力恢復效果降低",14808,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
 390,"生長中","獲取養分不斷生長",19541,89,5,1,1,16,0,False,False,False,False,True,False,False,False,False,199,0,False,False,40,26,False,0,False,False,0,0,0,False
 391,"成形","生長完成",15971,89,0,1,1,16,113,False,False,False,False,True,False,False,False,False,200,0,False,False,50,26,False,0,False,False,0,0,0,False
 392,"王室親衛","自身仇恨提高",13603,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,200,0,False,0,False,False,0,0,0,False
