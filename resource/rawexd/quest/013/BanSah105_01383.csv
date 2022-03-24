@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,"TEXT_BANSAH105_01383_SEQ_00","諾布養育場的菲烏髮現了會引起爭鬥的事端。"
+0,"TEXT_BANSAH105_01383_SEQ_00","諾布養育場的菲烏發現了會引起爭鬥的事端。"
 1,"TEXT_BANSAH105_01383_SEQ_01","菲烏委託冒險者去解救被珊瑚尖槍囚禁的黑渦團士兵。和魚人軍陣營西邊負責看守的<hex:02280FFF09>BNpcName<hex:F20AA10103>對話，討伐發起攻擊的<hex:02280FFF09>BNpcName<hex:F20AA10103>並從其身上獲取<hex:022811FF0A>EventItem<hex:F61E89660103>。"
 2,"TEXT_BANSAH105_01383_SEQ_02","獲得了<hex:022811FF0A>EventItem<hex:F61E89660103>。對魚人軍陣營西邊的被囚禁的黑渦團士兵使用<hex:022811FF0A>EventItem<hex:F61E89660103>。"
 3,"TEXT_BANSAH105_01383_SEQ_03","釋放了被囚禁的黑渦團士兵。向諾布養育場的菲烏報告。"
