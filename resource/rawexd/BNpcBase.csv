@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
 #,Behavior,Battalion,LinkRace,Rank,Scale,ModelChara,BNpcCustomize,NpcEquip,Special,SEPack,,ArrayEventHandler,BNpcParts,,IsTargetLine,IsDisplayLevel,,,,,
-offset,8,18,19,20,0,10,12,14,16,21,26,4,22,26,26,26,26,26,23,24,25
-int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,uint16,byte,bit&01,ArrayEventHandler,BNpcParts,bit&02,bit&04,bit&08,bit&10,bit&20,byte,byte,byte
+offset,8,18,19,20,0,10,12,14,16,21,27,4,22,23,27,27,27,27,24,25,26
+int32,Behavior,Battalion,LinkRace,byte,single,ModelChara,BNpcCustomize,NpcEquip,uint16,byte,bit&01,ArrayEventHandler,BNpcParts,byte,bit&02,bit&04,bit&08,bit&10,byte,byte,byte
 0,0,4,0,0,1,0,0,0,0,0,False,0,0,True,True,True,True,False,0,0,0
 1,0,4,0,0,1,0,2,366,0,0,False,0,0,True,True,True,True,False,0,0,0
 2,0,4,0,0,1,96,0,0,0,0,False,851976,0,True,True,True,True,False,0,0,0
